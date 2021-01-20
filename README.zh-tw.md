@@ -11,7 +11,6 @@
 編輯器：Sublime, Visual Studio Code, Vim
 
 ## 經歷
-
 ### Web 前端工程師@騰訊科技股份有限公司(Tencent)
 > _2016/01 - 現在📍中國深圳_
 
@@ -72,7 +71,7 @@ PTC Arbortext 文件自動化功能 _(Javascript)_
 ## 教育
 
 Bachelor of Information Technology _(2008/03 - 2010/06)_
-> Griffith University (格里菲斯大學)📍澳洲 
+> Griffith University (格里菲斯大學)📍澳洲
 
 Diploma of Information Technology _(2007/03 - 2007/10)_
 > QIBT📍澳洲
