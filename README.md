@@ -4,7 +4,7 @@ _Front-end engineer based in Shenzhen, China_
 
 [Email](mailto:hoyang.t@gmail.com) / [Blog](https://hoyangtsai.github.io/blog) / [LinkedIn](https://www.linkedin.com/in/hoyangtsai/) / [GitHub](https://github.com/hoyangtsai/)
 
-- [個人簡歷](README.zh-tw.md)
+[個人簡歷](README.zh-tw.md)
 
 ## Speciality
 
@@ -52,7 +52,7 @@ Firefox OS (Collaboration with Mozilla Taiwan)
 - Clock App
 - Contact App
 
-Own development
+Own development apps
 
 - Name Card Management
 - Cloud Drive
@@ -77,10 +77,10 @@ PTC Arbortext document automation _(Javascript)_
 ## Education
 
 Bachelor of Information Technology _(2008/03 - 2010/06)_
-> Griffith University📍Australia
+> Griffith University 📍 Australia
 
 Diploma of Information Technology _(2007/03 - 2007/10)_
-> QIBT📍Australia
+> QIBT 📍 Australia
 
 ## 語言
 
