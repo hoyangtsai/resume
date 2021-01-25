@@ -1,6 +1,6 @@
-# 蔡和洋的個人簡歷
+# 個人簡歷
 
-* 目前位於中國深圳的騰訊擔任前端工程師 *
+_位於中國深圳的騰訊擔任前端工程師_
 
 [Email](mailto:hoyang.t@gmail.com) / [Blog](https://hoyangtsai.github.io/blog) / [LinkedIn](https://www.linkedin.com/in/hoyangtsai/) / [GitHub](https://github.com/hoyangtsai/)
 
@@ -10,8 +10,9 @@
 版本管理：Git, SVN  
 編輯器：Sublime, Visual Studio Code, Vim
 
-## 經歷
+## 工作經歷
 ### Web 前端工程師@騰訊科技股份有限公司(Tencent)
+
 > _2016/01 - 現在📍中國深圳_
 
 **CDG 事業群 - 金融科技中心 FiT _(2018/06 - 現在)_**
@@ -26,18 +27,19 @@
 
 **MIG 事業群 - 應用寶中心 _(2016/01 - 2018/06)_**
 
-創業服務
+開放平台
 
 - 創業服務平台
 - 各地孵化器空間 - 眾創空間
-- 學術創業支援 - 青騰大學
+- 校園創業支援 - 青騰大學
 - 騰訊 AI 開放平台
 
 第三方安卓市場
 
-- 安卓應用開發後台
+- 開發管理後台
 
 ### 前端工程師@鴻海精密工業股份有限公司
+
 > _2013/07 - 2015/08📍台灣高雄_
 
 **iDSBG 事業群 - 軟體系統開發處**
@@ -54,6 +56,7 @@ Firefox OS (與Mozilla Taiwan共同合作開發)
 - 餐廳搜索
 
 ### 軟體工程師@富博科技公司
+
 > _2011/10 - 2013/04📍台灣高雄_
 
 PTC Windchill PLM 系統客製化與功能擴充 _(Java)_
