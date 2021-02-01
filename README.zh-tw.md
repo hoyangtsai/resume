@@ -85,7 +85,7 @@ Diploma of Information Technology _(2007/03 - 2007/10)_
 
 ## 語言
 
-中文 - 母語  
+中文 - 母語
 英文 - 精通
 
 ## 作品集
