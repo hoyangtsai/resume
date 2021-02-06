@@ -84,7 +84,7 @@ Diploma of Information Technology _(2007/03 - 2007/10)_
 
 ## Language
 
-- Chinese — Native
+- Chinese — Native
 - English — Proficient
 
 ## Portfolio
