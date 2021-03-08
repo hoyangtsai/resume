@@ -45,7 +45,7 @@ The third party Android market
 
 > _2013/07 - 2015/08 📍 Kaohsiung, Taiwan_
 
-**iDSBG - Software system development division**
+**iDSBG - Software System Development Division**
 
 Firefox OS (Collaboration with Mozilla Taiwan)
 
