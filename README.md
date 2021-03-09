@@ -32,12 +32,12 @@ Wechat financial application, mini-program and web apps
 
 Open platform
 
-- Venture service platform
-- Local site start-up incubator
-- Campus start-up business support
-- Tencent AI open API demo
+- Venture business platform
+- Local start-up incubator site
+- Campus start-up business
+- Tencent AI open API demos
 
-The third party Android market
+Tencent android app store
 
 - Devloper dashboard
 
