@@ -32,14 +32,12 @@ Wechat financial application, mini-program and web apps
 
 Open platform
 
-- Venture business platform
-- Local start-up incubator site
-- Campus start-up business
+- Entrepreneurship platform
 - Tencent AI open API demos
 
 Tencent android app store
 
-- Devloper dashboard
+- Developer dashboard
 
 ### Front-end engineer@Hon-hai CO. LTD. (Foxconn)
 
