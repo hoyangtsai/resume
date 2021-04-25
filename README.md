@@ -8,27 +8,27 @@ _Front-end engineer based in Shenzhen, China_
 
 ## Speciality
 
-Coding：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL  
+Coding：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
 Version Control：Git, SVN  
-Text Editor：Sublime, Visual Studio Code, Vim
+Text Editor：Sublime, Visual Studio Code, Vim  
 
 ## Work Experience
 
 ### Web Fornt-end Engineer@Tencent
 
-> _2016/01 - Now 📍 Shenzhen, China_
+> _2016/01 - 2021/04 📍 Shenzhen, China_
 
-**CDG - FiT _(2018/06 - Now)_**
+**CDG - FiT**
 
 Wechat financial application, mini-program and web apps
 
 - Fund trading platform
 - Fund institutions management system
-- Gold exchange agency
+- Gold exchange agency platform
 - Tencent associated credit card
 - Currency exchange service
 
-**MIG - Tencent Android market _(2016/01 - 2018/06)_**
+**MIG - Tencent Android market**
 
 Open platform
 
@@ -39,18 +39,18 @@ Tencent android app store
 
 - Developer dashboard
 
-### Front-end engineer@Hon-hai CO. LTD. (Foxconn)
+### Front-end engineer@Foxconn
 
 > _2013/07 - 2015/08 📍 Kaohsiung, Taiwan_
 
 **iDSBG - Software System Development Division**
 
-Firefox OS (Collaboration with Mozilla Taiwan)
+Firefox OS (Collaboration developement with Mozilla Taiwan)
 
 - Clock App
 - Contact App
 
-Own development apps
+Web apps
 
 - Name Card Management
 - Cloud Drive
