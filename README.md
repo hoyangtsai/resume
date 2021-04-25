@@ -16,7 +16,7 @@ Text Editor：Sublime, Visual Studio Code, Vim
 
 ### Web Fornt-end Engineer@Tencent
 
-> _2016/01 - 2021/04 📍 Shenzhen, China_
+> _2016/01 - 2021/03 📍 Shenzhen, China_
 
 **CDG - FiT**
 
