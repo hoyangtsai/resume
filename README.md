@@ -22,13 +22,13 @@ Text Editor：Sublime, Visual Studio Code, Vim
 
 Wechat financial application, mini-program and web apps
 
-- Fund trading platform (ToC) - 一起投
-- Fund institutions management system (ToB)
-- Gold sale agency platform (微黃金)
-- Tencent associated credit card (騰訊微加信用卡)
-- Currency exchange service (貨幣兌換)
+- Fund trading platform
+- Fund institutions management system
+- Gold exchange agency
+- Tencent associated credit card
+- Currency exchange service
 
-**MIG - Tencent Android market (應用寶) _(2016/01 - 2018/06)_**
+**MIG - Tencent Android market _(2016/01 - 2018/06)_**
 
 Open platform
 
@@ -60,7 +60,7 @@ Own development apps
 
 > _2011/10 - 2013/04 📍 Kaohsiung, Taiwan_
 
-PTC Windchill PLM 系統客製化與功能擴充 _(Java)_
+PTC Windchill Product Lifecycle Management System Customization _(Java)_
 
 - Refer to client requirements to provide personalize design portal and functionality extension like manufacturing documentation and using iReport to extend a function of documents print out PDF
 
