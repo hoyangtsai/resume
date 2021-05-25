@@ -14,7 +14,7 @@ Text Editor：Sublime, Visual Studio Code, Vim
 
 ## Work Experience
 
-### Web Fornt-end Engineer@Tencent
+### Fornt-end Engineer@Tencent
 
 > _2016/01 - 2021/03 📍 Shenzhen, China_
 
@@ -39,7 +39,7 @@ Tencent android app store
 
 - Developer dashboard
 
-### Front-end engineer@Foxconn
+### Front-end Engineer@Foxconn
 
 > _2013/07 - 2015/08 📍 Kaohsiung, Taiwan_
 
@@ -56,7 +56,7 @@ Web apps
 - Cloud Drive
 - Restaurant Search
 
-### Software engineer@Hismax Tech
+### Software Engineer@Hismax Tech
 
 > _2011/10 - 2013/04 📍 Kaohsiung, Taiwan_
 
