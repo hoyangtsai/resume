@@ -21,6 +21,14 @@
       gtag('config', '{{ site.google_analytics }}');
     </script>
     {% endif %}
+
+    <style>
+        @media print {
+            .view, .link, footer {
+                display: none;
+            }
+        }
+    </style>
   </head>
   <body>
     <div class="wrapper">

@@ -1,10 +1,12 @@
 # Resume
 
-_Front-end engineer based in Shenzhen, China_
+<a class="link" href="README.zh-tw">個人簡歷</a>
 
-[Email](mailto:hoyang.t@gmail.com) / [Blog](https://hoyangtsai.github.io/blog) / [LinkedIn](https://www.linkedin.com/in/hoyangtsai/) / [GitHub](https://github.com/hoyangtsai/)
+## Contact Info
 
-[個人簡歷](README.zh-tw.md)
+Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)  
+Linkedin: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)  
+GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 
 ## Speciality
 
@@ -87,4 +89,4 @@ Diploma of Information Technology _(2007/03 - 2007/10)_
 
 ## Portfolio
 
-[Portfolio](https://hoyangtsai.github.io/portfolio/)
+[https://hoyangtsai.github.io/portfolio](https://hoyangtsai.github.io/portfolio)

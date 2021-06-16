@@ -1,8 +1,10 @@
-# 個人簡歷
+# 蔡和洋的個人簡歷
 
-_位於中國深圳的騰訊擔任前端工程師_
+## 聯絡資訊
 
-[Email](mailto:hoyang.t@gmail.com) / [Blog](https://hoyangtsai.github.io/blog) / [LinkedIn](https://www.linkedin.com/in/hoyangtsai/) / [GitHub](https://github.com/hoyangtsai/)
+Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)  
+Linkedin: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)  
+GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 
 ## 專業技能
 
@@ -90,4 +92,4 @@ Diploma of Information Technology _(2007/03 - 2007/10)_
 
 ## 作品集
 
-[作品集](https://hoyangtsai.github.io/portfolio/)
+[https://hoyangtsai.github.io/portfolio](https://hoyangtsai.github.io/portfolio)
