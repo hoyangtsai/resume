@@ -3,7 +3,7 @@
 ## 聯絡資訊
 
 Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)  
-Linkedin: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)  
+LinkedIn: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)  
 GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 
 ## 專業技能
