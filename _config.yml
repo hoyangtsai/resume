@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Hoyang Tsai's Resume
-description: A software engineer as a front-end developer.
+description: 
 logo: assets/20130703.jpg
 google_analytics: G-6219R1CH71
 exclude: ["Gemfile", "Gemfile.lock", "run.sh"]

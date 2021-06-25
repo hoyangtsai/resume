@@ -1,5 +1,4 @@
-# 蔡和洋的個人簡歷
-
+<a class="link" href="/"></a>
 ## 聯絡資訊
 
 Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)  
@@ -8,13 +7,13 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 
 ## 專業技能
 
-編碼：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
+程式語言：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
 版本管理：Git, SVN  
-編輯器：Sublime, Visual Studio Code, Vim
+編輯器：Sublime, VS Code, Vim
 
 ## 工作經歷
 
-### Web 前端工程師@騰訊科技股份有限公司(Tencent)
+### Web 前端工程師@騰訊科技 Tencent
 
 > _2016/01 - 2021/03 📍 中國深圳_
 
@@ -23,12 +22,12 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 微信場景金融應用，小程序和內嵌 webview 應用
 
 - 基金組合銷售平台 (一起投)
-- 基金機構管理系統
-- 黃金代理銷售平台 (微黃金)
-- 騰訊聯名信用卡 (微加信用卡)
-- 貨幣兌換服務平台
+- 基金管理系統
+- 黃金銷售投資 App (微黃金)
+- 聯名信用卡 (微加信用卡)
+- 貨幣兌換平台
 
-**MIG 事業群 - 應用寶中心**
+**MIG 事業群**
 
 開放平台
 
@@ -41,7 +40,7 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 
 - 開發者管理後台
 
-### 前端工程師@鴻海精密工業股份有限公司
+### 前端工程師@鴻海精密工業
 
 > _2013/07 - 2015/08 📍 台灣高雄_
 
@@ -54,11 +53,10 @@ Firefox OS (與Mozilla Taiwan合作開發)
 
 Web應用
 
-- 名片管理
 - 網路硬碟
 - 餐廳搜索
 
-### 軟體工程師@富博科技公司
+### 軟體工程師@富博科技
 
 > _2011/10 - 2013/04 📍 台灣高雄_
 
@@ -76,13 +74,10 @@ PTC Arbortext 文件自動化功能 _(Javascript)_
 
 ## 教育
 
-Bachelor of Information Technology _(2008/03 - 2010/06)_
-> Griffith University (格里菲斯大學) 📍 澳洲
+Bachelor of Information Technology _(2007/03 - 2010/06)_
+> Griffith University 📍 澳洲昆士蘭州
 
-Diploma of Information Technology _(2007/03 - 2007/10)_
-> QIBT 📍 澳洲
-
-高職電子科 _(2003/09 - 2005/06)_
+高中高職電子科 _(2003/09 - 2005/06)_
 > 高雄市立高雄高級工業職業學校 📍 高雄
 
 ## 語言

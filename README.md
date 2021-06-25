@@ -1,5 +1,3 @@
-# Resume
-
 <a class="link" href="README.zh-tw">個人簡歷</a>
 
 ## Contact Info
@@ -10,9 +8,9 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 
 ## Speciality
 
-Coding：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
+Coding Languages：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
 Version Control：Git, SVN  
-Text Editor：Sublime, Visual Studio Code, Vim  
+Text Editor：Sublime, VS Code, Vim  
 
 ## Work Experience
 
@@ -24,20 +22,20 @@ Text Editor：Sublime, Visual Studio Code, Vim
 
 Wechat financial application, mini-program and web apps
 
-- Fund trading platform
-- Fund institutions management system
-- Gold exchange agency platform
-- Tencent associated credit card
-- Currency exchange service
+- Fund investment application
+- Fund management system
+- Gold sale investment application
+- Co-branded credit card
+- Currency exchange platform
 
-**MIG - Tencent Android market**
+**MIG**
 
 Open platform
 
-- Entrepreneurship platform
+- Start-up service platform
 - Tencent AI open API demos
 
-Tencent android app store
+Tencent Android app store
 
 - Developer dashboard
 
@@ -54,11 +52,10 @@ Firefox OS (Collaboration developement with Mozilla Taiwan)
 
 Web apps
 
-- Name Card Management
 - Cloud Drive
-- Restaurant Search
+- Restaurant Search App
 
-### Software Engineer@Hismax Tech
+### Software Engineer@Hismax Tech.
 
 > _2011/10 - 2013/04 📍 Kaohsiung, Taiwan_
 
@@ -76,11 +73,8 @@ PTC Arbortext document automation _(Javascript)_
 
 ## Education
 
-Bachelor of Information Technology _(2008/03 - 2010/06)_
-> Griffith University 📍 Australia
-
-Diploma of Information Technology _(2007/03 - 2007/10)_
-> QIBT 📍 Australia
+Bachelor of Information Technology _(2007/03 - 2010/06)_
+> Griffith University 📍 Queensland, Australia
 
 ## Language
 
