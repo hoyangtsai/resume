@@ -22,9 +22,9 @@ Text Editor：Sublime, VS Code, Vim
 
 Wechat financial application, mini-program and web apps
 
-- Fund investment application
+- Fund investment platform
 - Fund management system
-- Gold sale investment application
+- Gold sale agency platform
 - Co-branded credit card
 - Currency exchange platform
 
