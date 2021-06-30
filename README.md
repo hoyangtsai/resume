@@ -6,7 +6,7 @@ Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)
 LinkedIn: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)  
 GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 
-## Speciality
+## Skill Set
 
 Coding Languages：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
 Version Control：Git, SVN  
@@ -22,7 +22,7 @@ Text Editor：Sublime, VS Code, Vim
 
 Wechat financial application, mini-program and web apps
 
-- Fund investment platform
+- Fund portfolio investment platform
 - Fund management system
 - Gold sale agency platform
 - Co-branded credit card

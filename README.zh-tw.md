@@ -21,7 +21,7 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 
 微信場景金融應用，小程序和內嵌 webview 應用
 
-- 基金投資平台 (一起投)
+- 基金組合投資平台 (一起投)
 - 基金管理系統
 - 黃金銷售代理平台 (微黃金)
 - 聯名信用卡 (微加信用卡)
