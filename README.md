@@ -6,13 +6,7 @@ Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)
 LinkedIn: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)  
 GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 
-## Skill Set
-
-Coding Languages：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
-Version Control：Git, SVN  
-Text Editor：Sublime, VS Code, Vim  
-
-## Work Experience
+## Experience
 
 ### Fornt-end Engineer@Tencent
 
@@ -71,6 +65,12 @@ PTC Arbortext document automation _(Javascript)_
 
 - Refer to client requirements to provide Arbortext automations in a document
 
+## Skills
+
+Coding Languages：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
+Version Control：Git, SVN  
+Text Editor：Sublime, VS Code, Vim  
+
 ## Education
 
 Bachelor of Information Technology _(2007/03 - 2010/06)_
@@ -81,6 +81,6 @@ Bachelor of Information Technology _(2007/03 - 2010/06)_
 - Chinese — Native
 - English — Proficient
 
-## Portfolio
+## Projects
 
 [https://hoyangtsai.github.io/portfolio](https://hoyangtsai.github.io/portfolio)

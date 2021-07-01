@@ -5,13 +5,7 @@ Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)
 LinkedIn: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)  
 GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 
-## 專業技能
-
-程式語言：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
-版本管理：Git, SVN  
-編輯器：Sublime, VS Code, Vim
-
-## 工作經歷
+## 經歷
 
 ### Web 前端工程師@騰訊科技 Tencent
 
@@ -72,6 +66,12 @@ PTC Arbortext 文件自動化功能 _(Javascript)_
 
 - 依照用戶需求提供Arbortext文件中自動化操作功能
 
+## 技能專長
+
+程式語言：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
+版本管理：Git, SVN  
+編輯器：Sublime, VS Code, Vim
+
 ## 教育
 
 Bachelor of Information Technology _(2007/03 - 2010/06)_
@@ -85,6 +85,6 @@ Bachelor of Information Technology _(2007/03 - 2010/06)_
 - 中文 — 母語
 - 英文 — 精通
 
-## 作品集
+## 專案
 
-[https://hoyangtsai.github.io/portfolio](https://hoyangtsai.github.io/portfolio)
+[https://hoyangtsai.github.io/projects](https://hoyangtsai.github.io/projects)
