@@ -66,7 +66,7 @@ PTC Arbortext 文件自動化功能 _(Javascript)_
 
 - 依照用戶需求提供Arbortext文件中自動化操作功能
 
-## 技能專長
+## 技能
 
 程式語言：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
 版本管理：Git, SVN  

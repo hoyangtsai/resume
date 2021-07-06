@@ -83,4 +83,4 @@ Bachelor of Information Technology _(2007/03 - 2010/06)_
 
 ## Projects
 
-[https://hoyangtsai.github.io/portfolio](https://hoyangtsai.github.io/portfolio)
+[https://hoyangtsai.github.io/projects](https://hoyangtsai.github.io/projects)
