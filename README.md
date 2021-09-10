@@ -14,20 +14,20 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 
 **CDG - FiT**
 
-Wechat financial application, mini-program and web apps
+Wechat mini-program and embedded webview apps
 
-- Fund portfolio investment platform
+- Fund portfolio investment
 - Fund management system
-- Gold sale agency platform
+- Gold selling agent
 - Co-branded credit card
-- Currency exchange platform
+- Currency exchange
 
 **MIG**
 
 Open platform
 
-- Start-up service platform
-- Tencent AI open API demos
+- Start-up service
+- Tencent AI open API
 
 Tencent Android app store
 
@@ -49,7 +49,7 @@ Web apps
 - Cloud Drive
 - Restaurant Search App
 
-### Software Engineer@Hismax Tech.
+### Software Engineer@Hismax Tech
 
 > _2011/10 - 2013/04 📍 Kaohsiung, Taiwan_
 
@@ -67,9 +67,12 @@ PTC Arbortext document automation _(Javascript)_
 
 ## Skills
 
-Coding Languages：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
-Version Control：Git, SVN  
-Text Editor：Sublime, VS Code, Vim  
+- Coding Lang: HTML, CSS/SASS, Javascript/Typescript, NodeJS, Java, PHP, MySQL, Bash
+- Compiling Tools: Gulp, Webpack, Rollup
+- Framework: AMD/CMD with jQuery, Vue, React
+- Source Control: Git, SVN
+- Text Editor: Visual Studio Code, Vim
+- CI/CD: Jenkins, Docker
 
 ## Education
 

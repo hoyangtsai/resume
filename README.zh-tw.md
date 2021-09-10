@@ -13,13 +13,13 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
 
 **CDG 事業群 - 金融科技中心 FiT**
 
-微信場景金融應用，小程序和內嵌 webview 應用
+微信小程序和內嵌 webview 應用
 
-- 基金組合投資平台 (一起投)
+- 基金組合投資 (一起投)
 - 基金管理系統
-- 黃金銷售代理平台 (微黃金)
+- 黃金銷售代理 (微黃金)
 - 聯名信用卡 (微加信用卡)
-- 貨幣兌換平台
+- 貨幣兌換
 
 **MIG 事業群**
 
@@ -68,9 +68,12 @@ PTC Arbortext 文件自動化功能 _(Javascript)_
 
 ## 技能
 
-程式語言：HTML/CSS, Javascript, NodeJS, Java, PHP, MySQL, Bash  
-版本管理：Git, SVN  
-編輯器：Sublime, VS Code, Vim
+- 編碼語言：HTML, CSS/SASS, Javascript/Typescript, NodeJS, Java, PHP, MySQL, Bash
+- 編譯工具：Gulp, Webpack, Rollup
+- 框架：AMD/CMD with jQuery, Vue, React
+- 源碼控制：Git, SVN
+- 文字編輯器：Visual Studio Code, Vim
+- CI/CD：Jenkins, Docker
 
 ## 教育
 
