@@ -79,9 +79,9 @@
         {% if page.url contains lang %}
         {% else %}
         {% if lang == 'en' and page.url != '/' %}
-        <a class="link" href="/">Resume</a>
+        <a class="link" href="{{ relative_url }}">Resume</a>
         {% elsif lang == 'zh-tw' %}
-        <a class="link" href="README.zh-tw">履歷表</a>
+        <a class="link" href="{{ README.zh-tw | relative_url }}">履歷表</a>
         {% endif %}
         {% endif %}
         {% endfor %}
