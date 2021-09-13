@@ -1,9 +1,8 @@
-<a class="link" href="/"></a>
 ## 聯絡資訊
 
-Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)  
-LinkedIn: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)  
-GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
+Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)<br/>
+LinkedIn: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)<br/>
+GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 ## 經歷
 

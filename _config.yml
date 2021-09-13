@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
-title: Hoyang Tsai's Resume
+title: Hoyang Tsai Resume
 description: 
 logo: assets/20130703.jpg
 google_analytics: G-6219R1CH71
 exclude: ["Gemfile", "Gemfile.lock", "run.sh"]
+languages: ['en', 'zh-tw']

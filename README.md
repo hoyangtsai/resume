@@ -1,10 +1,8 @@
-<a class="link" href="README.zh-tw">個人簡歷</a>
-
 ## Contact Info
 
-Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)  
-LinkedIn: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)  
-GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)
+Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)<br/>
+LinkedIn: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)<br/>
+GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 ## Experience
 
