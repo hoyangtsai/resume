@@ -10,58 +10,67 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 > _2016/01 - 2021/03 📍 Shenzhen, China_
 
-**CDG - FiT**
+#### CDG - Financial Tech Group
 
-Wechat mini-program and embedded webview apps
+Wechat mini-program and embedded webview
 
 - Fund portfolio investment
+    > Tech stack: HTML/CSS, Javascript (Wechat mini-program), VueJS (Wechat webview), NodeJS
 - Fund management system
+    > Tech stack: VueJS (toB Desktop), NodeJS
 - Gold selling agent
+    > Tech stack: HTML/CSS, Javascript (Wechat mini-program), VueJS (Wechat webview)
 - Co-branded credit card
+    > Tech stack: VueJS (Wechat webview)
 - Currency exchange
+    > Tech stack: HTML/CSS, Javascript with CMDJs (Wechat webview)
 
-**MIG**
+#### MIG
 
 Open platform
 
 - Start-up service
+    > Tech stack: HTML, SASS, Javascript
 - Tencent AI open API
+    > Tech stack: HTML/CSS, Javascript (Wechat mini-program)
 
 Tencent Android app store
 
+- UI component library
+    > Tech stack: ReactJS
 - Developer dashboard
+    > Tech stack: HTML/CSS, Javascript
 
 ### Front-end Engineer - Foxconn (Hon-Hai Inc.)
 
 > _2013/07 - 2015/08 📍 Kaohsiung, Taiwan_
 
-**iDSBG - Software System Development Division**
+#### iDSBG - Software System Development Division
 
-Firefox OS (Collaboration development with Mozilla Taiwan)
+Firefox OS (Working together with Mozilla Taiwan)
 
 - Clock App
+    > Tech stack: HTML, SASS, RequireJS
 - Contact App
+    > Tech stack: HTML, SASS, RequireJS, Java
 
 Web apps
 
 - Cloud Drive
-- Restaurant Search App
+    > Tech stack: HTML, SASS, RequireJS, PHP (CodeIgniter)
 
-### Software Engineer - Hismax Tech.
+- Restaurant Search App
+    > Tech stack: HTML, SASS, AngularJS, PHP (CodeIgniter)
+
+### Software Engineer - Hismax Tech
 
 > _2011/10 - 2013/04 📍 Kaohsiung, Taiwan_
 
-PTC Windchill Product Lifecycle Management System Customization _(Java)_
+- PTC Windchill product lifecycle management (PLM) system customization
+    > Tech stack: Java, MySQL
 
-- Refer to client requirements to provide personalize design portal and functionality extension like manufacturing documentation and using iReport to extend a function of documents print out PDF
-
-PTC Arbortext _(XML & XSL)_
-
-- Creating and editing reusable XML structured documents and elements for users, uses are able to directly edit structured document content by clicking these elements
-
-PTC Arbortext document automation _(Javascript)_
-
-- Refer to client requirements to provide Arbortext automation in a document
+- PTC Arbortext document software automation
+    > Tech stack: XML, XSL, HTML/CSS, Javascript
 
 ## Skills
 

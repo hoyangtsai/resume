@@ -10,60 +10,65 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 > _2016/01 - 2021/03 📍 中國深圳_
 
-**CDG 事業群 - 金融科技中心 FiT**
+### CDG 事業群 - 金融科技中心 FiT
 
 微信小程序和內嵌 webview 應用
 
 - 基金組合投資 (一起投)
+    > 技術棧: HTML/CSS, Javascript (Wechat mini-program), VueJS (Wechat webview), NodeJS
 - 基金管理系統
+    > 技術棧: VueJS (toB Desktop), NodeJS
 - 黃金銷售代理 (微黃金)
+    > 技術棧: HTML/CSS, Javascript (Wechat mini-program), VueJS (Wechat webview)
 - 聯名信用卡 (微加信用卡)
+    > 技術棧: VueJS (Wechat webview)
 - 貨幣兌換
+    > 技術棧: HTML/CSS, Javascript with CMDJs (Wechat webview)
 
-**MIG 事業群**
+#### MIG 事業群
 
 開放平台
 
 - 創業服務平台
-- 各地孵化器空間 (眾創空間)
-- 校園創業支援 (青騰大學)
+    > 技術棧: HTML, SASS, Javascript
 - 騰訊 AI 開放平台
+    > 技術棧: HTML/CSS, Javascript (Wechat mini-program)
 
-第三方安卓市場
+騰訊應用寶 (第三方安卓市場)
 
+- UI 組件庫
+  > 技術棧: ReactJS
 - 開發者管理後台
+  > 技術棧: HTML/CSS, Javascript
 
 ### 前端工程師 - 鴻海精密工業
 
 > _2013/07 - 2015/08 📍 台灣高雄_
 
-**iDSBG 事業群 - 軟體系統開發處**
+#### iDSBG 事業群 - 軟體系統開發處
 
-Firefox OS (與Mozilla Taiwan合作開發)
+Firefox OS (與 Mozilla Taiwan 合作開發)
 
 - 時鐘 App
+    > 技術棧: HTML, SASS, RequireJS
 - 聯絡人 App
+    > 技術棧: HTML, SASS, RequireJS, Java
 
 Web應用
 
 - 網路硬碟
+    > 技術棧: HTML, SASS, RequireJS, PHP (CodeIgniter)
 - 餐廳搜索
+    > 技術棧: HTML, SASS, AngularJS, PHP (CodeIgniter)
 
 ### 軟體工程師 - 富博科技
 
 > _2011/10 - 2013/04 📍 台灣高雄_
 
-PTC Windchill PLM 系統客製化與功能擴充 _(Java)_
-
-- 依照用戶需求提供個人化設計接口與功能擴充的服務，例如生產製造記錄，使用iReport加入文件列印PDF功能
-
-PTC Arbortext _(XML & XSL)_
-
-- 為用戶建立與編輯可重複使用的XML結構化文件和組件，用戶透過點擊這些組件可直接編制結構化的文件內容
-
-PTC Arbortext 文件自動化功能 _(Javascript)_
-
-- 依照用戶需求提供 Arbortext 文件中自動化操作功能
+- PTC Windchill PLM 系統客製化與功能擴充
+    > 技術棧: Java, MySQL
+- PTC Arbortext 文件軟體自動化
+    > 技術棧: XML, XSL, HTML/CSS, Javascript
 
 ## 技能
 
