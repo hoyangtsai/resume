@@ -12,34 +12,41 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 ### CDG 事業群 - 金融科技中心 FiT
 
-微信小程序和內嵌 webview 應用
+- 專案
 
-- 基金組合投資 (一起投)
-    > 技術棧: HTML/CSS, Javascript (Wechat mini-program), VueJS (Wechat webview), NodeJS
-- 基金管理系統
-    > 技術棧: VueJS (toB Desktop), NodeJS
-- 黃金銷售代理 (微黃金)
-    > 技術棧: HTML/CSS, Javascript (Wechat mini-program), VueJS (Wechat webview)
-- 聯名信用卡 (微加信用卡)
-    > 技術棧: VueJS (Wechat webview)
-- 貨幣兌換
-    > 技術棧: HTML/CSS, Javascript with CMDJs (Wechat webview)
+  - 基金組合投資 (一起投)
+  - 基金管理系統
+  - 黃金銷售代理 (微黃金)
+  - 聯名信用卡 (微加信用卡)
+  - 貨幣兌換
+
+- 技術
+
+  HTML, CSS, SASS, PostCSS, Javascript, CMDJs, VueJS, Wechat mini-program, NodeJS
 
 #### MIG 事業群
 
 開放平台
 
-- 創業服務平台
-    > 技術棧: HTML, SASS, Javascript
-- 騰訊 AI 開放平台
-    > 技術棧: HTML/CSS, Javascript (Wechat mini-program)
+- 專案
+
+  - 創業服務平台
+  - 騰訊 AI 開放平台
+
+- 技術
+  
+  HTML, CSS, SASS, Javascript, Wechat mini-program
 
 騰訊應用寶 (第三方安卓市場)
 
-- UI 組件庫
-  > 技術棧: ReactJS
-- 開發者管理後台
-  > 技術棧: HTML/CSS, Javascript
+- 專案
+
+  - UI 組件庫
+  - 開發者管理後台
+
+- 技術
+  
+  HTML, CSS, SASS, PostCSS, Javascript, ReactJS
 
 ### 前端工程師 - 鴻海精密工業
 
@@ -49,32 +56,44 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 Firefox OS (與 Mozilla Taiwan 合作開發)
 
-- 時鐘 App
-    > 技術棧: HTML, SASS, RequireJS
-- 聯絡人 App
-    > 技術棧: HTML, SASS, RequireJS, Java
+- 專案
+  
+  - 時鐘 App
+  - 聯絡人 App
+
+- 技術
+  
+  HTML, CSS, SASS, Javascript, RequireJS, Java
 
 Web應用
 
-- 網路硬碟
-    > 技術棧: HTML, SASS, RequireJS, PHP (CodeIgniter)
-- 餐廳搜索
-    > 技術棧: HTML, SASS, AngularJS, PHP (CodeIgniter)
+- 專案
+
+  - 網路硬碟
+  - 餐廳搜索
+
+- 技術
+  
+  HTML, CSS, SASS, AngularJS, PHP (CodeIgniter), MySQL
 
 ### 軟體工程師 - 富博科技
 
 > _2011/10 - 2013/04 📍 台灣高雄_
 
-- PTC Windchill PLM 系統客製化與功能擴充
-    > 技術棧: Java, MySQL
-- PTC Arbortext 文件軟體自動化
-    > 技術棧: XML, XSL, HTML/CSS, Javascript
+- 專案
+
+  - PTC Windchill PLM 系統客製化與功能擴充
+  - PTC Arbortext 文件軟體自動化
+
+- 技術
+  
+  Java, MySQL, XML, XSL, HTML, CSS, Javascript
 
 ## 技能
 
-- 編碼語言：HTML, CSS/SASS, Javascript/Typescript, NodeJS, Java, PHP, MySQL, Bash
+- 編碼語言：HTML, CSS, SASS, PostCSS, Javascript, Typescript, NodeJS, Java, PHP, MySQL, Bash
 - 編譯工具：Gulp, Webpack, Rollup
-- 框架：AMD/CMD with jQuery, Vue, React
+- 框架：RequireJs, CMDJs, VueJS, ReactJS
 - 源碼控制：Git, SVN
 - CI/CD：Jenkins, Docker
 

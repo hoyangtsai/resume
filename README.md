@@ -12,34 +12,41 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 #### CDG - Financial Tech Group
 
-Wechat mini-program and embedded webview
+- Projects
 
-- Fund portfolio investment
-    > Tech stack: HTML/CSS, Javascript (Wechat mini-program), VueJS (Wechat webview), NodeJS
-- Fund management system
-    > Tech stack: VueJS (toB Desktop), NodeJS
-- Gold selling agent
-    > Tech stack: HTML/CSS, Javascript (Wechat mini-program), VueJS (Wechat webview)
-- Co-branded credit card
-    > Tech stack: VueJS (Wechat webview)
-- Currency exchange
-    > Tech stack: HTML/CSS, Javascript with CMDJs (Wechat webview)
+  - Fund portfolio investment
+  - Fund management system
+  - Gold selling agency
+  - Co-branded credit card
+  - Currency exchange
+
+- Tech
+
+  HTML, CSS, SASS, PostCSS, Javascript, CMDJs, VueJS, Wechat mini-program, NodeJS
 
 #### MIG
 
 Open platform
 
-- Start-up service
-    > Tech stack: HTML, SASS, Javascript
-- Tencent AI open API
-    > Tech stack: HTML/CSS, Javascript (Wechat mini-program)
+- Projects
+
+  - Start-up service
+  - Tencent AI open API
+
+- Tech
+
+  HTML, CSS, SASS, Javascript, Wechat mini-program
 
 Tencent Android app store
 
-- UI component library
-    > Tech stack: ReactJS
-- Developer dashboard
-    > Tech stack: HTML/CSS, Javascript
+- Project
+
+  - UI component library
+  - Developer dashboard
+
+- Tech
+
+  HTML, CSS, SASS, PostCSS, Javascript, ReactJS
 
 ### Front-end Engineer - Foxconn (Hon-Hai Inc.)
 
@@ -49,34 +56,44 @@ Tencent Android app store
 
 Firefox OS (Working together with Mozilla Taiwan)
 
-- Clock App
-    > Tech stack: HTML, SASS, RequireJS
-- Contact App
-    > Tech stack: HTML, SASS, RequireJS, Java
+- Projects
+
+  - Clock App
+  - Contact App
+
+- Tech
+
+  HTML, CSS, SASS, Javascript, RequireJS, Java
 
 Web apps
 
-- Cloud Drive
-    > Tech stack: HTML, SASS, RequireJS, PHP (CodeIgniter)
+- Projects
 
-- Restaurant Search App
-    > Tech stack: HTML, SASS, AngularJS, PHP (CodeIgniter)
+  - Cloud Drive
+  - Restaurant Search App
+
+- Tech
+  
+  HTML, CSS, SASS, AngularJS, PHP (CodeIgniter), MySQL
 
 ### Software Engineer - Hismax Tech
 
 > _2011/10 - 2013/04 📍 Kaohsiung, Taiwan_
 
-- PTC Windchill product lifecycle management (PLM) system customization
-    > Tech stack: Java, MySQL
+- Projects
 
-- PTC Arbortext document software automation
-    > Tech stack: XML, XSL, HTML/CSS, Javascript
+  - PTC Windchill product lifecycle management (PLM) system customization
+  - PTC Arbortext document software automation
+
+- Tech
+  
+  Java, MySQL, XML, XSL, HTML, CSS, Javascript
 
 ## Skills
 
-- Coding Lang: HTML, CSS/SASS, Javascript/Typescript, NodeJS, Java, PHP, MySQL, Bash
+- Coding Lang: HTML, CSS, SASS, PostCSS, Javascript, Typescript, NodeJS, Java, PHP, MySQL, Shell Script
 - Compiling Tools: Gulp, Webpack, Rollup
-- Framework: AMD/CMD with jQuery, Vue, React
+- Framework: RequireJs, CMDJs, VueJS, ReactJS
 - Source Control: Git, SVN
 - CI/CD: Jenkins, Docker
 
