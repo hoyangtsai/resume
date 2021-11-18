@@ -6,7 +6,7 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 ## Experience
 
-### Fornt-end Engineer@Tencent
+### Front-end Engineer - Tencent
 
 > _2016/01 - 2021/03 📍 Shenzhen, China_
 
@@ -31,13 +31,13 @@ Tencent Android app store
 
 - Developer dashboard
 
-### Front-end Engineer@Foxconn
+### Front-end Engineer - Foxconn (Hon-Hai Inc.)
 
 > _2013/07 - 2015/08 📍 Kaohsiung, Taiwan_
 
 **iDSBG - Software System Development Division**
 
-Firefox OS (Collaboration developement with Mozilla Taiwan)
+Firefox OS (Collaboration development with Mozilla Taiwan)
 
 - Clock App
 - Contact App
@@ -45,9 +45,9 @@ Firefox OS (Collaboration developement with Mozilla Taiwan)
 Web apps
 
 - Cloud Drive
-- Restaurant Search App
+- Restaurant Search App
 
-### Software Engineer@Hismax Tech
+### Software Engineer - Hismax Tech.
 
 > _2011/10 - 2013/04 📍 Kaohsiung, Taiwan_
 
@@ -61,7 +61,7 @@ PTC Arbortext _(XML & XSL)_
 
 PTC Arbortext document automation _(Javascript)_
 
-- Refer to client requirements to provide Arbortext automations in a document
+- Refer to client requirements to provide Arbortext automation in a document
 
 ## Skills
 
@@ -69,7 +69,6 @@ PTC Arbortext document automation _(Javascript)_
 - Compiling Tools: Gulp, Webpack, Rollup
 - Framework: AMD/CMD with jQuery, Vue, React
 - Source Control: Git, SVN
-- Text Editor: Visual Studio Code, Vim
 - CI/CD: Jenkins, Docker
 
 ## Education
