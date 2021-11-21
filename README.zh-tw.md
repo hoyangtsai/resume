@@ -14,15 +14,28 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 - 專案
 
-  - 基金組合投資 (一起投)
-  - 基金管理系統
-  - 黃金銷售代理 (微黃金)
-  - 聯名信用卡 (微加信用卡)
-  - 貨幣兌換
+  - 一起投 - 基金組合投資 (微信移動端應用和小程序)
+  - 基金管理系統 (桌面端 1.0 和 2.0)
+  - 微黃金 - 黃金銷售代理 (微信移動端應用和小程序)
+  - 騰訊微加聯名信用卡 (微信移動端應用和桌面端)
+  - 貨幣兌換 (微信移動端應用)
+  - A/B test 數據管理系統 (桌面端)
 
-- 技術
+- 責任分工
 
-  HTML, CSS, SASS, PostCSS, Javascript, CMDJs, VueJS, Wechat mini-program, NodeJS
+  - 開發廣泛相容的微信移動端應用和小程序
+  - 開發桌面端自適應網頁應用
+  - 開發 A/B test 數據管理系統前端和後端 Nodejs APIs
+  - 維護基金管理系統 1.0 後台和遷移 CI 發佈流程
+  - 引領組員 UI 能力提昇
+  - 程式碼倉庫從 SVN 到 Git 遷移
+
+- 技術棧
+
+  - 使用 VueJS/CMDJs 開發微信移動端和桌面端應用
+  - 使用 javascript ES6+ 開發微信小程序
+  - 使用 ECharts 開發可視化數據圖表
+  - 使用 Egg.js (Koa 分支), Sequelize with MySQ 和 tRPC 開發後台 Nodejs APIs
 
 #### MIG 事業群
 
@@ -32,21 +45,13 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
   - 創業服務平台
   - 騰訊 AI 開放平台
-
-- 技術
-  
-  HTML, CSS, SASS, Javascript, Wechat mini-program
-
-騰訊應用寶 (第三方安卓市場)
-
-- 專案
-
+  - 應用寶安卓開發者後台
   - UI 組件庫
-  - 開發者管理後台
 
-- 技術
-  
-  HTML, CSS, SASS, PostCSS, Javascript, ReactJS
+- 技術棧
+
+  - 使用 ReactJS 開發 UI 組件
+  - 建置一個 Nodejs 命令行工具搭配 webpack 生成視覺還原頁面
 
 ### 前端工程師 - 鴻海精密工業
 
@@ -54,27 +59,24 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 #### iDSBG 事業群 - 軟體系統開發處
 
-Firefox OS (與 Mozilla Taiwan 合作開發)
-
 - 專案
   
-  - 時鐘 App
-  - 聯絡人 App
+  - Firefox OS 應用 (與 Mozilla Taiwan 合作)
 
-- 技術
+    - 時鐘 App
+    - 聯絡人 App
+
+  - HTML5 web 應用
+
+    - 網路硬碟
+    - 餐廳搜索
+
+- 技術棧
   
-  HTML, CSS, SASS, Javascript, RequireJS, Java
-
-Web應用
-
-- 專案
-
-  - 網路硬碟
-  - 餐廳搜索
-
-- 技術
-  
-  HTML, CSS, SASS, AngularJS, PHP (CodeIgniter), MySQL
+  - 使用 RequireJS 和 SASS 開發 Firefox OS 應用和網路硬碟
+  - 使用 AngularJS 和 SASS 開發餐廳搜索
+  - 使用 CodeIgniter 和 MySQL 開發後台 REST APIs
+  - 使用 Tesseract OCR with Java 開發字元識別
 
 ### 軟體工程師 - 富博科技
 
@@ -82,18 +84,17 @@ Web應用
 
 - 專案
 
-  - PTC Windchill PLM 系統客製化與功能擴充
+  - PTC Windchill product lifecycle management (PLM) 系統客製化
   - PTC Arbortext 文件軟體自動化
 
-- 技術
+- 技術棧
   
-  Java, MySQL, XML, XSL, HTML, CSS, Javascript
+  - 使用 tomcat 搭配 Java 和 MySQL 開發 PLM 系統客製化
+  - 使用 XML, XSL 和 Javascript 開發標籤語言的文件自動化
 
 ## 技能
 
-- 編碼語言：HTML, CSS, SASS, PostCSS, Javascript, Typescript, NodeJS, Java, PHP, MySQL, Bash
-- 編譯工具：Gulp, Webpack, Rollup
-- 框架：RequireJs, CMDJs, VueJS, ReactJS
+- 編碼語言：HTML, CSS/Style Pre-complier, Javascript, Typescript, Nodejs, Java, PHP, MySQL, Shell script
 - 源碼控制：Git, SVN
 - CI/CD：Jenkins, Docker
 
