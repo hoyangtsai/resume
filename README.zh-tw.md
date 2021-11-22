@@ -51,7 +51,7 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 - 技術棧
 
   - 使用 ReactJS 開發 UI 組件
-  - 建置一個 Nodejs 命令行工具搭配 webpack 生成視覺還原頁面
+  - 建置一個 Nodejs 命令行工具搭配 webpack 生成視覺還原稿
 
 ### 前端工程師 - 鴻海精密工業
 

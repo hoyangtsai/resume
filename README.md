@@ -49,7 +49,7 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 - Tech Stack
 
   - Using ReactJS to develope the UI components
-  - Building a Nodejs CLI tool with webpack to output design mockup pages
+  - Building a Nodejs CLI tool with webpack to output refactoring design mockups
 
 ### Front-end Engineer - Foxconn (Hon-Hai Inc.)
 
