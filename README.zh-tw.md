@@ -25,17 +25,17 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
   - 開發廣泛相容的微信移動端應用和小程序
   - 開發桌面端自適應網頁應用
-  - 開發 A/B test 數據管理系統前端和後端 Nodejs APIs
-  - 維護基金管理系統 1.0 後台和遷移 CI 發佈流程
+  - 開發 A/B test 數據管理系統前端和後台 APIs
+  - 維護基金管理系統 1.0 後台和 CI 發佈流程遷移
   - 引領組員 UI 能力提昇
-  - 程式碼倉庫從 SVN 到 Git 遷移
+  - 程式碼倉庫從 SVN 遷移到 Git
 
 - 技術棧
 
   - 使用 VueJS/CMDJs 開發微信移動端和桌面端應用
   - 使用 javascript ES6+ 開發微信小程序
   - 使用 ECharts 開發可視化數據圖表
-  - 使用 Egg.js (Koa 分支), Sequelize with MySQ 和 tRPC 開發後台 Nodejs APIs
+  - 使用 Egg.js (Koa 分支), Sequelize with MySQL 和 tRPC 開發後台 APIs
 
 #### MIG 事業群
 

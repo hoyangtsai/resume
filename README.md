@@ -15,27 +15,27 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 - Projects
 
   - Fund portfolio investment (Wechat mobile app and mini-program)
-  - Fund management system (desktop 1.0 and 2.0)
+  - Fund management system (Desktop 1.0 and 2.0)
   - Gold selling agency (Wechat mobile app and mini-program)
-  - Co-branded credit card (Wechat mobile app and desktop)
+  - Co-branded credit card (Wechat mobile app and Desktop)
   - Currency exchange (Wechat mobile app)
-  - A/B test data management system (desktop)
+  - A/B test data management system (Desktop)
 
 - Responsibilities
   
-  - Developing wide compatible Wechat mobile apps and mini-programs
-  - Developing responsive web apps on desktop
-  - Developing tbe A/B test data management system front-end and back-end Nodejs APIs
-  - Maintaining the fund management system 1.0 back-end and migrating the CI release flow
+  - Develop wide compatible Wechat mobile apps and mini-programs
+  - Develop responsive web applications on desktop
+  - Develop tbe A/B test data management system front-end and back-end APIs
+  - Maintain the fund management system 1.0 back-end and CI release flow migration
   - Leading teammate UI skill enhancement as mentor
   - Code repository migration from SVN to Git
 
 - Tech Stacks
 
-  - Using VueJS/CMDJs to develop Wechat mobile and desktop apps
-  - Using javascript ES6+ to develop Wechat mini-programs
-  - Using ECharts to develop data visualization diagrams
-  - Using Egg.js (Koa branch), Sequelize with MySQ and tRPC to develop back-end Nodejs APIs
+  - Use VueJS/CMDJs to develop Wechat mobile apps and applications on desktop
+  - Use javascript ES6+ to develop Wechat mini-programs
+  - Use ECharts to develop data visualization diagrams
+  - Use Egg.js (Koa branch), Sequelize with MySQL and tRPC to develop back-end APIs
 
 #### MIG
 
@@ -48,7 +48,7 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 - Tech Stack
 
-  - Using ReactJS to develope the UI components
+  - Use ReactJS to develope the UI components
   - Building a Nodejs CLI tool with webpack to output refactoring design mockups
 
 ### Front-end Engineer - Foxconn (Hon-Hai Inc.)
@@ -71,10 +71,10 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 - Tech Stack
 
-  - Using RequireJS and SASS to develop Firefox OS apps and the cloud drive
-  - Using AngularJS ans SASS to develop the restaurant search
-  - Using CodeIgniter and MySQL to develop the back-end REST APIs
-  - Using Tesseract OCR with Java to develop character recognition
+  - Use RequireJS and SASS to develop Firefox OS apps and the cloud drive
+  - Use AngularJS ans SASS to develop the restaurant search
+  - Use CodeIgniter and MySQL to develop the back-end REST APIs
+  - Use Tesseract OCR with Java to develop character recognition
 
 ### Software Engineer - Hismax Tech
 
@@ -87,8 +87,8 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
 
 - Tech Stack
 
-  - Using tomcat with Java and MySQL to develop the PLM system customization
-  - Using XML, XSL and javascript to develop markup language's document automation
+  - Use tomcat with Java and MySQL to develop the PLM system customization
+  - Use XML, XSL and javascript to develop markup language's document automation
 
 ## Skill
 
