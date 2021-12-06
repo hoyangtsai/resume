@@ -1,111 +1,62 @@
 ## Contact Info
 
-Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)<br/>
-LinkedIn: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)<br/>
-GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
+<i class="fas fa-envelope-square fa-lg"></i> [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)<br/>
+<i class="fab fa-linkedin fa-lg"></i> [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)<br/>
+<i class="fab fa-github-square fa-lg"></i> [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
+
+## Education
+
+<i class="fas fa-graduation-cap fa-log"></i> B.AS., Information Technology, <a href="http://www.griffith.edu.au/" target="_blank">Griffith University </a> <time class="term">2007/03 - 2010/06</time>
 
 ## Experience
 
-### Web Front-end Engineer - Tencent
+### Web Front-end Engineer, <a href="https://www.tencent.com/" target="_blank">Tencent</a> 📍 Shenzhen, China <small><time class="term">2016/01 - 2021/03</time></small>
 
-> _2016/01 - 2021/03 📍 Shenzhen, China_
-
-#### CDG - Financial Tech Group
+<p class="job-dept">CDG - Financial Tech Group</p>
+> Javascript (AMDJS), Vue, NodeJS, MySQL
 
 - Projects
 
   - Fund portfolio investment (Wechat mobile app and mini-program)
   - Fund management system (Desktop 1.0 and 2.0)
-  - Gold selling agency (Wechat mobile app and mini-program)
-  - Co-branded credit card (Wechat mobile app and Desktop)
+  - Gold investment (Wechat mobile app and mini-program)
+  - Tencent co-branded credit card (Wechat mobile app and Desktop)
   - Currency exchange (Wechat mobile app)
   - A/B test data management system (Desktop)
 
-- Responsibilities
+- Responsibilities and Tech Stacks
   
-  - Develop wide compatible Wechat mobile apps and mini-programs
-  - Develop responsive web applications on desktop
-  - Develop tbe A/B test data management system front-end and back-end APIs
-  - Maintain the fund management system 1.0 back-end and CI release flow migration
-  - Leading teammate UI skill enhancement as mentor
-  - Code repository migration from SVN to Git
+  - Developed wide compatible Wechat mobile apps and mini-programs
+  - Developed responsive web applications on desktop
+  - Migrated fund management system 1.0 back-end and CI release from a self-hosted Jenkins
+  - Led teammate UI skill enhancement
+  - Built CLI Tool via shell script for code repository migration from SVN to Git
+  - Used Vue/CMDJS to develop Wechat mobile apps and applications on desktop
+  - Used javascript ES6+ to develop Wechat mini-programs
+  - Used ECharts to develop data visualization diagrams
+  - Used Egg.js (Koa branch), Sequelize with MySQL and tRPC to develop back-end APIs
 
-- Tech Stacks
+<p class="job-dept">MIG - Media and Service Platform UX Design Department</p>
+> SASS, Javascript, React, NodeJS
 
-  - Use VueJS/CMDJs to develop Wechat mobile apps and applications on desktop
-  - Use javascript ES6+ to develop Wechat mini-programs
-  - Use ECharts to develop data visualization diagrams
-  - Use Egg.js (Koa branch), Sequelize with MySQL and tRPC to develop back-end APIs
+- Design mockup refactoring
+- Web animation
+- Used ReactJS to develop the UI components
+- Built CLI tool with webpack
 
-#### MIG
+### Front-end Engineer, <a href="https://www.foxconn.com/" target="_blank">Foxconn</a> 📍 Kaohsiung, Taiwan <small><time class="term">2013/07 - 2015/08</time></small>
 
-- Projects
+> Javascript (RequireJS), SASS, PHP, Java, MySQL
 
-  - Start-up service platform
-  - Tencent AI open API platform
-  - Tencent Android app developer dashboard
-  - UI component libraries
+- Built Firefox OS apps with RequireJS
+- Built HTML5 web apps, cloud drive and restaurant search
+- Used CodeIgniter with MySQL to develop back-end REST APIs
+- Used Tesseract OCR with Java to develop character recognition
 
-- Tech Stack
+### Software Engineer, <a href="http://www.hismax.com.tw/" target="_blank">Hismax</a> 📍 Kaohsiung, Taiwan <small><time class="term">2011/10 - 2013/04</time></small>
 
-  - Use ReactJS to develope the UI components
-  - Building a Nodejs CLI tool with webpack to output refactoring design mockups
+> Java, MySQL, XML, XSL, Javascript
 
-### Front-end Engineer - Foxconn (Hon-Hai Inc.)
+## Projects
 
-> _2013/07 - 2015/08 📍 Kaohsiung, Taiwan_
-
-#### iDSBG - Software System Development Division
-
-- Projects
-
-  - Firefox OS apps (association with Mozilla Taiwan)
-
-    - Clock App
-    - Contact App
-
-  - HTML5 web apps
-
-    - Cloud Drive
-    - Restaurant Search
-
-- Tech Stack
-
-  - Use RequireJS and SASS to develop Firefox OS apps and the cloud drive
-  - Use AngularJS ans SASS to develop the restaurant search
-  - Use CodeIgniter and MySQL to develop the back-end REST APIs
-  - Use Tesseract OCR with Java to develop character recognition
-
-### Software Engineer - Hismax Tech
-
-> _2011/10 - 2013/04 📍 Kaohsiung, Taiwan_
-
-- Projects
-
-  - PTC Windchill product lifecycle management (PLM) system customization
-  - PTC Arbortext document software automation
-
-- Tech Stack
-
-  - Use tomcat with Java and MySQL to develop the PLM system customization
-  - Use XML, XSL and javascript to develop markup language's document automation
-
-## Skill
-
-- Coding Lang: HTML, CSS/Style Pre-complier, Javascript, Typescript, Nodejs, Java, PHP, MySQL, Shell script
-- Source Control: Git, SVN
-- CI/CD: Jenkins, Docker
-
-## Education
-
-Bachelor of Information Technology _(2007/03 - 2010/06)_
-> Griffith University 📍 Queensland, Australia
-
-## Language
-
-- Chinese — Native
-- English — Proficient
-
-## Project
-
-[https://hoyangtsai.github.io/projects](https://hoyangtsai.github.io/projects)
+[https://hoyangtsai.github.io/projects/](https://hoyangtsai.github.io/projects/)

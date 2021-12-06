@@ -1,0 +1,44 @@
+section {
+  width: 540px;
+}
+
+@media print {
+  header {
+    margin-bottom: 1em;
+  }
+
+  footer {
+    display: none;
+  }
+
+  header img {
+    width: 120px;
+    height: auto;
+    object-fit: contain;
+  }
+
+  header p {
+    display: none;
+  }
+
+  section {
+    padding: 0;
+    border: none;
+  }
+
+  section .link {
+    display: none;
+  }
+}
+
+time.term {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 small {
+  font-size: 0.9em;
+}
+
+.job-dept {
+  margin: 0 0 .5em;
+}

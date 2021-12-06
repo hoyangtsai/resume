@@ -22,29 +22,10 @@
     </script>
     {% endif %}
 
-    <style>
-        @media print {
-            footer {
-                display: none;
-            }
-            header img {
-                width:140px;
-                height:auto;
-                object-fit:contain;
-            }
-            header p {
-                display: none;
-            }
-            section {
-                padding: 0;
-                border: none;
-            }
-            section .link {
-                display: none;
-            }
-        }
-    </style>
-  </head>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.1/css/all.css" />
+    
+    <link rel="stylesheet" href="{{ "/styles/index.css?v=" | append: site.github.build_revision | relative_url }}">
+</head>
   <body>
     <div class="wrapper">
       <header>

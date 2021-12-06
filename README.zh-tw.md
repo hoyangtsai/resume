@@ -1,16 +1,19 @@
 ## 聯絡資訊
 
-Email: [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)<br/>
-LinkedIn: [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)<br/>
-GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
+<i class="fas fa-envelope-square fa-lg"></i> [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)<br/>
+<i class="fab fa-linkedin fa-lg"></i> [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)<br/>
+<i class="fab fa-github-square fa-lg"></i> [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
+
+## 學歷
+
+<i class="fas fa-graduation-cap fa-log"></i> B.AS., Information Technology, <a href="http://www.griffith.edu.au/" target="_blank">Griffith University </a> <time class="term">2007/03 - 2010/06</time>
 
 ## 經歷
 
-### Web 前端工程師 - 騰訊科技
+### Web 前端工程師, <a href="https://www.tencent.com/" target="_blank">騰訊科技</a> 📍 中國深圳 <small><time class="term">2016/01 - 2021/03</time></small>
 
-> _2016/01 - 2021/03 📍 中國深圳_
-
-### CDG 事業群 - 金融科技中心 FiT
+<p class="job-dept">CDG - 金融科技中心 FiT</p>
+> Javascript, AMDJS (SeaJS), Vue, NodeJS, MySQL
 
 - 專案
 
@@ -21,95 +24,38 @@ GitHub: [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
   - 貨幣兌換 (微信移動端應用)
   - A/B test 數據管理系統 (桌面端)
 
-- 責任分工
+- 職責和技術棧
 
   - 開發廣泛相容的微信移動端應用和小程序
   - 開發桌面端自適應網頁應用
-  - 開發 A/B test 數據管理系統前端和後台 APIs
-  - 維護基金管理系統 1.0 後台和 CI 發佈流程遷移
-  - 引領組員 UI 能力提昇
-  - 程式碼倉庫從 SVN 遷移到 Git
-
-- 技術棧
-
-  - 使用 VueJS/CMDJs 開發微信移動端和桌面端應用
+  - 遷移基金管理系統 1.0 後台和 CI 發佈
+  - 引導組員 UI 能力提昇
+  - 使用 Shell 腳本製作命令行工具給程式碼倉庫從 SVN 到遷移 Git
+  - 使用 Vue/CMDJS 開發微信移動端和桌面端應用
   - 使用 javascript ES6+ 開發微信小程序
   - 使用 ECharts 開發可視化數據圖表
   - 使用 Egg.js (Koa 分支), Sequelize with MySQL 和 tRPC 開發後台 APIs
 
-#### MIG 事業群
+<p class="job-dept">MIG - 媒體和服務平台用戶體驗中心</p>
+> SASS, Javascript, React, NodeJS
 
-開放平台
+- 設計視覺還原
+- 網頁動畫
+- 使用 ReactJS 開發 UI 組件
+- 搭配 webpack 製作 CLI tool
 
-- 專案
+### 前端工程師, <a href="https://www.foxconn.com/" target="_blank">鴻海精密工業</a> 📍 台灣高雄 <small><time class="term">2013/07 - 2015/08</time></small>
 
-  - 創業服務平台
-  - 騰訊 AI 開放平台
-  - 應用寶安卓開發者後台
-  - UI 組件庫
+> Javascript, AMDJS (RequireJS), SASS, PHP, Java, MySQL
 
-- 技術棧
+- 使用 RequireJS 開發 Firefox OS apps
+- 開發 HTML5 web apps，雲端硬碟和餐廳搜索
+- 使用 CodeIgniter 搭配 MySQL 開發後台 REST APIs
+- 使用 Tesseract OCR with Java 開發文字識別
 
-  - 使用 ReactJS 開發 UI 組件
-  - 建置一個 Nodejs 命令行工具搭配 webpack 生成視覺還原稿
+### 軟體工程師, <a href="http://www.hismax.com.tw/" target="_blank">富博科技</a> 📍 台灣高雄 <small><time class="term">2011/10 - 2013/04</time></small>
 
-### 前端工程師 - 鴻海精密工業
-
-> _2013/07 - 2015/08 📍 台灣高雄_
-
-#### iDSBG 事業群 - 軟體系統開發處
-
-- 專案
-  
-  - Firefox OS 應用 (與 Mozilla Taiwan 合作)
-
-    - 時鐘 App
-    - 聯絡人 App
-
-  - HTML5 web 應用
-
-    - 網路硬碟
-    - 餐廳搜索
-
-- 技術棧
-  
-  - 使用 RequireJS 和 SASS 開發 Firefox OS 應用和網路硬碟
-  - 使用 AngularJS 和 SASS 開發餐廳搜索
-  - 使用 CodeIgniter 和 MySQL 開發後台 REST APIs
-  - 使用 Tesseract OCR with Java 開發字元識別
-
-### 軟體工程師 - 富博科技
-
-> _2011/10 - 2013/04 📍 台灣高雄_
-
-- 專案
-
-  - PTC Windchill product lifecycle management (PLM) 系統客製化
-  - PTC Arbortext 文件軟體自動化
-
-- 技術棧
-  
-  - 使用 tomcat 搭配 Java 和 MySQL 開發 PLM 系統客製化
-  - 使用 XML, XSL 和 Javascript 開發標籤語言的文件自動化
-
-## 技能
-
-- 編碼語言：HTML, CSS/Style Pre-complier, Javascript, Typescript, Nodejs, Java, PHP, MySQL, Shell script
-- 源碼控制：Git, SVN
-- CI/CD：Jenkins, Docker
-
-## 教育
-
-Bachelor of Information Technology _(2007/03 - 2010/06)_
-> Griffith University 📍 澳洲昆士蘭州
-
-高中高職電子科 _(2003/09 - 2005/06)_
-> 高雄市立高雄高級工業職業學校 📍 高雄
-
-## 語言
-
-- 中文 — 母語
-- 英文 — 精通
+> Java, MySQL, XML, XSL, Javascript
 
 ## 專案
 
