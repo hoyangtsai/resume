@@ -12,7 +12,8 @@
 
 ### Web 前端工程師, <a href="https://www.tencent.com/" target="_blank">騰訊科技</a> 📍 中國深圳 <small><time class="term">2016/01 - 2021/03</time></small>
 
-<p class="job-dept">CDG - 金融科技中心 FiT</p>
+#### CDG - 金融科技中心 FiT
+
 > Javascript, AMDJS (SeaJS), Vue, NodeJS, MySQL
 
 - 專案
@@ -36,7 +37,8 @@
   - 使用 ECharts 開發可視化數據圖表
   - 使用 Egg.js (Koa 分支), Sequelize with MySQL 和 tRPC 開發後台 APIs
 
-<p class="job-dept">MIG - 媒體和服務平台用戶體驗中心</p>
+#### MIG - 媒體和服務平台用戶體驗中心
+
 > SASS, Javascript, React, NodeJS
 
 - 設計視覺還原

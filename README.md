@@ -12,7 +12,8 @@
 
 ### Web Front-end Engineer, <a href="https://www.tencent.com/" target="_blank">Tencent</a> 📍 Shenzhen, China <small><time class="term">2016/01 - 2021/03</time></small>
 
-<p class="job-dept">CDG - Financial Tech Group</p>
+#### CDG - Financial Tech Group
+
 > Javascript (AMDJS), Vue, NodeJS, MySQL
 
 - Projects
@@ -36,7 +37,8 @@
   - Used ECharts to develop data visualization diagrams
   - Used Egg.js (Koa branch), Sequelize with MySQL and tRPC to develop back-end APIs
 
-<p class="job-dept">MIG - Media and Service Platform UX Design Department</p>
+#### MIG - Media and Service Platform UX Design Department
+
 > SASS, Javascript, React, NodeJS
 
 - Design mockup refactoring
