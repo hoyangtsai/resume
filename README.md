@@ -19,7 +19,7 @@
 - Projects
 
   - Fund portfolio investment (Wechat mobile app and mini-program)
-  - Fund management system (Desktop 1.0 and 2.0)
+  - Fund assets management system (Desktop 1.0 and 2.0)
   - Gold investment (Wechat mobile app and mini-program)
   - Tencent co-branded credit card (Wechat mobile app and Desktop)
   - Currency exchange (Wechat mobile app)
@@ -29,7 +29,7 @@
   
   - Developed wide compatible Wechat mobile apps and mini-programs
   - Developed responsive web applications on desktop
-  - Migrated fund management system 1.0 back-end and CI release from a self-hosted Jenkins
+  - Migrated fund assets management system 1.0 back-end and CI release from a self-hosted Jenkins
   - Led teammate UI skill enhancement
   - Built CLI Tool via shell script for code repository migration from SVN to Git
   - Used Vue/CMDJS to develop Wechat mobile apps and applications on desktop
