@@ -25,7 +25,7 @@
   - Currency exchange (Wechat mobile app)
   - A/B test data management system (Desktop)
 
-- Responsibilities and Tech Stacks
+- Responsibilities and Stacks
   
   - Developed wide compatible Wechat mobile apps and mini-programs
   - Developed responsive web applications on desktop
