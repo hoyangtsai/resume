@@ -1,7 +1,3 @@
-section {
-  width: 540px;
-}
-
 @media print {
   header {
     margin-bottom: 1em;

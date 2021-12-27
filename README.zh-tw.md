@@ -14,7 +14,7 @@
 
 #### CDG - 金融科技中心 FiT
 
-> Javascript, AMDJS (SeaJS), Vue, NodeJS, MySQL
+> Javascript (CMD), Vue, NodeJS, MySQL
 
 - 專案
 
@@ -32,7 +32,7 @@
   - 遷移基金資產管理系統 1.0 後台和 CI 發佈
   - 引導組員 UI 能力提昇
   - 使用 Shell 腳本製作命令行工具給程式碼倉庫從 SVN 到遷移 Git
-  - 使用 Vue/CMDJS 開發微信移動端和桌面端應用
+  - 使用 Vue/CMD 開發微信移動端和桌面端應用
   - 使用 javascript ES6+ 開發微信小程序
   - 使用 ECharts 開發可視化數據圖表
   - 使用 Egg.js (Koa 分支), Sequelize with MySQL 和 tRPC 開發後台 APIs
@@ -48,7 +48,7 @@
 
 ### 前端工程師, <a href="https://www.foxconn.com/" target="_blank">鴻海精密工業</a> 📍 台灣高雄 <small><time class="term">2013/07 - 2015/08</time></small>
 
-> Javascript, AMDJS (RequireJS), SASS, PHP, Java, MySQL
+> Javascript (AMD), SASS, PHP, Java, MySQL
 
 - 使用 RequireJS 開發 Firefox OS apps
 - 開發 HTML5 web apps，雲端硬碟和餐廳搜索

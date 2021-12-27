@@ -14,7 +14,7 @@
 
 #### CDG - Financial Tech Group
 
-> Javascript (AMDJS), Vue, NodeJS, MySQL
+> Javascript (CMD), Vue, NodeJS, MySQL
 
 - Projects
 
@@ -32,7 +32,7 @@
   - Migrated fund assets management system 1.0 back-end and CI release from a self-hosted Jenkins
   - Led teammate UI skill enhancement
   - Built CLI Tool via shell script for code repository migration from SVN to Git
-  - Used Vue/CMDJS to develop Wechat mobile apps and applications on desktop
+  - Used Vue/CMD to develop Wechat mobile apps and applications on desktop
   - Used javascript ES6+ to develop Wechat mini-programs
   - Used ECharts to develop data visualization diagrams
   - Used Egg.js (Koa branch), Sequelize with MySQL and tRPC to develop back-end APIs
@@ -48,7 +48,7 @@
 
 ### Front-end Engineer, <a href="https://www.foxconn.com/" target="_blank">Foxconn</a> 📍 Kaohsiung, Taiwan <small><time class="term">2013/07 - 2015/08</time></small>
 
-> Javascript (RequireJS), SASS, PHP, Java, MySQL
+> Javascript (AMD), SASS, PHP, Java, MySQL
 
 - Built Firefox OS apps with RequireJS
 - Built HTML5 web apps, cloud drive and restaurant search
