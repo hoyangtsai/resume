@@ -1,5 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+{% if page.url contains 'README' %}
+{% assign urls = page.url | split: '.' %}
+<html lang="{{ urls[1] | default: 'en-US' }}">
+{% else %}
+<html lang="{{ site.lang | default: 'en-US' }}">
+{% endif %}
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

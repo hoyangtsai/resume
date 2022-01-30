@@ -12,55 +12,41 @@
 
 ## Experience
 
-### Web Front-end Engineer, <a href="https://www.tencent.com/" target="_blank">Tencent</a> 📍 Shenzhen, China <small><time class="term">2016/01 - 2021/03</time></small>
+### Web Front-end Engineer, <a href="https://www.tencent.com/" target="_blank">Tencent</a> 📍 Shenzhen, China <br><small><time class="term">2016/01 - 2021/03</time></small>
 
 #### CDG - Financial Tech Group
 
-> Javascript (CMD), Vue, NodeJS, MySQL
+- Developed widely compatible customer-facing Wechat mobile apps and mini-programs such as gold investment, currency exchange, Tencent co-branded credit card and fund portfolio investment
+- Developed fund assets management desktop system with various charts and complex forms for the fund institutions
+- Participated in A/B data management system development from the back-end Nodejs service to the front-end Vue application
+- Maintained the legacy fund assets management system 1.0 and reformed CI/CD release process
+- Seamlessly migrated code repositories from SVN to git by creating automation CLI with shell script
+- Acted as UI mentor among the front-end team members
 
-- Projects
-
-  - Fund portfolio investment (Wechat mobile app and mini-program)
-  - Fund assets management system (Desktop 1.0 and 2.0)
-  - Gold investment (Wechat mobile app and mini-program)
-  - Tencent co-branded credit card (Wechat mobile app and Desktop)
-  - Currency exchange (Wechat mobile app)
-  - A/B test data management system (Desktop)
-
-- Responsibilities and Stacks
-  
-  - Developed wide compatible Wechat mobile apps and mini-programs
-  - Developed responsive web applications on desktop
-  - Migrated fund assets management system 1.0 back-end and CI release from a self-hosted Jenkins
-  - Led teammate UI skill enhancement
-  - Built CLI Tool via shell script for code repository migration from SVN to Git
-  - Used Vue/CMD to develop Wechat mobile apps and applications on desktop
-  - Used javascript ES6+ to develop Wechat mini-programs
-  - Used ECharts to develop data visualization diagrams
-  - Used Egg.js (Koa branch), Sequelize with MySQL and tRPC to develop back-end APIs
+<small><b>Stack: Javascript, Vue, CMDJS, SASS, Typescript, Nodejs, MySQL, shell script</b></small>
 
 #### MIG - Media and Service Platform UX Design Department
 
-> SASS, Javascript, React, NodeJS
+- Cooperated with the design team to build UI component libraries on mobile, desktop and Wechat mini-programs 
+- Refactoring design mockups and web animations
 
-- Design mockup refactoring
-- Web animation
-- Used ReactJS to develop the UI components
-- Built CLI tool with webpack
+<small><b>Stack: Javascript, SASS, React, Nodejs</b></small>
 
-### Front-end Engineer, <a href="https://www.foxconn.com/" target="_blank">Foxconn</a> 📍 Kaohsiung, Taiwan <small><time class="term">2013/07 - 2015/08</time></small>
+### Front-end Engineer, <a href="https://www.foxconn.com/" target="_blank">Foxconn</a> 📍 Kaohsiung, Taiwan <br><small><time class="term">2013/07 - 2015/08</time></small>
 
-> Javascript (AMD), SASS, PHP, Java, MySQL
+- Built Firefox OS apps and web apps using RequireJS
+- Developed the web apps back-end RESTful APIs using CodeIgniter
+- Developed the character recognition service using Tesseract OCR
 
-- Built Firefox OS apps with RequireJS
-- Built HTML5 web apps, cloud drive and restaurant search
-- Used CodeIgniter with MySQL to develop back-end REST APIs
-- Used Tesseract OCR with Java to develop character recognition
+<small><b>Stack: Javascript, AMDJS, SASS, PHP, Java, MySQL</b></small>
 
-### Software Engineer, <a href="http://www.hismax.com.tw/" target="_blank">Hismax</a> 📍 Kaohsiung, Taiwan <small><time class="term">2011/10 - 2013/04</time></small>
+### Software Engineer, <a href="http://www.hismax.com.tw/" target="_blank">Hismax</a> 📍 Kaohsiung, Taiwan <br><small><time class="term">2011/10 - 2013/04</time></small>
 
-> Java, MySQL, XML, XSL, Javascript
+- Customized PTC Windchill PLM system with Java server pages
+- Developed PTC Arbortext document software automation features
 
-## Projects
+<small><b>Stack: Java, MySQL, XML, XSL, Javascript</b></small>
+
+## Project
 
 [https://hoyangtsai.github.io/projects/](https://hoyangtsai.github.io/projects/)
