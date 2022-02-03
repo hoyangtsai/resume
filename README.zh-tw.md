@@ -1,14 +1,8 @@
-# 蔡和洋
-
 ## 聯絡資訊
 
 <i class="fas fa-envelope-square fa-lg"></i> [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)<br/>
 <i class="fab fa-linkedin fa-lg"></i> [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)<br/>
 <i class="fab fa-github-square fa-lg"></i> [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
-
-## 學歷
-
-<i class="fas fa-graduation-cap fa-log"></i> B.AS., Information Technology, <a href="http://www.griffith.edu.au/" target="_blank">Griffith University </a> <time class="term">2007/03 - 2010/06</time>
 
 ## 經歷
 
@@ -17,9 +11,9 @@
 #### CDG - FiT 金融科技中心
 
 - 開發廣泛相容的C端微信移動端應用和小程序，如微黃金、貨幣兌換、騰訊聯名信用卡和基金組合投資
-- 使用 Vue 開發基金資產管理桌面系統 1.0 和 2.0 前端，其系統包括各種圖表和複雜表格
+- 使用 Vue 開發基金資產管理桌面系統 1.0 和 2.0 前端，系統中包含各種圖表和複雜表格
 - 參與開發從後端 Nodejs 服務到前端 Vue 應用的 A/B 數據管理系統
-- 維護 Java Spring Boot 框架運行的舊版基金資產管理系統 1.0，並且將 CI 發布流程從自託管 Jenkins 重新規劃到公司級的 DevOps [騰訊藍盾](https://github.com/Tencent/bk-ci)
+- 維護 Java Spring Boot 框架運行的舊版基金資產管理系統 1.0，並將 CI 發布流程從自託管 Jenkins 重新規劃到公司級的 DevOps [騰訊藍盾](https://github.com/Tencent/bk-ci)
 - 使用 shell script 製作命令行自動化將程式碼倉庫從 SVN 無縫地遷移到 Git
 - 擔任前端團隊組員中的 UI 導師
 
@@ -46,6 +40,10 @@
 - 使用 XML 和 Javascript 開發 PTC Arbortext 文件軟體自動化功能
 
 <small><b>技術棧：Java, MySQL, XML, XSL, Javascript</b></small>
+
+## 學歷
+
+<i class="fas fa-graduation-cap fa-log"></i> B.AS., Information Technology, <a href="http://www.griffith.edu.au/" target="_blank">Griffith University </a> <time class="term">2007/03 - 2010/06</time>
 
 ## 專案
 

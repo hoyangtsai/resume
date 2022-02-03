@@ -1,14 +1,8 @@
-# Ho-Yang Tsai
-
 ## Contact Info
 
 <i class="fas fa-envelope-square fa-lg"></i> [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)<br/>
 <i class="fab fa-linkedin fa-lg"></i> [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai/)<br/>
 <i class="fab fa-github-square fa-lg"></i> [https://github.com/hoyangtsai](https://github.com/hoyangtsai/)<br/>
-
-## Education
-
-<i class="fas fa-graduation-cap fa-log"></i> B.AS., Information Technology, <a href="http://www.griffith.edu.au/" target="_blank">Griffith University </a> <time class="term">2007/03 - 2010/06</time>
 
 ## Experience
 
@@ -16,7 +10,7 @@
 
 #### CDG - Financial Tech Group
 
-- Developed widely compatible customer-facing Wechat mobile apps and mini-programs such as gold investment, currency exchange, Tencent co-branded credit card and fund portfolio investment
+- Developed widely compatible customer-facing WeChat mobile apps and mini-programs such as gold investment, currency exchange, Tencent co-branded credit card and fund portfolio investment
 - Developed fund assets management desktop system 1.0 and 2.0 front-ends with Vue which include various charts and complex forms
 - Participated in A/B data management system development from the back-end Nodejs service to the front-end Vue application
 - Maintained the legacy fund assets management system 1.0 served by Java Spring Boot framework and remapped the CI release process from a self-hosted Jenkins to a company-level DevOps [Tencent/BlueKing-CI](https://github.com/Tencent/bk-ci/blob/master/README_EN.md)
@@ -27,7 +21,7 @@
 
 #### MIG - Media and Service Platform UX Design Department
 
-- Collaborated with the design team to build mobile, desktop and Wechat mini-programs UI component libraries
+- Collaborated with the design team to build mobile, desktop and WeChat mini-programs UI component libraries
 - Design mockups refactoring compatible with different resolution on Android and iOS devices
 
 <small><b>Stack: Javascript, SASS, React, Nodejs</b></small>
@@ -46,6 +40,10 @@
 - Developed PTC Arbortext document software automation features using XML and Javascript
 
 <small><b>Stack: Java, MySQL, XML, XSL, Javascript</b></small>
+
+## Education
+
+<i class="fas fa-graduation-cap fa-log"></i> B.AS., Information Technology, <a href="http://www.griffith.edu.au/" target="_blank">Griffith University </a> <time class="term">2007/03 - 2010/06</time>
 
 ## Project
 

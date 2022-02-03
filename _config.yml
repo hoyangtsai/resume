@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-title: Resume
+title: Ho-Yang Tsai
 description: 
-logo: assets/20130703.jpg
+logo: 
 google_analytics: G-6219R1CH71
 exclude: ["Gemfile", "Gemfile.lock", "run.sh"]
 languages: ['en', 'zh-tw']
