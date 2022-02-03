@@ -69,6 +69,16 @@ screen and (max-width: 960px) {
   }
 }
 
+@media print,
+screen and (max-width: 720px) {}
+
+@media print,
+screen and (max-width: 480px) {
+  body {
+    padding: 15px;
+  }
+}
+
 @media print {
   header {
     margin-bottom: 1em;
