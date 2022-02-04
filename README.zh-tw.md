@@ -6,7 +6,7 @@
 
 ## 經歷
 
-### Web 前端工程師, <a href="https://www.tencent.com/" target="_blank">騰訊科技</a> 📍 中國深圳 <br><small><time class="term">2016/01 - 2021/03</time></small>
+### Web 前端工程師, <a href="https://www.tencent.com/" target="_blank">騰訊科技</a> 📍 中國深圳 <small><time class="term">2016/01 - 2021/03</time></small>
 
 #### CDG - FiT 金融科技中心
 
@@ -17,29 +17,29 @@
 - 使用 shell script 製作命令行自動化將程式碼倉庫從 SVN 無縫地遷移到 Git
 - 擔任前端團隊組員中的 UI 導師
 
-<small><b>技術棧：Javascript, Vue, CMDJS, SASS, Typescript, Nodejs, MySQL, shell script</b></small>
+<b>技術棧：Javascript, Vue, CMDJS, SASS, Typescript, Nodejs, MySQL, shell script</b>
 
 #### MIG - 媒體和服務平台用戶體驗中心
 
 - 與設計團隊合作製作移動端、桌面端和微信小程序 UI 組件庫
 - 設計稿還原相容於不同解析度的安卓和 iOS 裝置上
 
-<small><b>技術棧：Javascript, SASS, React, Nodejs</b></small>
+<b>技術棧：Javascript, SASS, React, Nodejs</b>
 
-### 前端工程師, <a href="https://www.foxconn.com/" target="_blank">鴻海精密工業</a> 📍 台灣高雄 <br><small><time class="term">2013/07 - 2015/08</time></small>
+### 前端工程師, <a href="https://www.foxconn.com/" target="_blank">鴻海精密工業</a> 📍 台灣高雄 <small><time class="term">2013/07 - 2015/08</time></small>
 
 - 使用 RequireJS 製作 Firefox OS apps 和自適應網頁應用
 - 使用 CodeIgniter 開發網頁應用後端 RESTful APIs
 - 使用 Java 搭配 Tesseract OCR 開發文字識別服務
 
-<small><b>技術棧：Javascript, AMDJS, SASS, PHP, Java, MySQL</b></small>
+<b>技術棧：Javascript, AMDJS, SASS, PHP, Java, MySQL</b>
 
-### 軟體工程師, <a href="http://www.hismax.com.tw/" target="_blank">富博科技</a> 📍 台灣高雄 <br><small><time class="term">2011/10 - 2013/04</time></small>
+### 軟體工程師, <a href="http://www.hismax.com.tw/" target="_blank">富博科技</a> 📍 台灣高雄 <small><time class="term">2011/10 - 2013/04</time></small>
 
 - 使用 Java SDK 和 JRE 客製化 PTC Windchill PLM 系統
 - 使用 XML 和 Javascript 開發 PTC Arbortext 文件軟體自動化功能
 
-<small><b>技術棧：Java, MySQL, XML, XSL, Javascript</b></small>
+<b>技術棧：Java, MySQL, XML, XSL, Javascript</b>
 
 ## 學歷
 
