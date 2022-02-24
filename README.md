@@ -17,14 +17,14 @@
 - Seamlessly migrated code repositories from SVN to git by creating CLI automation with shell script
 - Acted as UI mentor among the front-end team members
 
-<b>Stack: Javascript, Vue, CMDJS, SASS, Typescript, Nodejs, MySQL, shell script</b>
+<b>Stack: HTML/CSS, Javascript, Vue, CMDJs, SASS, Typescript, Nodejs, MySQL, Shell script</b>
 
 #### MIG - Media and Service Platform UX Design Department
 
 - Collaborated with the design team to build mobile, desktop and WeChat mini-programs UI component libraries
 - Design mockups refactoring compatible with different resolution on Android and iOS devices
 
-<b>Stack: Javascript, SASS, React, Nodejs</b>
+<b>Stack: HTML/CSS, Javascript, SASS, React, Nodejs</b>
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a> 📍 Kaohsiung, Taiwan <small><time class="term">2013/07 - 2015/08</time></small>
 
@@ -32,14 +32,14 @@
 - Developed the web apps back-end RESTful APIs using CodeIgniter
 - Developed character recognition service using Tesseract OCR with Java
 
-<b>Stack: Javascript, AMDJS, SASS, PHP, Java, MySQL</b>
+<b>Stack: HTML/CSS, Javascript, AMDJs, SASS, PHP, Java, MySQL</b>
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a> 📍 Kaohsiung, Taiwan <small><time class="term">2011/10 - 2013/04</time></small>
 
 - Customized PTC Windchill PLM system with Java SDK and JRE
 - Developed PTC Arbortext document software automation features using XML, XSL and Javascript
 
-<b>Stack: Java, MySQL, XML, XSL, Javascript</b>
+<b>Stack: Java, MySQL, XML/XSL, HTML/CSS, Javascript</b>
 
 ## Education
 
