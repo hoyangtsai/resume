@@ -17,7 +17,7 @@
 - 使用 shell script 製作命令行自動化將程式碼倉庫從 SVN 無縫地遷移到 Git
 - 擔任前端團隊組員中的 UI 導師
 
-<b>技術棧：HTML/CSS, Javascript, Vue, CMDJs, SASS, Typescript, Nodejs, MySQL, Shell script</b>
+<b>技術棧：HTML/CSS, Javascript, Vue, CMDJS, SASS, Typescript, Nodejs, MySQL, Shell script</b>
 
 #### MIG - 媒體和服務平台用戶體驗中心
 
@@ -32,7 +32,7 @@
 - 使用 CodeIgniter 開發網頁應用後端 RESTful APIs
 - 使用 Java 搭配 Tesseract OCR 開發文字識別服務
 
-<b>技術棧：HTML/CSS, Javascript, AMDJs, SASS, PHP, Java, MySQL</b>
+<b>技術棧：HTML/CSS, Javascript, AMDJS, SASS, PHP, Java, MySQL</b>
 
 ### 軟體工程師, <a href="http://www.hismax.com.tw" target="_blank">富博科技</a> 📍 台灣高雄 <small><time class="term">2011/10 - 2013/04</time></small>
 
@@ -43,7 +43,7 @@
 
 ## 學歷
 
-<i class="fas fa-graduation-cap fa-log"></i> B.AS., Information Technology, <a href="https://www.griffith.edu.au" target="_blank">Griffith University </a> <time class="term">2007/03 - 2010/06</time>
+<i class="fas fa-graduation-cap fa-log"></i> Bachelor of Information Technology, <a href="https://www.griffith.edu.au" target="_blank">Griffith University </a> <time class="term">2007/03 - 2010/06</time>
 
 ## 專案
 

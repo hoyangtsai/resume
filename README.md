@@ -17,7 +17,7 @@
 - Seamlessly migrated code repositories from SVN to git by creating CLI automation with shell script
 - Acted as UI mentor among the front-end team members
 
-<b>Stack: HTML/CSS, Javascript, Vue, CMDJs, SASS, Typescript, Nodejs, MySQL, Shell script</b>
+<b>Stack: HTML/CSS, Javascript, Vue, CMDJS, SASS, Typescript, Nodejs, MySQL, Shell script</b>
 
 #### MIG - Media and Service Platform UX Design Department
 
@@ -32,7 +32,7 @@
 - Developed the web apps back-end RESTful APIs using CodeIgniter
 - Developed character recognition service using Tesseract OCR with Java
 
-<b>Stack: HTML/CSS, Javascript, AMDJs, SASS, PHP, Java, MySQL</b>
+<b>Stack: HTML/CSS, Javascript, AMDJS, SASS, PHP, Java, MySQL</b>
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a> 📍 Kaohsiung, Taiwan <small><time class="term">2011/10 - 2013/04</time></small>
 
@@ -43,7 +43,7 @@
 
 ## Education
 
-<i class="fas fa-graduation-cap fa-log"></i> B.AS., Information Technology, <a href="https://www.griffith.edu.au" target="_blank">Griffith University </a> <time class="term">2007/03 - 2010/06</time>
+<i class="fas fa-graduation-cap fa-log"></i> Bachelor of Information Technology, <a href="https://www.griffith.edu.au" target="_blank">Griffith University </a> <time class="term">2007/03 - 2010/06</time>
 
 ## Project
 
