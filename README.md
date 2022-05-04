@@ -10,19 +10,19 @@
 
 #### CDG - Financial Tech Group
 
-- Developed financial innovation WeChat mobile apps and mini-programs such as gold investment, currency exchange, Tencent co-branded credit card and fund portfolio investment
-- Developed fund assets management desktop system 1.0 and 2.0 front-ends with Vue which include various charts and forms
-- Participated in A/B data management system development from the back-end Nodejs service to the front-end Vue application
-- Maintained the legacy fund assets management system 1.0 served by Java Spring Boot framework and remapped the CI release process from a self-hosted Jenkins to a company-level DevOps [Tencent/BlueKing-CI](https://github.com/Tencent/bk-ci/blob/master/README_EN.md)
-- Seamlessly migrated code repositories from SVN to git by creating CLI automation with shell script
-- Acted as UI mentor among the front-end team members
+- Developed financial innovation WeChat web apps and mini-programs such as gold investment, currency exchange, Tencent co-branded credit card and fund portfolio investment
+- Developed desktop web front-ends of fund assets management system version 1.0 and 2.0 which include various charts and forms
+- Participated in a A/B data management system back-end Nodejs services and front-end UI development
+- Maintained the legacy fund assets management system version 1.0 and remapped the CI release process migrated from a self-hosted Jenkins to a company-level DevOps [Tencent/BlueKing-CI](https://github.com/Tencent/bk-ci/blob/master/README_EN.md)
+- Planned and implemented all of SVN projects seamlessly migrated to Git repositories
+- Acted as UI mentor within the front-end team
 
 <b>Stack: HTML/CSS, Javascript, Vue, CMDJS, SASS, Typescript, Nodejs, MySQL, Shell script</b>
 
 #### MIG - Media and Service Platform UX Design Department
 
 - Collaborated with the design team to build mobile, desktop and WeChat mini-programs UI component libraries
-- Design mockups refactoring compatible with different resolution on Android and iOS devices
+- Design mockups refactoring compatible with Android and iOS devices of different screen resolutions
 
 <b>Stack: HTML/CSS, Javascript, SASS, React, Nodejs</b>
 
