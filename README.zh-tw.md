@@ -10,19 +10,19 @@
 
 #### CDG - FiT 金融科技中心
 
-- 開發金融創新的微信網頁應用和小程序，如微黃金、貨幣兌換、騰訊聯名信用卡和基金組合投資
-- 開發基金資產管理系統 Web 桌面端 1.0 和 2.0 版本前端，其中包含多樣的圖表和表格
-- 參與 A/B 數據管理系統的後端 Nodejs 服務和前端 UI 開發
-- 維護舊版的基金資產管理系統 1.0 版本後台，並遷移 CI 發布流程從自託管 Jenkins 到公司級的 DevOps [騰訊藍盾](https://github.com/Tencent/bk-ci)
+- 主導開發金融創新類的微信網頁和小程序，如微黃金、貨幣兌換、騰訊聯名信用卡和基金組合投資
+- 開發基金資產管理系統 web 桌面端，專注於大數據處理和視覺化資料
+- 開發 A/B 數據管理系統的後端 Nodejs 服務和前端 UI
+- 維護舊版的基金資產管理系統後台，並遷移 CI 發布流程從自託管 Jenkins 到公司級的 DevOps [騰訊藍盾](https://github.com/Tencent/bk-ci)
 - 規劃與執行所有 SVN 專案無縫地遷移到 Git 倉庫
-- 於前端團隊中擔任 UI 導師
+- 擔任前端團隊的 UI 導師
 
 <b>技術棧：HTML/CSS, Javascript, Vue, CMDJS, SASS, Typescript, Nodejs, MySQL, Shell script</b>
 
 #### MIG - 媒體和服務平台用戶體驗中心
 
 - 與設計團隊合作製作移動端、桌面端和微信小程序 UI 組件庫
-- 設計稿視覺還原相容不同螢幕解析度的 Android 和 iOS 裝置
+- 設計稿視覺還原相容各種螢幕解析度的 Android 和 iOS 裝置
 
 <b>技術棧：HTML/CSS, Javascript, SASS, React, Nodejs</b>
 
