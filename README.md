@@ -6,14 +6,14 @@
 
 ## Experience
 
-### Web Front-end Engineer, <a href="https://www.tencent.com" target="_blank">Tencent</a> 📍 Shenzhen, China <small><time class="term">2016/01 - 2021/03</time></small>
+### Senior Front-end Engineer, <a href="https://www.tencent.com" target="_blank">Tencent</a> 📍 Shenzhen, China <small><time class="term">2016/01 - 2021/03</time></small>
 
 #### CDG - Financial Tech Group
 
-- Mainly developed financial innovation WeChat web apps and mini-programs, like gold investment, currency exchange, Tencent co-branded credit card and fund portfolio investment
-- Developed fund assets management web system on desktop, focusing on big data processing and visualize data
-- Developed a A/B data management system back-end Nodejs services and front-end UI
-- Maintained the legacy fund assets management system and remapped the CI release process migrated from a self-hosted Jenkins to a company-level DevOps [Tencent/BlueKing-CI](https://github.com/Tencent/bk-ci/blob/master/README_EN.md)
+- Developed several FinTech WeChat web apps and mini-programs, such as [gold investment](https://hoyangtsai.github.io/projects/#gold-investment), currency exchange, [Tencent co-branded credit card](https://hoyangtsai.github.io/projects/#tencent-co-branded-credit-card) and [fund portfolio investment](https://hoyangtsai.github.io/projects/#fund-portfolio-investment)
+- Developed a desktop-based [fund asset management system](https://hoyangtsai.github.io/projects/#fund-asset-management-system), dealing with data processing and visualization
+- Served as a full-stack engineer to developed a A/B data management system
+- Maintained the legacy fund asset management system and remapped the CI release process migrated from a self-hosted Jenkins to a company-level DevOps [Tencent/BlueKing-CI](https://github.com/Tencent/bk-ci/blob/master/README_EN.md)
 - Planned and implemented all of SVN projects seamlessly migrated to Git repositories
 - Acted as UI mentor for the front-end team
 
