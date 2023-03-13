@@ -6,7 +6,7 @@
 
 ## 經歷
 
-### Staff Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍台灣台北 <small><time class="term">2022/05 - 2023/01</time></small>
+### Staff Software Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍台灣台北 <small><time class="term">2022/05 - 2023/01</time></small>
 
 - 主導幾個[瀏覽器擴充程式](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap)需求開發，如追蹤清單服務整合、搭建一個新的[解安裝反饋](https://www.shopback.com/uninstall)頁面和透過 QRCode 購買無現金回饋商家的折價券
 - 規劃並開發性能相關工具，如效能檢驗工具比較不同版本或其他現金回饋擴充程式，以及效能監控工具
