@@ -6,6 +6,15 @@
 
 ## 經歷
 
+### Staff Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍 台灣台北 <small><time class="term">2022/05 - 2023/01</time></small>
+
+- 主導幾個[瀏覽器擴充程式](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap)需求開發，如追蹤清單服務整合、搭建一個新的[解安裝反饋](https://www.shopback.com/uninstall)頁面和透過 QRCode 購買無現金回饋商家的折價券
+- 規劃並開發性能相關工具，如效能檢驗工具比較不同版本或其他現金回饋擴充程式，以及效能監控工具
+- 規劃一個在 CI 中 end-to-end smoke test 自動化以保證開發品質
+- 規劃一個工作流程優化計畫讓新版本發布更加流暢，其中包含一些 code review 機制和需求時程控管
+
+<b>Stack: HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script</b>
+
 ### 資深前端工程師, <a href="https://www.tencent.com" target="_blank">騰訊科技</a> 📍 中國深圳 <small><time class="term">2016/01 - 2021/03</time></small>
 
 #### CDG - FiT 金融科技中心
