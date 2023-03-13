@@ -6,16 +6,16 @@
 
 ## 經歷
 
-### Staff Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍 台灣台北 <small><time class="term">2022/05 - 2023/01</time></small>
+### Staff Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍台灣台北 <small><time class="term">2022/05 - 2023/01</time></small>
 
 - 主導幾個[瀏覽器擴充程式](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap)需求開發，如追蹤清單服務整合、搭建一個新的[解安裝反饋](https://www.shopback.com/uninstall)頁面和透過 QRCode 購買無現金回饋商家的折價券
 - 規劃並開發性能相關工具，如效能檢驗工具比較不同版本或其他現金回饋擴充程式，以及效能監控工具
-- 規劃一個在 CI 中 end-to-end smoke test 自動化以保證開發品質
-- 規劃一個工作流程優化計畫讓新版本發布更加流暢，其中包含一些 code review 機制和需求時程控管
+- 規劃一個在 CI 中執行 end-to-end smoke test 自動化，以保證開發品質
+- 規劃一個工作流程優化計畫讓版本發布更加流暢，其中包含 code review 機制和需求時程控管
 
-<b>Stack: HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script</b>
+<b>技術棧：HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script</b>
 
-### 資深前端工程師, <a href="https://www.tencent.com" target="_blank">騰訊科技</a> 📍 中國深圳 <small><time class="term">2016/01 - 2021/03</time></small>
+### 資深前端工程師, <a href="https://www.tencent.com" target="_blank">騰訊科技</a> 📍中國深圳 <small><time class="term">2016/01 - 2021/03</time></small>
 
 #### CDG - FiT 金融科技中心
 
@@ -35,7 +35,7 @@
 
 <b>技術棧：HTML/CSS, Javascript, SASS, React, Nodejs</b>
 
-### 前端工程師, <a href="https://www.foxconn.com" target="_blank">鴻海精密工業</a> 📍 台灣高雄 <small><time class="term">2013/07 - 2015/08</time></small>
+### 前端工程師, <a href="https://www.foxconn.com" target="_blank">鴻海精密工業</a> 📍台灣高雄 <small><time class="term">2013/07 - 2015/08</time></small>
 
 - 使用 RequireJS 製作 Firefox OS apps 和自適應網頁應用
 - 使用 CodeIgniter 開發網頁應用後端 RESTful APIs
@@ -43,7 +43,7 @@
 
 <b>技術棧：HTML/CSS, Javascript, AMDJS, SASS, PHP, Java, MySQL</b>
 
-### 軟體工程師, <a href="http://www.hismax.com.tw" target="_blank">富博科技</a> 📍 台灣高雄 <small><time class="term">2011/10 - 2013/04</time></small>
+### 軟體工程師, <a href="http://www.hismax.com.tw" target="_blank">富博科技</a> 📍台灣高雄 <small><time class="term">2011/10 - 2013/04</time></small>
 
 - 使用 Java SDK 和 JRE 客製化 PTC Windchill PLM 系統
 - 使用 XML、XSL 和 Javascript 開發 PTC Arbortext 文件軟體自動化功能
