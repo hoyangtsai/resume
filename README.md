@@ -11,7 +11,7 @@
 - Led several the [browser extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) features development, such as watchlist service integration, constructed a new [uninstall feedback](https://www.shopback.com/uninstall) page and non-cashback merchants' voucher purchase via QRCode
 - Planned and developed performance-related tools, such as a performance evaluation tool to compare different versions or other cashback extensions and a performance monitoring tool
 - Planned an end-to-end smoke test automation in CI to assure the development quality
-- Planned a workflow optimization plan to make the releasing more smooth which includes code review mechanisms and requirement timeline control
+- Provided a workflow optimization plan to make the releasing more smooth which includes code review mechanisms and requirement timeline control
 
 <b>Stack: HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script</b>
 
