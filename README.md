@@ -10,7 +10,7 @@
 
 ### Staff Software Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍Taipei, Taiwan <small><time class="term">2022/05 - 2023/01</time></small>
 
-- Led several the [browser extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) features development, such as watchlist service integration, built a new micro-frontend site for the [uninstall feedback](https://www.shopback.com/uninstall) page, purchasing merchant vouchers by scanning the QRCode on the browser extension through your mobile phone
+- Led the [browser extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) developments, such as watchlist service integration, built a new micro-frontend site for the [uninstall feedback](https://www.shopback.com/uninstall), purchasing merchant vouchers by scanning the QR code on the browser extension through your mobile phone
 - Planned and developed performance-related tools, such as a performance evaluation tool to compare different versions or other cashback extensions and a performance monitoring tool
 - Planned an end-to-end smoke test automation in CI to assure the development quality
 - Provided a workflow optimization plan to make the releasing more smooth which includes code review mechanisms and requirement timeline control
