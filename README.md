@@ -39,7 +39,7 @@
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a> 📍 Kaohsiung, Taiwan <small><time class="term">2013/07 - 2015/08</time></small>
 
-- Built Firefox OS apps and responsive web apps using RequireJS
+- Developed Firefox OS apps and responsive web apps using RequireJS
 - Developed the web apps back-end RESTful APIs using CodeIgniter
 - Developed character recognition service using Tesseract OCR with Java
 

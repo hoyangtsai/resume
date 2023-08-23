@@ -39,7 +39,7 @@
 
 ### 前端工程師, <a href="https://www.foxconn.com" target="_blank">鴻海精密工業</a> 📍台灣高雄 <small><time class="term">2013/07 - 2015/08</time></small>
 
-- 使用 RequireJS 製作 Firefox OS apps 和自適應網頁應用
+- 使用 RequireJS 開發 Firefox OS apps 和自適應網頁應用
 - 使用 CodeIgniter 開發網頁應用後端 RESTful APIs
 - 使用 Java 搭配 Tesseract OCR 開發文字識別服務
 
