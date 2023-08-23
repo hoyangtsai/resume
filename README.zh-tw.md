@@ -43,14 +43,14 @@
 - 使用 CodeIgniter 開發網頁應用後端 RESTful APIs
 - 使用 Java 搭配 Tesseract OCR 開發文字識別服務
 
-<b>技術棧：HTML/CSS, Javascript, AMDJS, SASS, PHP, Java, MySQL</b>
+<b>技術棧：HTML/CSS, Javascript, AMDJS, SASS, PHP, MySQL</b>
 
 ### 軟體工程師, <a href="http://www.hismax.com.tw" target="_blank">富博科技</a> 📍台灣高雄 <small><time class="term">2011/10 - 2013/04</time></small>
 
 - 使用 Java SDK 和 JRE 客製化 PTC Windchill PLM 系統
 - 使用 XML、XSL 和 Javascript 開發 PTC Arbortext 文件軟體自動化功能
 
-<b>技術棧：Java, MySQL, XML/XSL, HTML/CSS, Javascript</b>
+<b>技術棧：Java, MySQL, XML/XSL, HTML/CSS, Javascript, JavaServer Page (JSP)</b>
 
 ## 學歷
 

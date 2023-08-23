@@ -43,14 +43,14 @@
 - Developed the web apps back-end RESTful APIs using CodeIgniter
 - Developed character recognition service using Tesseract OCR with Java
 
-<b>Stack: HTML/CSS, Javascript, AMDJS, SASS, PHP, Java, MySQL</b>
+<b>Stack: HTML/CSS, Javascript, AMDJS, SASS, PHP, MySQL</b>
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a> 📍 Kaohsiung, Taiwan <small><time class="term">2011/10 - 2013/04</time></small>
 
 - Customized PTC Windchill PLM system with Java SDK and JRE
 - Developed PTC Arbortext document software automation features using XML, XSL and Javascript
 
-<b>Stack: Java, MySQL, XML/XSL, HTML/CSS, Javascript</b>
+<b>Stack: Java, MySQL, XML/XSL, HTML/CSS, Javascript, JavaServer Page (JSP)</b>
 
 ## Education
 
