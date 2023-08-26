@@ -12,10 +12,10 @@
 
 - Led the [browser extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) developments, such as watchlist service integration, built a new micro-frontend site for the [uninstall feedback](https://www.shopback.com/uninstall), purchasing merchant vouchers by scanning the QR code on the browser extension through your mobile phone
 - Planned and developed performance-related tools, such as a performance evaluation tool to compare different versions or other cashback extensions and a performance monitoring tool
-- Planned an end-to-end smoke test automation in CI to assure the development quality
+- Planned an end-to-end smoke test automation in the CI pipeline to assure the quality of development
 - Provided a workflow optimization plan to make the releasing more smooth which includes code review mechanisms and requirement timeline control
 
-<b>Stack: HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script</b>
+  > Skills: HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script
 
 ### Senior Front-end Engineer, <a href="https://www.tencent.com" target="_blank">Tencent</a> 📍 Shenzhen, China <small><time class="term">2016/01 - 2021/03</time></small>
 
@@ -28,14 +28,14 @@
 - Planned and implemented all of SVN projects seamlessly migrated to Git repositories
 - Acted as UI mentor for the front-end team
 
-<b>Stack: HTML/CSS, Javascript, Vue, CMDJS, SASS, Typescript, Nodejs, MySQL, Shell script</b>
+  > Skills: HTML/CSS, Javascript, Vue, CMDJS, SASS, Typescript, Nodejs, MySQL, Shell script
 
 #### MIG - Media and Service Platform UX Design Department
 
 - Collaborated with the design team to build mobile, desktop and WeChat mini-programs UI component libraries
 - Design mockups refactoring compatible with Android and iOS devices of various screen resolutions
 
-<b>Stack: HTML/CSS, Javascript, SASS, React, Nodejs</b>
+  > Skills: HTML/CSS, Javascript, SASS, React, Nodejs
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a> 📍 Kaohsiung, Taiwan <small><time class="term">2013/07 - 2015/08</time></small>
 
@@ -43,14 +43,14 @@
 - Developed the web apps back-end RESTful APIs using CodeIgniter
 - Developed character recognition service using Tesseract OCR with Java
 
-<b>Stack: HTML/CSS, Javascript, AMDJS, SASS, PHP, MySQL</b>
+  > Skills: HTML/CSS, Javascript, AMDJS, SASS, PHP, MySQL
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a> 📍 Kaohsiung, Taiwan <small><time class="term">2011/10 - 2013/04</time></small>
 
 - Customized PTC Windchill PLM system with Java SDK and JRE
 - Developed PTC Arbortext document software automation features using XML, XSL and Javascript
 
-<b>Stack: Java, MySQL, XML/XSL, HTML/CSS, Javascript, JavaServer Page (JSP)</b>
+  > Skills: Java, MySQL, XML/XSL, HTML/CSS, Javascript, JavaServer Page (JSP)
 
 ## Education
 
