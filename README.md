@@ -15,7 +15,7 @@
 - Planned an end-to-end smoke test automation in the CI pipeline to assure the quality of development
 - Provided a workflow optimization plan to make the releasing more smooth which includes code review mechanisms and requirement timeline control
 
-  > Skills: HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script
+  >Skills: HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script
 
 ### Senior Front-end Engineer, <a href="https://www.tencent.com" target="_blank">Tencent</a> 📍 Shenzhen, China <small><time class="term">2016/01 - 2021/03</time></small>
 
@@ -28,14 +28,12 @@
 - Planned and implemented all of SVN projects seamlessly migrated to Git repositories
 - Acted as UI mentor for the front-end team
 
-  > Skills: HTML/CSS, Javascript, Vue, CMDJS, SASS, Typescript, Nodejs, MySQL, Shell script
-
 #### MIG - Media and Service Platform UX Design Department
 
 - Collaborated with the design team to build mobile, desktop and WeChat mini-programs UI component libraries
 - Design mockups refactoring compatible with Android and iOS devices of various screen resolutions
 
-  > Skills: HTML/CSS, Javascript, SASS, React, Nodejs
+  >Skills: HTML/CSS, Javascript, SASS, React, Vue, CMDJS, Typescript, Nodejs, MySQL, Shell script
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a> 📍 Kaohsiung, Taiwan <small><time class="term">2013/07 - 2015/08</time></small>
 
@@ -43,14 +41,14 @@
 - Developed the web apps back-end RESTful APIs using CodeIgniter
 - Developed character recognition service using Tesseract OCR with Java
 
-  > Skills: HTML/CSS, Javascript, AMDJS, SASS, PHP, MySQL
+  >Skills: HTML/CSS, Javascript, AMDJS, SASS, PHP, MySQL
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a> 📍 Kaohsiung, Taiwan <small><time class="term">2011/10 - 2013/04</time></small>
 
 - Customized PTC Windchill PLM system with Java SDK and JRE
 - Developed PTC Arbortext document software automation features using XML, XSL and Javascript
 
-  > Skills: Java, MySQL, XML/XSL, HTML/CSS, Javascript, JavaServer Page (JSP)
+  >Skills: Java, MySQL, XML/XSL, HTML/CSS, Javascript, JavaServer Page (JSP)
 
 ## Education
 
