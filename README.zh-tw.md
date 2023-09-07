@@ -10,8 +10,8 @@
 
 ### Staff Software Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍台灣台北 <small><time class="term">2022/05 - 2023/01</time></small>
 
-- 主導[瀏覽器擴充程式](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap)開發，如追蹤清單服務整合、為[解安裝意見反饋](https://www.shopback.com/uninstall)搭建一個新的微前端網站、通過手機掃描擴充程式上的 QR code 購買商家折價券
-- 規劃並開發性能相關工具，如效能檢驗工具比較不同版本或其他同業的擴充程式之間的性能差異，以及效能監控工具
+- 主導一個超過 800K 安裝數的[現金回饋瀏覽器擴充程式](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap)的前端開發
+- 為瀏覽器擴充程式規劃並開發效能優化工具
 - 規劃一個在 CI pipeline 中執行自動化 end-to-end smoke test，以保證開發品質
 - 提供一個工作流程優化計畫讓版本發布更加流暢，其中包含 code review 機制和需求時程控管
 
