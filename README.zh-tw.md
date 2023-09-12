@@ -21,8 +21,8 @@
 
 #### CDG - FiT 金融科技中心
 
-- 開發金融科技的微信端網頁應用和小程序，如[微黃金](https://hoyangtsai.github.io/projects/#gold-investment)、外幣兌換、[騰訊聯名信用卡](https://hoyangtsai.github.io/projects/#tencent-co-branded-credit-card) 和[基金組合投資](https://hoyangtsai.github.io/projects/#fund-portfolio-investment)
-- 開發桌面版的[資產管理系統](https://hoyangtsai.github.io/projects/#fund-asset-management-system)，處理數據資料和視覺化
+- 開發百萬級用戶的 FinTech 微信網頁應用和小程序
+- 開發桌面端資產管理系統，具有大量的資料處理和視覺化功能
 - 擔任全端工程師開發 A/B 數據管理系統
 - 維護舊版的基金資產管理系統後台，並遷移 CI 發布流程從自託管 Jenkins 到公司級的 DevOps [騰訊藍盾](https://github.com/Tencent/bk-ci)
 - 規劃與執行所有 SVN 專案無縫地遷移到 Git 倉庫

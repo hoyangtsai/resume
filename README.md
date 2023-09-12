@@ -21,8 +21,8 @@
 
 #### CDG - Financial Tech Group
 
-- Developed several FinTech WeChat web apps and mini-programs, such as [gold investment](https://hoyangtsai.github.io/projects/#gold-investment), currency exchange, [Tencent co-branded credit card](https://hoyangtsai.github.io/projects/#tencent-co-branded-credit-card) and [fund portfolio investment](https://hoyangtsai.github.io/projects/#fund-portfolio-investment)
-- Developed a desktop-based [fund asset management system](https://hoyangtsai.github.io/projects/#fund-asset-management-system), dealing with data processing and visualization
+- Developed FinTech WeChat web applications and mini-programs for millions of users
+- Developed a desktop-based fund asset management system with a large of data process and visualization
 - Served as a full-stack engineer to developed a A/B data management system
 - Maintained the legacy fund asset management system and remapped the CI release process migrated from a self-hosted Jenkins to a company-level DevOps [Tencent/BlueKing-CI](https://github.com/Tencent/bk-ci/blob/master/README_EN.md)
 - Planned and implemented all of SVN projects seamlessly migrated to Git repositories
