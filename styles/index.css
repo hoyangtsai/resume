@@ -43,10 +43,6 @@ section p:last-child {
   margin-bottom: 0;
 }
 
-.wrapper {
-  width: 720px;
-}
-
 time.term {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
