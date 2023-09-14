@@ -11,9 +11,8 @@
 ### Staff Software Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍台灣台北 <small><time class="term">2022/05 - 2023/01</time></small>
 
 - 主導一個服務 9 個地區市場、安裝超過 800,000 次的[現金回饋瀏覽器擴充程式](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap)的前端開發
-- 為瀏覽器擴充程式規劃並開發效能優化工具
-- 規劃一個在 CI pipeline 中執行自動化 end-to-end smoke test，以保證開發品質
-- 提供一個工作流程優化計畫讓版本發布更加流暢，其中包含 code review 機制和需求時程控管
+- 為瀏覽器擴充程式規劃並開發一個效能評估工具，發現其中一個低效率的腳本將執行時間從 2.3 秒減少到 0.2 秒
+- 提供一個在 CI pipeline 中自動化 end-to-end smoke test 的解決方案，以覆蓋 QA 階段其中一個工作
 
   >技能：HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script
 
@@ -22,11 +21,11 @@
 #### CDG - FiT 金融科技中心
 
 - 開發百萬級用戶的 FinTech 微信網頁應用和小程序
-- 開發桌面端資產管理系統，具有大量的資料處理和視覺化功能
+- 開發含大量資料處理和數據視覺化的資產管理系統
 - 擔任全端工程師開發 A/B 數據管理系統
-- 維護舊版的基金資產管理系統後台，並遷移 CI 發布流程從自託管 Jenkins 到公司級的 DevOps [騰訊藍盾](https://github.com/Tencent/bk-ci)
+- 遷移一個舊版的 Java 專案從 Jenkins 到[騰訊藍盾](https://github.com/Tencent/bk-ci) 降低維護成本近乎到零
 - 規劃與執行所有 SVN 專案無縫地遷移到 Git 倉庫
-- 擔任前端團隊的 UI 導師
+- 擔任後台專業組員的前端導師
 
 #### MIG - 媒體和服務平台用戶體驗中心
 

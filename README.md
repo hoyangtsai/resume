@@ -10,10 +10,9 @@
 
 ### Staff Software Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍Taipei, Taiwan <small><time class="term">2022/05 - 2023/01</time></small>
 
-- Led the front-end development of a [cashback browser extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) with over 800,000 installs available in 9 regional markets
-- Planned and developed performance optimization tools for the browser extension
-- Planned an end-to-end smoke test automation in the CI pipeline to assure the quality of development
-- Provided a workflow optimization plan to make the releasing more smooth which includes code review mechanisms and requirement timeline control
+- Led the front-end development of the [cashback browser extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) with over 800,000 installs, available in 9 regional markets
+- Planned and developed a performance evaluation tool for the browser extension, spotted one of inefficient scripting reduced the executing time from 2.3 seconds to 0.2 seconds
+- Provided a solution of the end-to-end smoke test automation in the CI pipeline to cover one of QA phase jobs
 
   >Skills: HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script
 
@@ -22,11 +21,11 @@
 #### CDG - Financial Tech Group
 
 - Developed FinTech WeChat web applications and mini-programs for millions of users
-- Developed a desktop-based fund asset management system with a large of data process and visualization
-- Served as a full-stack engineer to developed a A/B data management system
-- Maintained the legacy fund asset management system and remapped the CI release process migrated from a self-hosted Jenkins to a company-level DevOps [Tencent/BlueKing-CI](https://github.com/Tencent/bk-ci/blob/master/README_EN.md)
-- Planned and implemented all of SVN projects seamlessly migrated to Git repositories
-- Acted as UI mentor for the front-end team
+- Developed a fund assets management system with a large amount of data processing and data visualization
+- Served as a full-stack engineer to develope a A/B data management system
+- Migrated a legacy Java project from Jenkins to [Tencent/BlueKing-CI](https://github.com/Tencent/bk-ci/blob/master/README_EN.md) minimized the maintenance effort to nearly zero
+- Planned and implemented all of the SVN projects seamlessly migrated to Git repositories
+- Acted as a front-end mentor for the backend specialist teammates
 
 #### MIG - Media and Service Platform UX Design Department
 
