@@ -11,7 +11,7 @@
 ### Staff Software Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍台灣台北 <small><time class="term">2022/05 - 2023/01</time></small>
 
 - 主導一個服務 9 個地區市場、安裝超過 800,000 次的[現金回饋瀏覽器擴充程式](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap)的前端開發
-- 為瀏覽器擴充程式規劃並開發一個效能評估工具，其中一個低效的腳本執行時間從 2.3 秒減少到 0.2 秒
+- 為瀏覽器擴充程式規劃並開發一個效能評估工具，發現一個低效的腳本執行時間從 2.3 秒減少到 0.2 秒
 - 提供一個在 CI pipeline 中自動化 end-to-end smoke test 的解決方案，以覆蓋 QA 階段其中一個工作
 
   >技能：HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script

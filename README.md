@@ -11,7 +11,7 @@
 ### Staff Software Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍Taipei, Taiwan <small><time class="term">2022/05 - 2023/01</time></small>
 
 - Led the front-end development of the [cashback browser extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) with over 800,000 installs, available in 9 regional markets
-- Planned and developed a performance evaluation tool for the browser extension, one of the inefficient scripting executions spotted reduced the time from 2.3 seconds to 0.2 seconds
+- Planned and developed a performance evaluation tool for the browser extension, spotted one of the inefficient scripting executions reduced the time from 2.3 seconds to 0.2 seconds
 - Provided a solution of the end-to-end smoke test automation in the CI pipeline to cover one of QA phase jobs
 
   >Skills: HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script
