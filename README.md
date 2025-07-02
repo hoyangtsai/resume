@@ -8,11 +8,29 @@
 
 ## Experience
 
+### Senior Software Engineer, <a href="https://www.phase.com/" target="_blank">Phase</a> 📍Taipei, Taiwan <small><time class="term">2023/11 - 2025/07</time></small>
+
+Contributed across the stack to deliver high-impact features, ensure system reliability, and improve user experience in a collaborative design environment.
+
+- Feature Development
+  - Led implementation of key features: co-editing presence, animation presets, text-on-canvas, and a Figma plugin for importing designs into Phase
+  - Designed and built full-stack solutions, from system architecture to UI and backend APIs
+
+- Technical Skills
+  - Specialized in JavaScript/TypeScript, modern web UI development, and API integration across various protocols
+  - Maintained test coverage and code quality through unit testing and best practices
+
+- System Optimization
+  - Regularly handled bug fixes
+  - Improved system performance across existing features
+  - Ensured scalable and maintainable systems through ongoing optimization efforts
+
 ### Staff Software Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍Taipei, Taiwan <small><time class="term">2022/05 - 2023/01</time></small>
 
-- Led the front-end development of the [cashback browser extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) with over 800,000 installs, available in 9 regional markets
+- Led the front-end development of [Shopback Chrome extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) with over 800,000 installs, available in 9 regional markets
 - Planned and developed a performance evaluation tool for the browser extension, spotted one of the inefficient scripting executions reduced the time from 2.3 seconds to 0.2 seconds
 - Provided a solution of the end-to-end smoke test automation in the CI pipeline to cover one of QA phase jobs
+- Cross regions co-working with Singapore and Vietnam colleagues
 
   >Skills: HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script
 
