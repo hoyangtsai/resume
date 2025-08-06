@@ -10,47 +10,34 @@
 
 ### Senior Software Engineer, <a href="https://www.phase.com/" target="_blank">Phase</a> 📍Taipei, Taiwan <small><time class="term">2023/11 - 2025/07</time></small>
 
-Contributed across the stack to deliver high-impact features, ensure system reliability, and improve user experience in a collaborative design environment.
+- Led implementation of key features such as co-editing presence, animation presets and text-on-canvas
+- Integrated Figma designs into Phase and converted component variants to be interactive
+- Designed and built end-to-end solutions spanning system architecture, UI, and backend APIs
+- Maintained test coverage and upheld code quality through unit testing and best practices
+- Addressed bugs and optimized system performance across existing features
 
-- Feature Development
-  - Led implementation of key features: co-editing presence, animation presets, text-on-canvas, and a Figma plugin for importing designs into Phase
-  - Designed and built full-stack solutions, from system architecture to UI and backend APIs
-
-- Technical Skills
-  - Specialized in JavaScript/TypeScript, modern web UI development, and API integration across various protocols
-  - Maintained test coverage and code quality through unit testing and best practices
-
-- System Optimization
-  - Regularly handled bug fixes
-  - Improved system performance across existing features
-  - Ensured scalable and maintainable systems through ongoing optimization efforts
+  > Skills: React, Javascript, Typescript, Tailwind
 
 ### Staff Software Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍Taipei, Taiwan <small><time class="term">2022/05 - 2023/01</time></small>
 
-- Led the front-end development of [Shopback Chrome extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) with over 800,000 installs, available in 9 regional markets
+- Led the front-end development of [ShopBack Chrome extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) with over 800,000 installs, available in 9 regional markets
 - Planned and developed a performance evaluation tool for the browser extension, spotted one of the inefficient scripting executions reduced the time from 2.3 seconds to 0.2 seconds
 - Provided a solution of the end-to-end smoke test automation in the CI pipeline to cover one of QA phase jobs
 - Cross regions co-working with Singapore and Vietnam colleagues
 
-  >Skills: HTML/CSS, Javascript, ReactJS, Jenkins, AWS, Kubernetes, Gitlab, Shell script
+  > Skills: Javascript, React, AWS, Kubernetes, Shell script
 
 ### Senior Front-end Engineer, <a href="https://www.tencent.com" target="_blank">Tencent</a> 📍 Shenzhen, China <small><time class="term">2016/01 - 2021/03</time></small>
 
-#### CDG - Financial Tech Group
+- Built WeChat web applications and mini-programs for millions of users
+- Created a high-throughput data management system with interactive visualizations
+- Led full-stack A/B testing platform development
+- Migrated legacy Java builds from Jenkins to [Tencent/BlueKing-CI](https://github.com/Tencent/bk-ci/blob/master/README_EN.md), cutting maintenance overhead
+- Transitioned all SVN repositories to Git
+- Mentored backend engineers on front-end best practices
+- Developed UI component libraries and refactored mockups for mobile, desktop, and WeChat platforms
 
-- Developed FinTech WeChat web applications and mini-programs for millions of users
-- Developed a fund assets management system with a large amount of data processing and data visualization
-- Served as a full-stack engineer to develope a A/B data management system
-- Migrated a legacy Java project from Jenkins to [Tencent/BlueKing-CI](https://github.com/Tencent/bk-ci/blob/master/README_EN.md) minimized the maintenance effort to nearly zero
-- Planned and implemented all of the SVN projects seamlessly migrated to Git repositories
-- Acted as a front-end mentor for the backend specialist teammates
-
-#### MIG - Media and Service Platform UX Design Department
-
-- Collaborated with the design team to build mobile, desktop and WeChat mini-programs UI component libraries
-- Design mockups refactoring compatible with Android and iOS devices of various screen resolutions
-
-  >Skills: HTML/CSS, Javascript, SASS, React, Vue, CMDJS, Typescript, Nodejs, MySQL, Shell script
+  > Skills: Javascript, SASS, React, Vue, CMDJS, Typescript, Node.js, MySQL, Shell script
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a> 📍 Kaohsiung, Taiwan <small><time class="term">2013/07 - 2015/08</time></small>
 
@@ -58,14 +45,14 @@ Contributed across the stack to deliver high-impact features, ensure system reli
 - Developed the web apps back-end RESTful APIs using CodeIgniter
 - Developed character recognition service using Tesseract OCR with Java
 
-  >Skills: HTML/CSS, Javascript, AMDJS, SASS, PHP, MySQL
+  > Skills: Javascript, AMDJS, SASS, PHP, MySQL
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a> 📍 Kaohsiung, Taiwan <small><time class="term">2011/10 - 2013/04</time></small>
 
 - Customized PTC Windchill PLM system with Java SDK and JRE
 - Developed PTC Arbortext document software automation features using XML, XSL and Javascript
 
-  >Skills: Java, MySQL, XML/XSL, HTML/CSS, Javascript, JavaServer Page (JSP)
+  > Skills: Java, MySQL, XML/XSL, HTML/CSS, Javascript, JSP
 
 ## Education
 
