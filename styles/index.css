@@ -11,8 +11,12 @@ a {
 }
 
 a:hover {
-  font-weight: inherit;
+  font-weight: normal;
   color: rgb(50, 70, 200);
+}
+
+a:focus {
+  font-weight: normal;
 }
 
 header {
@@ -56,6 +60,11 @@ time.term {
   right: 0;
   top: 0;
   font-size: 16px;
+}
+
+.list-unstyled {
+  list-style: none;
+  padding-left: 0;
 }
 
 @media print,
@@ -104,6 +113,14 @@ screen and (max-width: 480px) {
   }
 
   .languages {
+    display: none;
+  }
+
+  .print-hide {
+    display: none;
+  }
+
+  #project, .project {
     display: none;
   }
 }
