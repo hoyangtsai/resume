@@ -1,3 +1,9 @@
+ body {
+  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+}
+
 h1 {
   font-size: 28px;
 }
@@ -86,6 +92,13 @@ time.term {
   padding-left: 0;
 }
 
+/* 1) 統一紙張與邊界 */
+@page {
+  size: A4;
+  margin: 14mm 14mm 14mm 14mm; /* 固定 mm，避免 px/pt 捨入差異 */
+}
+
+
 @media print,
 screen and (max-width: 960px) {
   header {
@@ -101,6 +114,16 @@ screen and (max-width: 480px) {
   body {
     padding: 15px;
   }
+}
+
+/* 2) 列印模式下的基礎字體與行高，用絕對值鎖定 */
+@media print {
+  html { print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+
+  /* 3) 分頁控制，降低孤行寡行與不合理拆頁 */
+  p, li { orphans: 3; widows: 3; }
+  h1, h2, h3 { break-after: avoid; page-break-after: avoid; }
+  ul, ol, li, .block { break-inside: avoid; page-break-inside: avoid; }
 }
 
 @media print {
@@ -141,9 +164,5 @@ screen and (max-width: 480px) {
 
   #project, .project {
     display: none;
-  }
-
-  .section-end {
-    page-break-after: always; /* Start a new page after elements with this class */
   }
 }
