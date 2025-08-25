@@ -1,5 +1,17 @@
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
 h3 small {
-  font-size: 0.9em;
+  font-size: 0.8em;
 }
 
 body {
@@ -17,6 +29,10 @@ a:hover {
 
 a:focus {
   font-weight: normal;
+}
+
+h1.page-title {
+  text-align: center;
 }
 
 header {
@@ -55,11 +71,14 @@ time.term {
   margin: 0 0 .5em;
 }
 
-.languages {
-  position: absolute;
-  right: 0;
-  top: 0;
-  font-size: 16px;
+.aside-right {
+  float: right;
+  font-size: 14px;
+  text-align: right;
+}
+
+.clear {
+  clear: both;
 }
 
 .list-unstyled {
@@ -112,7 +131,7 @@ screen and (max-width: 480px) {
     display: none;
   }
 
-  .languages {
+  .aside-right {
     display: none;
   }
 
@@ -122,5 +141,9 @@ screen and (max-width: 480px) {
 
   #project, .project {
     display: none;
+  }
+
+  .section-end {
+    page-break-after: always; /* Start a new page after elements with this class */
   }
 }

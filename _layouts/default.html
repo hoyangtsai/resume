@@ -35,7 +35,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>
+        <h1 class="page-title">
             {% if page.url contains 'zh-tw' %}
             <a href="{{ "/README.zh-tw" | absolute_url }}">{{ '履歷' | default: site.github.repository_name }}</a>
             {% else %}
@@ -46,8 +46,6 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -61,7 +59,7 @@
         </ul>
         {% endif %}
 
-        <div class="languages">
+        <div class="languages aside-right">
         {% for lang in site.languages %}
         {% if page.url contains lang %}
         {% else %}
@@ -79,6 +77,8 @@
         {% endif %}
         {% endfor %}
         </div>
+
+        <div class="clear"></div>
       </header>
       <section>
 
