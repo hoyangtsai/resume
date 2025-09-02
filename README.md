@@ -4,7 +4,7 @@
 
 <ul class="list-unstyled">
   <li>
-  <i class="fas fa-envelope-square fa-lg"></i> <a href="mailto:hoyang.t@gmail.com">hoyang.t@gmail.com</a>
+  <i class="fas fa-envelope-square fa-lg"></i> <a href="mailto:hire@hoyang.dev">hire@hoyang.dev</a>
   </li>
   <li>
   <i class="fab fa-linkedin fa-lg"></i> <a href="https://www.linkedin.com/in/hoyangtsai" target="_blank">https://www.linkedin.com/in/hoyangtsai</a>
