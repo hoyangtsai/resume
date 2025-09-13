@@ -25,7 +25,7 @@
 
 ### Staff Software Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍台灣台北 <small><time class="term">2022/05 - 2023/01</time></small>
   
-- 領導開發 [ShopBack Chrome 擴充功能](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) 的前端開發，該擴充功能已超過 800k+ 次安裝，並在 9 個地區可以使用
+- 領導開發 [ShopBack Chrome 擴充功能](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap)的前端開發，該擴充功能已超過 800k+ 次安裝，並在 9 個地區可以使用
 - 通過識別效率低下的腳本執行並在啟動時刪除不必要的腳本，將擴充功能的加載時間從 2.3 秒減少到 0.2 秒
 - 通過實施端到端煙霧測試自動化來提高擴充功能的測試覆蓋率
 - 與來自不同國家的同事合作，包括新加坡或越南
