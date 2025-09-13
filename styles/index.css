@@ -162,7 +162,7 @@ screen and (max-width: 480px) {
     display: none;
   }
 
-  #project, .project {
+  #project, .project, #專案 {
     display: none;
   }
 }

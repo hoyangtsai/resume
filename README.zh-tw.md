@@ -2,57 +2,55 @@
 
 ## 聯絡資訊
 
-<i class="fas fa-envelope-square fa-lg"></i> [hoyang.t@gmail.com](mailto:hoyang.t@gmail.com)<br/>
-<i class="fab fa-linkedin fa-lg"></i> [https://www.linkedin.com/in/hoyangtsai](https://www.linkedin.com/in/hoyangtsai)<br/>
-<i class="fab fa-github-square fa-lg"></i> [https://github.com/hoyangtsai](https://github.com/hoyangtsai)<br/>
+<ul class="list-unstyled">
+  <li>
+  <i class="fas fa-envelope-square fa-lg"></i> <a href="mailto:hire@hoyang.dev">hire@hoyang.dev</a>
+  </li>
+  <li>
+  <i class="fab fa-linkedin fa-lg"></i> <a href="https://www.linkedin.com/in/hoyangtsai" target="_blank">https://www.linkedin.com/in/hoyangtsai</a>
+  </li>
+  <li class="print-hide">
+  <i class="fab fa-github-square fa-lg"></i> <a href="https://github.com/hoyangtsai" target="_blank">https://github.com/hoyangtsai</a>
+  </li>
+</ul>
 
 ## 經歷
 
 ### Senior Software Engineer, <a href="https://www.phase.com/" target="_blank">Phase</a> 📍台灣台北 <small><time class="term">2023/11 - 2025/07</time></small>
 
-- 領導關鍵功能開發，如共同編輯、動畫預設集和畫布上建立文字
-- 將 Figma 設計整合到 Phase，並將元件變體轉換為可互動形式
-- 設計並構建涵蓋系統架構、使用者介面及後端 API 的端到端解決方案
-- 通過單元測試和最佳實踐維持測試覆蓋率並保持代碼質量
-- 解決錯誤並優化現有功能的系統性能
-
-  > 技能：React, Javascript, Typescript, Tailwind
+- 覆蓋超過 50% 的 Phase 編輯器的關鍵功能開發，如SVG匯入器、共同編輯存在、動畫預設、Canvas 上編輯文字
+- 開發了一個Figma外掛，用於將設計匯入Phase，與Figma元素的相容性約為90%，還允許將組件變量轉換為可互動
+- 透過將 bug bash 會議的頻率從每週減少到每月來提高階段應用程式的穩定性
+- 全英語的工作環境
 
 ### Staff Software Engineer, <a href="https://corporate.shopback.com" target="_blank">ShopBack</a> 📍台灣台北 <small><time class="term">2022/05 - 2023/01</time></small>
-
-- 主導一個安裝超過 800k 次 [Shopback Chrome 擴充程式](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap)的前端開發，並使用於 9 個地區市場
-- 為瀏覽器擴充程式規劃並開發一個效能評估工具，找出一個低效的腳本執行，將時間從 2.3 秒減少到 0.2 秒
-- 提供一個在 CI pipeline 中自動化 e2e smoke test 的解決方案，以涵蓋其中一個 QA 階段的工作
-- 與新加坡和越南的同事跨區域工作
   
-  > 技能：Javascript, React, AWS, Kubernetes, Shell script
+- 領導開發 [ShopBack Chrome 擴充功能](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) 的前端開發，該擴充功能已超過 800k+ 次安裝，並在 9 個地區可以使用
+- 通過識別效率低下的腳本執行並在啟動時刪除不必要的腳本，將擴充功能的加載時間從 2.3 秒減少到 0.2 秒
+- 通過實施端到端煙霧測試自動化來提高擴充功能的測試覆蓋率
+- 與來自不同國家的同事合作，包括新加坡或越南
 
 ### 資深前端工程師, <a href="https://www.tencent.com" target="_blank">騰訊科技</a> 📍中國深圳 <small><time class="term">2016/01 - 2021/03</time></small>
 
-- 開發百萬用戶級別的微信網頁應用和小程序
-- 建立高吞吐量數據管理系統，並搭配互動式數據可視化
-- 領導 A/B 測試平台的全棧開發
-- 將舊有的 Java 建構流程從 Jenkins 遷移至[騰訊藍盾](https://github.com/Tencent/bk-ci)，降低維護成本
-- 將所有 SVN 儲存庫遷移到 Git
-- 指導後端工程師掌握前端最佳實踐
-- 開發 UI 組件庫並重構手機、桌面及微信平台的設計稿
-
-  > 技能：Javascript, SASS, React, Vue, CMDJS, Typescript, Node.js, MySQL, Shell script
+- 為數百萬使用者構建了微信的網路應用程式和小程序
+- 參與了大多數前端框架，包括 React、Vue、微信小程式和 CMDJS 的網路應用程式
+- 開發了與所有平臺相容的 UI 元件和重構模型，包括各種 Android 版本、iOS 和桌面
 
 ### 前端工程師, <a href="https://www.foxconn.com" target="_blank">鴻海精密工業</a> 📍台灣高雄 <small><time class="term">2013/07 - 2015/08</time></small>
 
-- 使用 RequireJS 開發 Firefox OS apps 和自適應網頁應用
-- 使用 CodeIgniter 開發網頁應用後端 RESTful APIs
-- 使用 Java 搭配 Tesseract OCR 開發文字識別服務
-
-  > 技能：Javascript, AMDJS, SASS, PHP, MySQL
+- 同時參與多個網絡應用的前端和後端開發
+- 負責一個網絡應用的所有後端 API
+- 獨立開發了一個名片應用的 OCR 服務
 
 ### 軟體工程師, <a href="http://www.hismax.com.tw" target="_blank">富博科技</a> 📍台灣高雄 <small><time class="term">2011/10 - 2013/04</time></small>
 
-- 使用 Java SDK 和 JRE 客製化 PTC Windchill PLM 系統
-- 使用 XML、XSL 和 Javascript 開發 PTC Arbortext 文件軟體自動化功能
+- PTC 官方 Windchill PLM 系統客製化合夥伴
+- 首次為藥品製造商引進 PTC Arbortext 文件軟體自動化
 
-  > 技能：Java, MySQL, XML/XSL, HTML/CSS, Javascript, JSP
+## 技能
+
+- 前端: React, Vue, ECMAScript, Typescript, Tailwind, SASS, HTML/CSS, XML/XSL
+- 後端: Nodejs, PHP, Java, MySQL, NoSQL, GraphQL, Shell script
 
 ## 學歷
 
@@ -60,4 +58,6 @@
 
 ## 專案
 
-[https://hoyangtsai.github.io/projects](https://hoyangtsai.github.io/projects)
+<div class="project">
+<a class="project-link" href="https://hoyangtsai.github.io/projects/" target="_blank">https://hoyangtsai.github.io/projects/</a>
+</div>

@@ -64,12 +64,12 @@
         {% if page.url contains lang %}
         {% else %}
         {% if lang == 'en' and page.url != '/' %}
-        <!-- <a class="link" href="{{ "/" | relative_url }}">Resume</a><br/> -->
+        <a class="link" href="{{ "/" | relative_url }}">Resume</a><br/>
         <a class="link" href="javascript:window.print()" style="text-decoration: none;">
           <i class="fas fa-print"></i> 列印保存成 PDF
         </a>
         {% elsif lang == 'zh-tw' %}
-        <!-- <a class="link" href="{{ "README.zh-tw" | relative_url }}">履歷表</a><br/> -->
+        <a class="link" href="{{ "README.zh-tw" | relative_url }}">履歷表</a><br/>
         <a class="link" href="javascript:window.print()" style="text-decoration: none;">
           <i class="fas fa-print"></i> Print to save as PDF
         </a>
