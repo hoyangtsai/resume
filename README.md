@@ -44,8 +44,7 @@
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a> at Kaohsiung <small><time class="term">2011/10 - 2013/04</time></small>
 
-- PTC official partner for Windchill PLM system customization
-- First to introduced PTC Arbortext document software automation for a pharmaceutical manufacturer
+- Developed and customized Java-based PTC systems for manufacturing clients.
 
 ## Education
 
