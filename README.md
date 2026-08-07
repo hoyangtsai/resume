@@ -31,9 +31,8 @@
 
 ### Senior Front-end Engineer, <a href="https://www.tencent.com" target="_blank">Tencent</a> at Shenzhen <small><time class="term">2016/01 - 2021/03</time></small>
 
-- Built WeChat web applications and mini-programs used by millions of users
-- Participated in the development of most front-end frameworks, including React, Vue, WeChat Mini Programs, and CMDJS web applications
-- Developed UI components and refactored mockups compatible with all platforms, including various Android versions, iOS, and desktops
+- Built WeChat web applications and mini-programs used by millions of users.
+- Developed cross-platform UI components and applications using React, Vue, WeChat Mini Programs, and CMDJS for Android, iOS, and desktop environments.
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a> at Kaohsiung <small><time class="term">2013/07 - 2015/08</time></small>
 
