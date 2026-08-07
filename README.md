@@ -28,7 +28,6 @@
 - Led the front-end development of [ShopBack Chrome extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) with over 800k+ installs and available in 9 regional markets
 - Reduced the Chrome extension loading time from 2.3 seconds to 0.2 seconds by identifying inefficient scripts and removing unnecessary executions at startup
 - Enhanced the extension test coverage by implementing an end-to-end smoke test automation for QA
-- Worked with colleagues from different countries, including Singapore and Vietnam
 
 ### Senior Front-end Engineer, <a href="https://www.tencent.com" target="_blank">Tencent</a> at Shenzhen <small><time class="term">2016/01 - 2021/03</time></small>
 
