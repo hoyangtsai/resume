@@ -31,9 +31,8 @@
 
 ### 資深前端工程師, <a href="https://www.tencent.com" target="_blank">騰訊科技</a> 於深圳 <small><time class="term">2016/01 - 2021/03</time></small>
 
-- 開發了數百萬用戶使用的微信網頁應用程式和小程序
-- 參與過大部分的前端框架開發，包括 React、Vue、微信小程序和 CMDJS 網頁應用程式
-- 開發了與所有平臺相容的 UI 元件和重構模型，包括各種 Android 版本、iOS 和桌面
+- 開發數百萬用戶使用的微信網頁應用程式和小程序。
+- 使用 React、Vue、微信小程序和 CMDJS，開發支援 Android、iOS 與桌面環境的跨平台 UI 元件與應用程式。
 
 ### 前端工程師, <a href="https://www.foxconn.com" target="_blank">鴻海精密工業</a> 於高雄 <small><time class="term">2013/07 - 2015/08</time></small>
 
