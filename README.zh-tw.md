@@ -28,7 +28,6 @@
 - 主導開發 [ShopBack Chrome 擴充功能](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap)的前端開發，該擴充功能已超過 800k+ 次安裝，並在 9 個地區可以使用
 - 通過識別效率低的執行腳本並移除啟動時不必要的執行，將 Chrome 擴充功能的載入時間從 2.3 秒降低到 0.2 秒
 - 通過實施端到端煙霧測試自動化來提高擴充功能的測試覆蓋率
-- 與來自不同國家的同事合作，包含新加坡和越南
 
 ### 資深前端工程師, <a href="https://www.tencent.com" target="_blank">騰訊科技</a> 於深圳 <small><time class="term">2016/01 - 2021/03</time></small>
 
