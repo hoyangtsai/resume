@@ -38,9 +38,7 @@
 
 ### 前端工程師, <a href="https://www.foxconn.com" target="_blank">鴻海精密工業</a> 於高雄 <small><time class="term">2013/07 - 2015/08</time></small>
 
-- 同時參與多個網絡應用的前端和後端開發
-- 負責一個網絡應用的所有後端 API
-- 獨立開發了一個名片應用的 OCR 服務
+- 參與多個 Web 應用程式的全端開發，涵蓋前端與後端服務。
 
 ### 軟體工程師, <a href="http://www.hismax.com.tw" target="_blank">富博科技</a> 於高雄 <small><time class="term">2011/10 - 2013/04</time></small>
 
