@@ -16,6 +16,14 @@
 
 ## Experience
 
+### Senior Software Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a> at Taipei <small><time class="term">2025/12 - 2026/08</time></small>
+
+- Own the text rendering system in Creator (LottieFiles' Figma-style animation editor), shipping box text, auto line-height, and staggered-text playback while closing pixel-level parity gaps against the ThorVG WASM rendering engine
+- Diagnosed and fixed a cluster of rendering defects in the ThorVG/WASM text pipeline — embedded-font fallback on cold load, multi-line vertical alignment, and blend-mode handling — that caused exported animations to render differently in the editor canvas than in the preview player
+- Led the port of Creator's animation graph editor from prototype to a native production feature, including the cutover and QA pass
+- Built an automated canvas-vs-player parity verification pipeline (frame-matched screenshot diffing across a corpus of animations) to catch cross-renderer regressions before they ship
+- Built an AI-assisted engineering pipeline (root-cause diagnosis → fix planning → implementation → code review, orchestrated as reusable agent workflows) that sped up debugging and PR turnaround across Creator's multi-repo stack (editor, rendering engine, format libraries)
+
 ### Senior Software Engineer, <a href="https://www.phase.com/" target="_blank">Phase</a> at Taipei <small><time class="term">2023/11 - 2025/07</time></small>
 
 - Led the front-end development of over 50% of the Phase editor's key features, such as the SVG importer, co-editing presence, animation presets, and text on Canvas integration

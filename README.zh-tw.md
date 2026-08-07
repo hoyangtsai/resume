@@ -16,6 +16,14 @@
 
 ## 經歷
 
+### Senior Software Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a> 於台北 <small><time class="term">2025/12 - 2026/08</time></small>
+
+- 負責 Creator（LottieFiles 旗下類 Figma 動畫編輯器）的文字渲染系統，開發文字方塊、自動行高、逐字動畫播放等功能，並持續修正與 ThorVG WASM 渲染引擎之間的像素級渲染落差
+- 診斷並修復 ThorVG/WASM 文字渲染管線中的一系列渲染缺陷——包含冷啟動時內嵌字型的回退機制、多行文字垂直對齊，以及混合模式（blend mode）處理——解決匯出動畫在編輯器畫布與預覽播放器中渲染結果不一致的問題
+- 主導 Creator 動畫節點編輯器（graph editor）從原型到正式功能的移植工作，包含上線切換與 QA 驗證
+- 建置自動化的畫布與播放器渲染一致性驗證流程（跨大量動畫檔案進行逐幀截圖比對），在上線前攔截跨渲染引擎的回歸問題
+- 建置 AI 輔助工程流程（根因診斷 → 修復規劃 → 實作 → 程式碼審查，以可重複使用的 agent workflow 形式串接），加速 Creator 跨多個 repo（編輯器、渲染引擎、格式函式庫）的除錯與 PR 交付速度
+
 ### Senior Software Engineer, <a href="https://www.phase.com/" target="_blank">Phase</a> 於台北 <small><time class="term">2023/11 - 2025/07</time></small>
 
 - 主導 Phase 編輯器超過五成關鍵功能的前端開發，如SVG匯入器、共同編輯存在、動畫預設、整合 Canvas 文字編輯
