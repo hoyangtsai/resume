@@ -44,8 +44,7 @@
 
 ### 軟體工程師, <a href="http://www.hismax.com.tw" target="_blank">富博科技</a> 於高雄 <small><time class="term">2011/10 - 2013/04</time></small>
 
-- PTC 官方 Windchill PLM 系統客製化合夥伴
-- 首次為藥品製造商引進 PTC Arbortext 文件軟體自動化
+- 使用 Java 為製造業客戶開發與客製化 PTC 系統。
 
 ## 學歷
 
