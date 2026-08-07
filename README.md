@@ -38,9 +38,7 @@
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a> at Kaohsiung <small><time class="term">2013/07 - 2015/08</time></small>
 
-- Simultaneously participated in frontend and backend development of several web applications
-- Responsible for all backend APIs of a web application
-- Independently Developed an OCR service for a name card application
+- Contributed to the full-stack development of multiple web applications, covering both frontend and backend services.
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a> at Kaohsiung <small><time class="term">2011/10 - 2013/04</time></small>
 
