@@ -16,13 +16,14 @@
 
 ## 經歷
 
-### Senior Software Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a> 於台北 <small><time class="term">2025/12 - 2026/08</time></small>
+### Senior Software Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a> 遠端 <small><time class="term">2025/12 - 2026/08</time></small>
 
 - 全權負責 Creator 畫布文字渲染引擎，開發 AE 風格的文字方塊（paragraph text）功能，並修復十餘項與 ThorVG/dotLottie-web 渲染堆疊之間的像素級落差——包含字型回退、垂直對齊、自動換行、點擊套用對齊，以及播放時的畫面凍結問題
 - 主導 Creator Motion Tokens 主題系統的重大擴充——新增可跨類型連結的漸層 token、位置/縮放/旋轉/傾斜等變形樣式 token，並持續開發中的圖片圖層 token 化與 Scene Colors 顏色彙整面板——核心改動單次涵蓋 166 個檔案，功能仍持續擴充中
 - 修復一個造成 293 筆 Bugsnag 錯誤、影響 16 位使用者的漸層色彩選取器當機問題，並收尾一系列 token 穩定性問題：懸空的 token 連結、匯入時遺失的漸層/透明度資料，以及過期的 UI 快取
 - 移除每個動畫影格都會執行的完整場景樹遍歷，將大型多動畫檔案中原本佔用超過 200% 影格時間預算的效能瓶頸，優化為常數時間查找
 - 強化多動畫 dotLottie 匯入/匯出的穩定性，並為動畫節點編輯器（graph editor）貢獻可拖曳的位置切線控制點功能，9 個月內共產出 49 個 PR（41 個已合併、8 個審查中）
+- 建置 AI 輔助工程流程（根因診斷 → 修復規劃 → 實作 → 程式碼審查，以可重複使用的 agent workflow 形式串接），加速 Creator 跨多個 repo（編輯器、渲染引擎、格式函式庫）的除錯與 PR 交付速度
 
 ### Senior Software Engineer, <a href="https://www.phase.com/" target="_blank">Phase</a> 於台北 <small><time class="term">2023/11 - 2025/07</time></small>
 
