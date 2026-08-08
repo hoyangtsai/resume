@@ -19,10 +19,10 @@
 ### Senior Software Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a> at Taipei <small><time class="term">2025/12 - 2026/08</time></small>
 
 - Owned Creator's canvas text rendering engine end-to-end, shipping AE-style paragraph ("box") text support and closing a dozen pixel-level parity gaps against the ThorVG/dotLottie-web rendering stack — font fallback, vertical alignment, word-wrap, click-to-apply alignment, and playback freezes
-- Led a major expansion of Creator's Motion Tokens theming system — gradient tokens with cross-type linking, plus transform/style tokens for position, scale, rotation, and skew — a 166-file change spanning token creation, linking, and theme-manager UX
+- Led a major expansion of Creator's Motion Tokens theming system — gradient tokens with cross-type linking, transform/style tokens, and, in progress, image layers as tokens plus a Scene Colors aggregation panel — a 166-file core change plus ongoing feature build-out
 - Fixed a gradient color picker crash affecting 293 Bugsnag events across 16 users, and closed out a cluster of token-reliability bugs: dangling token links, gradient/alpha data lost on import, and stale UI caches
 - Eliminated a full-scenegraph tree walk running on every animation frame — cutting a performance regression that consumed over 200% of the frame budget in large multi-animation documents down to a constant-time lookup
-- Hardened multi-animation dotLottie import/export against slot-ID collisions, dropped state machines, and partial exports, across 40+ merged PRs shipped over 9 months
+- Hardened multi-animation dotLottie import/export and contributed draggable position-tangent handles to the animation graph editor, across 49 PRs (41 merged, 8 in review) shipped over 9 months
 
 ### Senior Software Engineer, <a href="https://www.phase.com/" target="_blank">Phase</a> at Taipei <small><time class="term">2023/11 - 2025/07</time></small>
 
