@@ -18,11 +18,11 @@
 
 ### Senior Software Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a> 於台北 <small><time class="term">2025/12 - 2026/08</time></small>
 
-- 負責 Creator（LottieFiles 旗下類 Figma 動畫編輯器）的文字渲染系統，開發文字方塊、自動行高、逐字動畫播放等功能，並持續修正與 ThorVG WASM 渲染引擎之間的像素級渲染落差
-- 診斷並修復 ThorVG/WASM 文字渲染管線中的一系列渲染缺陷——包含冷啟動時內嵌字型的回退機制、多行文字垂直對齊，以及混合模式（blend mode）處理——解決匯出動畫在編輯器畫布與預覽播放器中渲染結果不一致的問題
-- 主導 Creator 動畫節點編輯器（graph editor）從原型到正式功能的移植工作，包含上線切換與 QA 驗證
-- 建置自動化的畫布與播放器渲染一致性驗證流程（跨大量動畫檔案進行逐幀截圖比對），在上線前攔截跨渲染引擎的回歸問題
-- 建置 AI 輔助工程流程（根因診斷 → 修復規劃 → 實作 → 程式碼審查，以可重複使用的 agent workflow 形式串接），加速 Creator 跨多個 repo（編輯器、渲染引擎、格式函式庫）的除錯與 PR 交付速度
+- 全權負責 Creator 畫布文字渲染引擎，開發 AE 風格的文字方塊（paragraph text）功能，並修復十餘項與 ThorVG/dotLottie-web 渲染堆疊之間的像素級落差——包含字型回退、垂直對齊、自動換行、點擊套用對齊，以及播放時的畫面凍結問題
+- 主導 Creator Motion Tokens 主題系統的重大擴充——新增可跨類型連結的漸層 token，以及位置、縮放、旋轉、傾斜等變形/樣式 token——單次改動涵蓋 166 個檔案，橫跨 token 建立、連結與主題管理介面
+- 修復一個造成 293 筆 Bugsnag 錯誤、影響 16 位使用者的漸層色彩選取器當機問題，並收尾一系列 token 穩定性問題：懸空的 token 連結、匯入時遺失的漸層/透明度資料，以及過期的 UI 快取
+- 移除每個動畫影格都會執行的完整場景樹遍歷，將大型多動畫檔案中原本佔用超過 200% 影格時間預算的效能瓶頸，優化為常數時間查找
+- 強化多動畫 dotLottie 匯入/匯出的穩定性，修復 slot ID 衝突、狀態機遺失、匯出不完整等問題，9 個月內共合併 40 多個 PR
 
 ### Senior Software Engineer, <a href="https://www.phase.com/" target="_blank">Phase</a> 於台北 <small><time class="term">2023/11 - 2025/07</time></small>
 
