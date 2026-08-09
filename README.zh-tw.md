@@ -16,7 +16,7 @@
 
 ## 經歷
 
-### Senior Software Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a> <small><time class="term">2025/12 - 2026/08</time></small>
+### Senior Front-end Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a> <small><time class="term">2025/12 - 2026/08</time></small>
 
 - 全權負責 Creator 畫布文字渲染引擎，開發 AE 風格的文字方塊（paragraph text）功能，並修復十餘項與 ThorVG/dotLottie-web 渲染堆疊之間的像素級落差——包含字型回退、垂直對齊、自動換行、點擊套用對齊，以及播放時的畫面凍結問題
 - 主導 Creator Motion Tokens 主題系統的重大擴充——新增可跨類型連結的漸層 token、位置/縮放/旋轉/傾斜等變形樣式 token，並持續開發中的圖片圖層 token 化與 Scene Colors 顏色彙整面板——核心改動單次涵蓋 166 個檔案，功能仍持續擴充中
@@ -39,16 +39,16 @@
 
 ### 資深前端工程師, <a href="https://www.tencent.com" target="_blank">騰訊科技</a> <small><time class="term">2016/01 - 2021/03</time></small>
 
-- 開發數百萬用戶使用的微信網頁應用程式和小程序。
-- 使用 React、Vue、微信小程序和 CMDJS，開發支援 Android、iOS 與桌面環境的跨平台 UI 元件與應用程式。
+- 開發數百萬用戶使用的微信網頁應用程式和小程序
+- 使用 React、Vue、微信小程序和 CMDJS，開發支援 Android、iOS 與桌面環境的跨平台 UI 元件與應用程式
 
 ### 前端工程師, <a href="https://www.foxconn.com" target="_blank">鴻海精密工業</a> <small><time class="term">2013/07 - 2015/08</time></small>
 
-- 參與多個 Web 應用程式的全端開發，涵蓋前端與後端服務。
+- 參與多個 Web 應用程式的全端開發，涵蓋前端與後端服務
 
 ### 軟體工程師, <a href="http://www.hismax.com.tw" target="_blank">富博科技</a> <small><time class="term">2011/10 - 2013/04</time></small>
 
-- 使用 Java 為製造業客戶開發與客製化 PTC 系統。
+- 使用 Java 為製造業客戶開發與客製化 PTC 系統
 
 ## 學歷
 

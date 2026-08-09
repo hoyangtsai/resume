@@ -16,7 +16,7 @@
 
 ## Experience
 
-### Senior Software Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a> <small><time class="term">2025/12 - 2026/08</time></small>
+### Senior Front-end Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a> <small><time class="term">2025/12 - 2026/08</time></small>
 
 - Owned Creator's canvas text rendering engine end-to-end, shipping AE-style paragraph ("box") text support and closing a dozen pixel-level parity gaps against the ThorVG/dotLottie-web rendering stack — font fallback, vertical alignment, word-wrap, click-to-apply alignment, and playback freezes
 - Led a major expansion of Creator's Motion Tokens theming system — gradient tokens with cross-type linking, transform/style tokens, and, in progress, image layers as tokens plus a Scene Colors aggregation panel — a 166-file core change plus ongoing feature build-out
@@ -39,16 +39,16 @@
 
 ### Senior Front-end Engineer, <a href="https://www.tencent.com" target="_blank">Tencent</a><small> <time class="term">2016/01 - 2021/03</time></small>
 
-- Built WeChat web applications and mini-programs used by millions of users.
-- Developed cross-platform UI components and applications using React, Vue, WeChat Mini Programs, and CMDJS for Android, iOS, and desktop environments.
+- Built WeChat web applications and mini-programs used by millions of users
+- Developed cross-platform UI components and applications using React, Vue, WeChat Mini Programs, and CMDJS for Android, iOS, and desktop environments
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a><small> <time class="term">2013/07 - 2015/08</time></small>
 
-- Contributed to the full-stack development of multiple web applications, covering both frontend and backend services.
+- Contributed to the full-stack development of multiple web applications, covering both frontend and backend services
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a><small> <time class="term">2011/10 - 2013/04</time></small>
 
-- Developed and customized Java-based PTC systems for manufacturing clients.
+- Developed and customized Java-based PTC systems for manufacturing clients
 
 ## Education
 
