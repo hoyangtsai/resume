@@ -1,10 +1,8 @@
 # 蔡和洋
 
-## 職涯定位
-
 資深前端工程師｜互動式編輯器、圖形與動畫工具
 
-## 聯絡資訊
+## 聯絡
 
 <ul class="list-unstyled">
   <li>
@@ -18,11 +16,11 @@
   </li>
 </ul>
 
-## 專業摘要
+## 摘要
 
 具備 14 年以上軟體開發經驗的資深前端工程師，專精 React/TypeScript、互動式畫布編輯器、SVG/Lottie 動畫與 Web 效能。擅長負責涵蓋渲染、主題系統、協作與設計到程式碼流程的複雜產品功能。
 
-## 技術技能
+## 技能
 
 React、TypeScript、JavaScript、Next.js、Redux、Vue、Canvas、SVG、WebGL、Lottie、Webpack、Playwright、Python、SQL、AWS、CI/CD
 
