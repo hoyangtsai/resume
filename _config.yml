@@ -1,10 +1,7 @@
 theme: jekyll-theme-minimal
 title: Resume
-description: 
+description: Senior Frontend Engineer specializing in interactive editors, graphics, animation tooling, and web performance.
 logo: 
 google_analytics: G-6219R1CH71
 exclude: ["Gemfile", "Gemfile.lock", "run.sh"]
 languages: ['en', 'zh-tw']
-
-plugins:
-  - "jekyll-github-metadata"
