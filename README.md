@@ -1,5 +1,9 @@
 # Hoyang Tsai
 
+## Professional Positioning
+
+Senior Frontend Engineer | Interactive Editors, Graphics & Animation Tooling
+
 ## Contact Info
 
 <ul class="list-unstyled">
@@ -14,37 +18,42 @@
   </li>
 </ul>
 
+## Professional Summary
+
+Senior Frontend Engineer with 14+ years of software development experience, specializing in React/TypeScript, interactive canvas editors, SVG/Lottie animation, and web performance. Experienced in delivering complex product features across rendering, theming, collaboration, and design-to-code workflows.
+
+## Technical Skills
+
+React, TypeScript, JavaScript, Next.js, Redux, Vue, Canvas, SVG, WebGL, Lottie, Webpack, Playwright, Python, SQL, AWS, CI/CD
+
 ## Experience
 
 ### Senior Front-end Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a> <small><time class="term">2025/12 - 2026/08</time></small>
 
-- Owned Creator's canvas text rendering engine end-to-end, shipping AE-style paragraph ("box") text support and closing a dozen pixel-level parity gaps against the ThorVG/dotLottie-web rendering stack — font fallback, vertical alignment, word-wrap, click-to-apply alignment, and playback freezes
-- Led a major expansion of Creator's Motion Tokens theming system — gradient tokens with cross-type linking, transform/style tokens, and, in progress, image layers as tokens plus a Scene Colors aggregation panel — a 166-file core change plus ongoing feature build-out
-- Fixed a gradient color picker crash affecting 293 Bugsnag events across 16 users, and closed out a cluster of token-reliability bugs: dangling token links, gradient/alpha data lost on import, and stale UI caches
-- Eliminated a full-scenegraph tree walk running on every animation frame — cutting a performance regression that consumed over 200% of the frame budget in large multi-animation documents down to a constant-time lookup
-- Hardened multi-animation dotLottie import/export and contributed draggable position-tangent handles to the animation graph editor, across 49 PRs shipped over 8 months
-- Built an AI-assisted engineering pipeline (root-cause diagnosis → fix planning → implementation → code review, orchestrated as reusable agent workflows) that sped up debugging and PR turnaround across Creator's multi-repo stack (editor, rendering engine, format libraries)
+- Owned Creator's canvas text rendering engine, shipping AE-style paragraph text support and resolving rendering parity issues across font fallback, vertical alignment, word wrapping, alignment interactions, and playback stability
+- Expanded Creator's Motion Tokens theming system to support gradient and transform/style tokens in a 166-file core change
+- Fixed a gradient color picker crash associated with 293 Bugsnag events affecting 16 users
+- Removed a full scenegraph traversal on every animation frame, replacing it with constant-time lookup and addressing a performance regression consuming over 200% of the frame budget in large documents
 
 ### Senior Software Engineer, <a href="https://www.phase.com/" target="_blank">Phase</a><small> <time class="term">2023/11 - 2025/07</time></small>
 
-- Led the front-end development of over 50% of the Phase editor's key features, such as the SVG importer, co-editing presence, animation presets, and text on Canvas integration
-- Developed a Figma plugin to import original design with one-to-one mapping into Phase, with up-to 90% compatibility with Figma elements, and can convert component variants into interactive components
-- Improve the stability of the Phase application, reducing the frequency of bug bash meetings from weekly to monthly
+- Led frontend delivery of core Phase editor features including SVG import, co-editing presence, animation presets, and text-on-canvas editing
+- Built a Figma plugin that imported designs into Phase with approximately 90% compatibility across supported Figma elements and converted component variants into interactions
+- Improved application stability, reducing recurring bug-bash meetings from weekly to monthly
 
 ### Staff Software Engineer, <a href="https://shopback.com" target="_blank">ShopBack</a><small> <time class="term">2022/05 - 2023/01</time></small>
 
-- Led the front-end development of [ShopBack Chrome extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap) with over 800k+ installs and available in 9 regional markets
-- Reduced the Chrome extension loading time from 2.3 seconds to 0.2 seconds by identifying inefficient scripts and removing unnecessary executions at startup
-- Enhanced the extension test coverage by implementing an end-to-end smoke test automation for QA
+- Led frontend development of the <a href="https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap" target="_blank">ShopBack Chrome extension</a>, with 800K+ installs across 9 regional markets
+- Reduced Chrome extension startup time by 91%, from 2.3 seconds to 0.2 seconds, and added end-to-end smoke test automation to strengthen QA coverage
 
 ### Senior Front-end Engineer, <a href="https://www.tencent.com" target="_blank">Tencent</a><small> <time class="term">2016/01 - 2021/03</time></small>
 
-- Built WeChat web applications and mini-programs used by millions of users
-- Developed cross-platform UI components and applications using React, Vue, WeChat Mini Programs, and CMDJS for Android, iOS, and desktop environments
+- Built FinTech web applications and WeChat mini-programs for millions of users, including gold investment, currency exchange, and asset management products
+- Developed cross-platform UI components and applications using React, Vue, and WeChat Mini Programs for Android, iOS, and desktop environments
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a><small> <time class="term">2013/07 - 2015/08</time></small>
 
-- Contributed to the full-stack development of multiple web applications, covering both frontend and backend services
+- Contributed to the full-stack development of web applications, covering frontend interfaces and backend REST APIs
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a><small> <time class="term">2011/10 - 2013/04</time></small>
 
@@ -52,4 +61,4 @@
 
 ## Education
 
-- Bachelor of Information Technology, <a href="https://www.griffith.edu.au" target="_blank">Griffith University </a> <time class="term">2007/03 - 2010/06</time>
+- Bachelor of Information Technology, <a href="https://www.griffith.edu.au" target="_blank">Griffith University</a> <time class="term">2007/03 - 2010/06</time>
