@@ -1,10 +1,8 @@
 # Hoyang Tsai
 
-## Professional Positioning
-
 Senior Frontend Engineer | Interactive Editors, Graphics & Animation Tooling
 
-## Contact Info
+## Contact
 
 <ul class="list-unstyled">
   <li>
@@ -18,11 +16,11 @@ Senior Frontend Engineer | Interactive Editors, Graphics & Animation Tooling
   </li>
 </ul>
 
-## Professional Summary
+## Summary
 
 Senior Frontend Engineer with 14+ years of software development experience, specializing in React/TypeScript, interactive canvas editors, SVG/Lottie animation, and web performance. Experienced in delivering complex product features across rendering, theming, collaboration, and design-to-code workflows.
 
-## Technical Skills
+## Skills
 
 React, TypeScript, JavaScript, Next.js, Redux, Vue, Canvas, SVG, WebGL, Lottie, Webpack, Playwright, Python, SQL, AWS, CI/CD
 
