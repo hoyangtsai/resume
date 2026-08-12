@@ -58,10 +58,8 @@ Senior Frontend Engineer with 14+ years of software development experience, spec
 ## Skills
 
 <div class="skills-list">
-<p><strong>Frontend &amp; UI</strong> React, TypeScript, JavaScript, Next.js, Redux, Vue</p>
-<p><strong>Graphics &amp; Motion</strong> Canvas, SVG, WebGL, Lottie</p>
-<p><strong>Tooling &amp; Quality</strong> Webpack, Playwright</p>
-<p><strong>Backend &amp; Cloud</strong> Python, SQL, AWS, CI/CD</p>
+<p><strong>Frontend &amp; Graphics</strong> React, TypeScript, JavaScript, Next.js, Vue, Vite, Canvas/SVG/WebGL, Lottie, Playwright, Python, SQL, CI/CD</p>
+<p><strong>AI-Assisted Development</strong> Prompt &amp; Context Engineering, Agentic Workflows, Tool Calling/MCP, Structured Outputs, Evaluation &amp; Verification, Human-in-the-Loop</p>
 </div>
 
 </div>
