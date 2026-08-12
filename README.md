@@ -23,10 +23,10 @@ Senior Frontend Engineer with 14+ years of software development experience, spec
 
 ### Senior Front-end Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a> <small><time class="term">2025/12 - 2026/08</time><span class="job-location">Remote</span></small>
 
-- Owned Creator's canvas text rendering engine, shipping AE-style paragraph text support and resolving rendering parity issues across font fallback, vertical alignment, word wrapping, alignment interactions, and playback stability
+- Owned Creator’s canvas text engine, shipping AE-style paragraph text and resolving font fallback, alignment, wrapping, and playback issues
 - Expanded Creator's Motion Tokens theming system to support gradient and transform/style tokens in a 166-file core change
 - Fixed a gradient color picker crash associated with 293 Bugsnag events affecting 16 users
-- Removed a full scenegraph traversal on every animation frame, replacing it with constant-time lookup and addressing a performance regression consuming over 200% of the frame budget in large documents
+- Replaced per-frame scenegraph traversal with constant-time lookup, resolving a regression that exceeded 200% of the frame budget in large documents
 - Built a reusable AI-assisted engineering pipeline spanning root-cause diagnosis, fix planning, implementation, and code review across Creator’s multi-repo stack
 
 ### Senior Software Engineer, <a href="https://www.phase.com/" target="_blank">Phase</a><small> <time class="term">2023/11 - 2025/07</time><span class="job-location">Taipei, Taiwan</span></small>
