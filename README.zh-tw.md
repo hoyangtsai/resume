@@ -58,10 +58,8 @@
 ## 技能
 
 <div class="skills-list">
-<p><strong>前端與 UI</strong> React、TypeScript、JavaScript、Next.js、Redux、Vue</p>
-<p><strong>圖形與動態</strong> Canvas、SVG、WebGL、Lottie</p>
-<p><strong>工具與品質</strong> Webpack、Playwright</p>
-<p><strong>後端與雲端</strong> Python、SQL、AWS、CI/CD</p>
+<p><strong>前端與圖形</strong> React、TypeScript、JavaScript、Next.js、Vue、Vite、Canvas/SVG/WebGL、Lottie、Playwright、Python、SQL、CI/CD</p>
+<p><strong>AI 輔助開發</strong> Prompt &amp; Context Engineering、Agentic Workflows、Tool Calling/MCP、Structured Outputs、Evaluation &amp; Verification、Human-in-the-Loop</p>
 </div>
 
 </div>
