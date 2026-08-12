@@ -27,6 +27,7 @@
 - 擴充 Creator Motion Tokens 主題系統，支援漸層及變形／樣式 token，核心改動涵蓋 166 個檔案
 - 修復造成 293 筆 Bugsnag 事件、影響 16 位使用者的漸層色彩選取器當機問題
 - 移除每個動畫影格都執行的完整場景樹遍歷，改用常數時間查找，改善大型文件中超過 200% 影格時間預算的效能瓶頸
+- 建置可重複使用的 AI 輔助工程流程，串接根因診斷、修復規劃、實作與程式碼審查，支援 Creator 跨 repo 的除錯與 PR 交付
 
 ### Senior Software Engineer, <a href="https://www.threads.com/@phase_taiwan/" target="_blank">Phase</a> <small><time class="term">2023/11 - 2025/07</time><span class="job-location">台北，台灣</span></small>
 
