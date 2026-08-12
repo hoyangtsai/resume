@@ -27,6 +27,7 @@ Senior Frontend Engineer with 14+ years of software development experience, spec
 - Expanded Creator's Motion Tokens theming system to support gradient and transform/style tokens in a 166-file core change
 - Fixed a gradient color picker crash associated with 293 Bugsnag events affecting 16 users
 - Removed a full scenegraph traversal on every animation frame, replacing it with constant-time lookup and addressing a performance regression consuming over 200% of the frame budget in large documents
+- Built a reusable AI-assisted engineering pipeline spanning root-cause diagnosis, fix planning, implementation, and code review across Creator’s multi-repo stack
 
 ### Senior Software Engineer, <a href="https://www.phase.com/" target="_blank">Phase</a><small> <time class="term">2023/11 - 2025/07</time><span class="job-location">Taipei, Taiwan</span></small>
 
