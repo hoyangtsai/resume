@@ -85,7 +85,29 @@ a:focus-visible {
 .languages .link:focus,
 .languages .print-link { color: var(--accent-dark); }
 
-.languages .print-link i { margin-right: 4px; }
+.languages .pdf-download {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 14px;
+  border-radius: 8px;
+  background: var(--accent);
+  box-shadow: 0 3px 9px rgba(115, 80, 38, .2);
+  color: var(--paper);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .02em;
+  transition: background-color .16s ease, box-shadow .16s ease, transform .16s ease;
+}
+
+.languages .pdf-download:hover,
+.languages .pdf-download:focus {
+  background: var(--accent-dark);
+  box-shadow: 0 5px 12px rgba(115, 80, 38, .26);
+  color: var(--paper);
+  transform: translateY(-1px);
+}
+
+.languages .print-link i { margin-right: 5px; }
 
 main { padding: 0; }
 
