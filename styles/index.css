@@ -88,23 +88,22 @@ a:focus-visible {
 .languages .pdf-download {
   display: inline-flex;
   align-items: center;
-  padding: 8px 14px;
-  border-radius: 8px;
-  background: var(--accent);
-  box-shadow: 0 3px 9px rgba(115, 80, 38, .2);
-  color: var(--paper);
+  padding: 7px 13px;
+  border: 1px solid var(--accent-soft);
+  border-radius: 999px;
+  background: rgba(154, 107, 53, .08);
+  color: var(--accent-dark);
   font-size: 11px;
   font-weight: 600;
   letter-spacing: .02em;
-  transition: background-color .16s ease, box-shadow .16s ease, transform .16s ease;
+  transition: background-color .16s ease, border-color .16s ease, color .16s ease;
 }
 
 .languages .pdf-download:hover,
 .languages .pdf-download:focus {
-  background: var(--accent-dark);
-  box-shadow: 0 5px 12px rgba(115, 80, 38, .26);
+  border-color: var(--accent);
+  background: var(--accent);
   color: var(--paper);
-  transform: translateY(-1px);
 }
 
 .languages .print-link i { margin-right: 5px; }
