@@ -58,13 +58,16 @@
         {% else %}
         {% if lang == 'en' and page.url != '/' %}
         <a class="link" href="{{ "/" | relative_url }}">Resume</a><br/>
-        <a class="link print-link pdf-download" href="{{ "/assets/resume.pdf" | relative_url }}?v={{ site.github.build_revision }}" download="Hoyang_Tsai_resume.pdf">
-          <i class="fas fa-file-download" aria-hidden="true"></i> 下載 PDF
-        </a>
+        {% assign pdf_label = "下載 PDF" %}
+        {% assign pdf_filename = "蔡和洋 _ 履歷表.pdf" %}
         {% elsif lang == 'zh-tw' %}
         <a class="link" href="{{ "README.zh-tw" | relative_url }}">履歷表</a><br/>
-        <a class="link print-link pdf-download" href="{{ "/assets/resume.pdf" | relative_url }}?v={{ site.github.build_revision }}" download="Hoyang_Tsai_resume.pdf">
-          <i class="fas fa-file-download" aria-hidden="true"></i> Download as PDF
+        {% assign pdf_label = "Download as PDF" %}
+        {% assign pdf_filename = "Hoyang Tsai _ Resume.pdf" %}
+        {% endif %}
+        {% if pdf_label %}
+        <a class="link print-link pdf-download" href="{{ "/assets/resume.pdf" | relative_url }}?v={{ site.github.build_revision }}" download="{{ pdf_filename }}">
+          <i class="fas fa-file-download" aria-hidden="true"></i> {{ pdf_label }}
         </a>
         {% endif %}
         {% endif %}
