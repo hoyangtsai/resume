@@ -29,44 +29,34 @@ jobs:
           ruby-version: "3.3"
           bundler-cache: true
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.12"
+          node-version: "22"
 
-      - name: Install WeasyPrint
+      - name: Install Playwright and Chromium
         run: |
-          python -m pip install --upgrade pip
-          python -m pip install weasyprint
+          npm install --no-save --package-lock=false playwright@1.55.0
+          npx playwright install --with-deps chromium
 
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
-      - name: Generate PDF with print CSS
+      - name: Generate PDF with Chromium print CSS
         run: |
-          python - <<'PY'
-          from pathlib import Path
+          python3 -m http.server 4000 --directory _site > /tmp/resume-http.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid"' EXIT
 
-          site = Path("_site").resolve()
-          html_path = site / "index.html"
-          html = html_path.read_text()
+          for attempt in {1..20}; do
+            if curl --fail --silent http://127.0.0.1:4000/ > /dev/null; then
+              break
+            fi
+            sleep 0.5
+          done
 
-          replacements = {
-              'href="/assets/css/style.css?v=1"':
-                  f'href="file://{site / "assets/css/style.css"}"',
-              'href="/styles/index.css?v=1"':
-                  f'href="file://{site / "styles/index.css"}"',
-              'src="/assets/js/scale.fix.js"':
-                  f'src="file://{site / "assets/js/scale.fix.js"}"',
-          }
-
-          for old, new in replacements.items():
-              html = html.replace(old, new)
-
-          Path("/tmp/resume.html").write_text(html)
-          PY
-
-          weasyprint --media-type print /tmp/resume.html assets/resume.pdf
+          curl --fail --silent http://127.0.0.1:4000/ > /dev/null
+          node scripts/generate-resume-pdf.mjs
 
       - name: Commit refreshed PDF
         run: |
