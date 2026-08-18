@@ -58,8 +58,8 @@
         {% else %}
         {% if lang == 'en' and page.url != '/' %}
         <a class="link" href="{{ "/" | relative_url }}">Resume</a><br/>
-        <a class="link print-link pdf-download" href="{{ "/assets/resume.pdf" | relative_url }}" download="Hoyang-Tsai-Resume.pdf">
-          <i class="fas fa-file-download" aria-hidden="true"></i> 下載 PDF
+        <a class="link print-link" href="javascript:window.print()">
+          <i class="fas fa-print"></i> 列印保存成 PDF
         </a>
         {% elsif lang == 'zh-tw' %}
         <a class="link" href="{{ "README.zh-tw" | relative_url }}">履歷表</a><br/>
