@@ -60,13 +60,15 @@
         <a class="link" href="{{ "/" | relative_url }}">Resume</a><br/>
         {% assign pdf_label = "下載 PDF" %}
         {% assign pdf_filename = "蔡和洋 _ 履歷表.pdf" %}
+        {% assign pdf_path = "/assets/resume.zh-tw.pdf" %}
         {% elsif lang == 'zh-tw' %}
         <a class="link" href="{{ "README.zh-tw" | relative_url }}">履歷表</a><br/>
         {% assign pdf_label = "Download as PDF" %}
         {% assign pdf_filename = "Hoyang Tsai _ Resume.pdf" %}
+        {% assign pdf_path = "/assets/resume.pdf" %}
         {% endif %}
         {% if pdf_label %}
-        <a class="link print-link pdf-download" href="{{ "/assets/resume.pdf" | relative_url }}?v={{ site.github.build_revision }}" download="{{ pdf_filename }}">
+        <a class="link print-link pdf-download" href="{{ pdf_path | relative_url }}?v={{ site.github.build_revision }}" download="{{ pdf_filename }}">
           <i class="fas fa-file-download" aria-hidden="true"></i> {{ pdf_label }}
         </a>
         {% endif %}
