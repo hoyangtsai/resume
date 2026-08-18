@@ -157,10 +157,12 @@ main > h1 {
 .list-unstyled li:not(:last-child)::after {
   margin: 0 10px;
   color: var(--accent-soft);
-  content: "·";
+  content: "|";
 }
 
-.list-unstyled i { display: none; }
+.list-unstyled i {
+  margin-right: 6px;
+ }
 
 .list-unstyled a { text-decoration: none; }
 
