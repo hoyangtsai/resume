@@ -29,6 +29,9 @@ jobs:
           ruby-version: "3.3"
           bundler-cache: true
 
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
@@ -38,9 +41,6 @@ jobs:
         run: |
           npm install --no-save --package-lock=false playwright@1.55.0
           npx playwright install --with-deps chromium
-
-      - name: Build Jekyll site
-        run: bundle exec jekyll build
 
       - name: Generate PDF with Chromium print CSS
         run: |
