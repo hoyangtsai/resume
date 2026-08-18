@@ -85,7 +85,27 @@ a:focus-visible {
 .languages .link:focus,
 .languages .print-link { color: var(--accent-dark); }
 
-.languages .print-link i { margin-right: 4px; }
+.languages .print-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 2px;
+  padding: 6px 10px;
+  border: 1px solid rgba(154, 107, 53, .28);
+  border-radius: 999px;
+  background: rgba(201, 166, 107, .14);
+  font-weight: 600;
+  transition: background-color .18s ease, border-color .18s ease, transform .18s ease;
+}
+
+.languages .print-link:hover,
+.languages .print-link:focus-visible {
+  border-color: rgba(154, 107, 53, .55);
+  background: rgba(201, 166, 107, .24);
+  transform: translateY(-1px);
+}
+
+.languages .print-link i { margin-right: 0; }
 
 main { padding: 0; }
 
