@@ -7,7 +7,7 @@ const baseUrl = process.env.RESUME_BASE_URL || "http://127.0.0.1:4000";
 const targets = [
   { path: "/", output: process.env.PDF_OUTPUT || "assets/resume.pdf" },
   {
-    path: "/README.zh-tw",
+    path: "/README.zh-tw.html",
     output: process.env.PDF_OUTPUT_ZH || "assets/resume.zh-tw.pdf",
   },
 ];
@@ -24,7 +24,14 @@ try {
     });
 
     await page.emulateMedia({ media: "print" });
-    await page.goto(new URL(path, baseUrl).toString(), { waitUntil: "load" });
+    const response = await page.goto(new URL(path, baseUrl).toString(), {
+      waitUntil: "load",
+    });
+    if (!response || !response.ok()) {
+      throw new Error(
+        `Failed to load ${path}: ${response ? response.status() : "no response"}`,
+      );
+    }
     await page.evaluate(() => document.fonts.ready);
 
     await page.pdf({
