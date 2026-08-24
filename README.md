@@ -1,7 +1,7 @@
 # Hoyang Tsai
 
-<p class="resume-role">Senior Frontend Engineer</p>
-<p class="resume-specialty">Interactive Editors, Graphics &amp; Animation Tooling</p>
+<p class="resume-role">Senior Software Engineer</p>
+<p class="resume-specialty">Web Applications, Graphics &amp; AI-Assisted Engineering</p>
 
 <ul class="list-unstyled">
   <li>
@@ -17,7 +17,7 @@
 
 ## Summary
 
-Senior Frontend Engineer with 14+ years of software development experience, specializing in React/TypeScript, interactive canvas editors, SVG/Lottie animation, and web performance. Experienced in delivering complex product features across rendering, theming, collaboration, and design-to-code workflows.
+Senior Software Engineer with 14+ years of experience building web applications and complex interactive products. Experience spans React/TypeScript frontend architecture, Node.js and REST API development, SQL, AWS, performance optimization, CI/CD, and production troubleshooting. Deep expertise in graphics and animation tooling, combined with a practical AI-assisted engineering approach using agentic workflows, tool calling, structured outputs, evaluation, and human-in-the-loop verification.
 
 ## Experience
 
@@ -25,9 +25,9 @@ Senior Frontend Engineer with 14+ years of software development experience, spec
 
 - Owned Creator’s canvas text engine, shipping AE-style paragraph text and resolving font fallback, alignment, wrapping, and playback issues
 - Expanded Creator's Motion Tokens theming system to support gradient and transform/style tokens in a 166-file core change
-- Fixed a gradient color picker crash associated with 293 Bugsnag events affecting 16 users
-- Replaced per-frame scenegraph traversal with constant-time lookup, resolving a regression that exceeded 200% of the frame budget in large documents
-- Built a reusable AI-assisted engineering pipeline spanning root-cause diagnosis, fix planning, implementation, and code review across Creator’s multi-repo stack
+- Diagnosed and fixed a production gradient color picker crash associated with 293 Bugsnag events affecting 16 users
+- Replaced per-frame scenegraph traversal with constant-time lookup, resolving a production performance regression that exceeded 200% of the frame budget in large documents
+- Built a reusable AI-assisted engineering workflow spanning root-cause diagnosis, fix planning, implementation, code review, and verification across Creator’s multi-repo stack
 
 ### Senior Software Engineer, Phase&nbsp;<small><time class="term">2023/11 - 2025/07</time>&nbsp;<span class="job-location">Taipei, Taiwan (Hybrid)</span></small>
 
@@ -47,7 +47,7 @@ Senior Frontend Engineer with 14+ years of software development experience, spec
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a>&nbsp;<small><time class="term">2013/07 - 2015/08</time>&nbsp;<span class="job-location">Kaohsiung, Taiwan</span></small>
 
-- Contributed to the full-stack development of web applications, covering frontend interfaces and backend REST APIs
+- Worked across frontend interfaces and backend REST APIs in the full-stack development of web applications
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a>&nbsp;<small><time class="term">2011/10 - 2013/04</time>&nbsp;<span class="job-location">Kaohsiung, Taiwan</span></small>
 
@@ -59,8 +59,8 @@ Senior Frontend Engineer with 14+ years of software development experience, spec
 ## Skills
 
 <div class="skills-list">
-<p><strong>Frontend &amp; Graphics</strong> React, TypeScript, JavaScript, Next.js, Vue, Vite, Canvas/SVG/WebGL, Lottie, Playwright, Node.js, Java, SQL, CI/CD</p>
-<p><strong>AI-Assisted Development</strong> Prompt &amp; Context Engineering, Agentic Workflows, Tool Calling/MCP, Structured Outputs, Evaluation &amp; Verification, Human-in-the-Loop</p>
+<p><strong>Full-Stack &amp; Graphics</strong> React, TypeScript, JavaScript, Next.js, Vue, Node.js, REST APIs, SQL, AWS, Java, Canvas/SVG/WebGL, Lottie, Vite, Playwright, CI/CD</p>
+<p><strong>AI-Assisted Engineering</strong> Prompt &amp; Context Engineering, Agentic Workflows, Tool Calling/MCP, Structured Outputs, Evaluation &amp; Verification, Human-in-the-Loop</p>
 </div>
 
 </div>

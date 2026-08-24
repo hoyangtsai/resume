@@ -1,7 +1,7 @@
 # 蔡和洋
 
-<p class="resume-role">資深前端工程師</p>
-<p class="resume-specialty">互動式編輯器、圖形與動畫工具</p>
+<p class="resume-role">資深軟體工程師</p>
+<p class="resume-specialty">Web 應用、圖形與 AI 輔助工程</p>
 
 <ul class="list-unstyled">
   <li>
@@ -17,7 +17,7 @@
 
 ## 摘要
 
-具備 14 年以上軟體開發經驗的資深前端工程師，專精 React/TypeScript、互動式畫布編輯器、SVG/Lottie 動畫與 Web 效能。擅長負責涵蓋渲染、主題系統、協作與設計到程式碼流程的複雜產品功能。
+具備 14 年以上經驗的資深軟體工程師，長期投入 Web 應用程式與複雜互動產品開發。經驗涵蓋 React/TypeScript 前端架構、Node.js 與 REST API 開發、SQL、AWS、效能最佳化、CI/CD 及正式環境問題排查；同時具備深厚的圖形與動畫工具開發經驗。善用 Agentic Workflows、Tool Calling、Structured Outputs、Evaluation 與 Human-in-the-Loop Verification，將 AI 輔助工程實務應用於診斷、實作與驗證。
 
 ## 經歷
 
@@ -25,9 +25,9 @@
 
 - 負責 Creator 畫布文字引擎，推出 AE 風格段落文字，並解決字型回退、對齊、換行與播放問題
 - 擴充 Creator Motion Tokens 主題系統，支援漸層及變形／樣式 token，核心改動涵蓋 166 個檔案
-- 修復造成 293 筆 Bugsnag 事件、影響 16 位使用者的漸層色彩選取器當機問題
-- 將每幀場景樹遍歷改為常數時間查找，解決大型文件中超過 200% 影格時間預算的效能回歸
-- 建置可重複使用的 AI 輔助工程流程，串接根因診斷、修復規劃、實作與程式碼審查，支援 Creator 跨 repo 的除錯與 PR 交付
+- 診斷並修復正式環境的漸層色彩選取器當機問題；該問題造成 293 筆 Bugsnag 事件並影響 16 位使用者
+- 將每幀場景樹遍歷改為常數時間查找，解決大型文件中每幀耗時超過影格時間預算兩倍的正式環境效能回歸
+- 建置可重複使用的 AI 輔助工程工作流程，涵蓋根因診斷、修復規劃、實作、程式碼審查與驗證，應用於 Creator 的跨 repo 技術架構
 
 ### Senior Software Engineer, Phase&nbsp;<small><time class="term">2023/11 - 2025/07</time>&nbsp;<span class="job-location">台北 (部分遠端)</span></small>
 
@@ -47,7 +47,7 @@
 
 ### 前端工程師, <a href="https://www.foxconn.com" target="_blank">鴻海精密工業</a>&nbsp;<small><time class="term">2013/07 - 2015/08</time>&nbsp;<span class="job-location">高雄</span></small>
 
-- 參與 Web 應用程式的全端開發，涵蓋前端介面與後端 REST API 服務
+- 負責 Web 應用程式的前端介面與後端 REST API，參與全端開發工作
 
 ### 軟體工程師, <a href="http://www.hismax.com.tw" target="_blank">富博科技</a>&nbsp;<small><time class="term">2011/10 - 2013/04</time>&nbsp;<span class="job-location">高雄</span></small>
 
@@ -59,8 +59,8 @@
 ## 技能
 
 <div class="skills-list">
-<p><strong>前端與圖形</strong> React、TypeScript、JavaScript、Next.js、Vue、Vite、Canvas/SVG/WebGL、Lottie、Playwright、Node.js、Java、SQL、CI/CD</p>
-<p><strong>AI 輔助開發</strong> Prompt &amp; Context Engineering、Agentic Workflows、Tool Calling/MCP、Structured Outputs、Evaluation &amp; Verification、Human-in-the-Loop</p>
+<p><strong>全端與圖形</strong> React、TypeScript、JavaScript、Next.js、Vue、Node.js、REST APIs、SQL、AWS、Java、Canvas/SVG/WebGL、Lottie、Vite、Playwright、CI/CD</p>
+<p><strong>AI 輔助工程</strong> Prompt &amp; Context Engineering、Agentic Workflows、Tool Calling/MCP、Structured Outputs、Evaluation &amp; Verification、Human-in-the-Loop</p>
 </div>
 
 </div>
