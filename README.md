@@ -1,7 +1,7 @@
 # Hoyang Tsai
 
 <p class="resume-role">Senior Software Engineer</p>
-<p class="resume-specialty">Web Applications, Graphics &amp; AI-Assisted Engineering</p>
+<p class="resume-specialty">Frontend Architecture, Web Applications &amp; AI-Assisted Engineering</p>
 
 <ul class="list-unstyled">
   <li>
@@ -17,17 +17,16 @@
 
 ## Summary
 
-Senior Software Engineer with 14+ years of experience building web applications and complex interactive products. Experience spans React/TypeScript frontend architecture, Node.js and REST API development, SQL, AWS, performance optimization, CI/CD, and production troubleshooting. Deep expertise in graphics and animation tooling, combined with a practical AI-assisted engineering approach using agentic workflows, tool calling, structured outputs, evaluation, and human-in-the-loop verification.
+Senior Software Engineer with 14+ years of experience building web applications and complex interactive products. Specializes in React/TypeScript frontend architecture, performance optimization, and production troubleshooting. Earlier experience includes backend REST API development and Java-based enterprise systems. Applies automated testing, CI/CD, and AI-assisted engineering workflows to support software quality and delivery.
 
 ## Experience
 
 ### Senior Front-end Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a>&nbsp;<small><time class="term">2025/12 - 2026/08</time>&nbsp;<span class="job-location">Remote</span></small>
 
-- Owned Creator’s canvas text engine, shipping AE-style paragraph text and resolving font fallback, alignment, wrapping, and playback issues
-- Expanded Creator's Motion Tokens theming system to support gradient and transform/style tokens in a 166-file core change
-- Diagnosed and fixed a production gradient color picker crash associated with 293 Bugsnag events affecting 16 users
-- Replaced per-frame scenegraph traversal with constant-time lookup, resolving a production performance regression that exceeded 200% of the frame budget in large documents
-- Built a reusable AI-assisted engineering workflow spanning root-cause diagnosis, fix planning, implementation, code review, and verification across Creator’s multi-repo stack
+- Resolved a production rendering regression by replacing per-frame scenegraph traversal with constant-time lookup
+- Diagnosed and fixed a production color picker crash associated with 293 Bugsnag events affecting 16 users
+- Owned Creator’s canvas text engine, delivering paragraph text and fixing font fallback, alignment, wrapping, and playback issues
+- Built a reusable AI-assisted engineering workflow spanning diagnosis, planning, implementation, code review, and verification across Creator’s repositories
 
 ### Senior Software Engineer, Phase&nbsp;<small><time class="term">2023/11 - 2025/07</time>&nbsp;<span class="job-location">Taipei, Taiwan (Hybrid)</span></small>
 
@@ -38,7 +37,8 @@ Senior Software Engineer with 14+ years of experience building web applications 
 ### Staff Software Engineer, <a href="https://shopback.com" target="_blank">ShopBack</a>&nbsp;<small><time class="term">2022/05 - 2023/01</time>&nbsp;<span class="job-location">Taipei, Taiwan</span></small>
 
 - Led frontend development of the <a href="https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap" target="_blank">ShopBack Chrome extension</a>, with 800K+ installs across 9 regional markets
-- Reduced Chrome extension startup time by 91%, from 2.3 seconds to 0.2 seconds, and added end-to-end smoke test automation to strengthen QA coverage
+- Reduced Chrome extension startup time by 91%, from 2.3 seconds to 0.2 seconds
+- Added end-to-end smoke test automation to strengthen release QA coverage
 
 ### Senior Front-end Engineer, <a href="https://www.tencent.com" target="_blank">Tencent</a>&nbsp;<small><time class="term">2016/01 - 2021/03</time>&nbsp;<span class="job-location">Shenzhen, China</span></small>
 
@@ -59,7 +59,7 @@ Senior Software Engineer with 14+ years of experience building web applications 
 ## Skills
 
 <div class="skills-list">
-<p><strong>Full-Stack &amp; Graphics</strong> React, TypeScript, JavaScript, Next.js, Vue, Node.js, REST APIs, SQL, AWS, Java, Canvas/SVG/WebGL, Lottie, Vite, Playwright, CI/CD</p>
+<p><strong>Frontend &amp; Engineering</strong> React, TypeScript, JavaScript, Next.js, Vue, Vite, Canvas/SVG, Git, Playwright, CI/CD</p>
 <p><strong>AI-Assisted Engineering</strong> Prompt &amp; Context Engineering, Agentic Workflows, Tool Calling/MCP, Structured Outputs, Evaluation &amp; Verification, Human-in-the-Loop</p>
 </div>
 
