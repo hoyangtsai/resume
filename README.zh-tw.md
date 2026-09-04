@@ -1,7 +1,7 @@
 # 蔡和洋
 
 <p class="resume-role">資深軟體工程師</p>
-<p class="resume-specialty">前端架構、Web 應用與 AI 增強型軟體工程</p>
+<p class="resume-specialty">前端架構、Web 應用與 AI 增強工程</p>
 
 <ul class="list-unstyled">
   <li>
@@ -17,7 +17,7 @@
 
 ## 摘要
 
-具備 10 年以上經驗的資深軟體工程師，長期投入 Web 應用程式與複雜互動產品開發，專長為 React/TypeScript 前端架構、效能最佳化與正式環境問題排查。早期經驗包括後端 REST API 開發與 Java 企業系統；運用自動化測試、CI/CD 與 AI 增強型工程工作流程，提升軟體品質並加速可靠交付。
+具備 10 年以上經驗的資深軟體工程師，長期投入 Web 應用程式與複雜互動產品開發，專長為 React/TypeScript 前端架構、效能最佳化與正式環境問題排查。早期經驗包括後端 REST API 開發與 Java 企業系統；運用自動化測試、CI/CD 與 AI 增強工程工作流程，提升軟體品質並加速可靠交付。
 
 ## 經歷
 
@@ -26,7 +26,7 @@
 - 將每幀場景樹遍歷改為常數時間查找，解決正式環境的渲染效能回歸
 - 診斷並修復正式環境的色彩選取器當機問題；該問題涉及 293 筆 Bugsnag 事件並影響 16 位使用者
 - 負責 Creator 畫布文字引擎，推出段落文字功能，並修復字型回退、對齊、換行與播放問題
-- 建置可重複使用的 AI 增強型工程工作流程，涵蓋診斷、規劃、實作、程式碼審查與驗證，應用於 Creator 的多個儲存庫
+- 建置可重複使用的 AI 增強工程工作流程，涵蓋診斷、規劃、實作、程式碼審查與驗證，應用於 Creator 的多個儲存庫
 
 ### Senior Software Engineer, Phase&nbsp;<small><time class="term">2023/11 - 2025/07</time>&nbsp;<span class="job-location">台北 (部分遠端)</span></small>
 
