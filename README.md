@@ -1,7 +1,7 @@
 # Hoyang Tsai
 
 <p class="resume-role">Senior Software Engineer</p>
-<p class="resume-specialty">Frontend Architecture, Web Applications &amp; AI-Assisted Engineering</p>
+<p class="resume-specialty">Frontend Architecture, Web Applications &amp; AI-Augmented Engineering</p>
 
 <ul class="list-unstyled">
   <li>
@@ -17,7 +17,7 @@
 
 ## Summary
 
-Senior Software Engineer with 14+ years of experience building web applications and complex interactive products. Specializes in React/TypeScript frontend architecture, performance optimization, and production troubleshooting. Earlier experience includes backend REST API development and Java-based enterprise systems. Applies automated testing, CI/CD, and AI-assisted engineering workflows to support software quality and delivery.
+Senior Software Engineer with 10+ years of experience building web applications and complex interactive products. Specializes in React/TypeScript frontend architecture, performance optimization, and production troubleshooting. Earlier experience includes backend REST API development and Java-based enterprise systems. Applies automated testing, CI/CD, and AI-augmented engineering workflows to improve software quality and accelerate reliable delivery.
 
 ## Experience
 
@@ -26,7 +26,7 @@ Senior Software Engineer with 14+ years of experience building web applications 
 - Resolved a production rendering regression by replacing per-frame scenegraph traversal with constant-time lookup
 - Diagnosed and fixed a production color picker crash associated with 293 Bugsnag events affecting 16 users
 - Owned Creator’s canvas text engine, delivering paragraph text and fixing font fallback, alignment, wrapping, and playback issues
-- Built a reusable AI-assisted engineering workflow spanning diagnosis, planning, implementation, code review, and verification across Creator’s repositories
+- Built a reusable AI-augmented engineering workflow spanning diagnosis, planning, implementation, code review, and verification across Creator’s repositories
 
 ### Senior Software Engineer, Phase&nbsp;<small><time class="term">2023/11 - 2025/07</time>&nbsp;<span class="job-location">Taipei, Taiwan (Hybrid)</span></small>
 
@@ -47,7 +47,7 @@ Senior Software Engineer with 14+ years of experience building web applications 
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a>&nbsp;<small><time class="term">2013/07 - 2015/08</time>&nbsp;<span class="job-location">Kaohsiung, Taiwan</span></small>
 
-- Worked across frontend interfaces and backend REST APIs in the full-stack development of web applications
+- Developed web applications spanning frontend interfaces and backend REST APIs
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a>&nbsp;<small><time class="term">2011/10 - 2013/04</time>&nbsp;<span class="job-location">Kaohsiung, Taiwan</span></small>
 
@@ -59,8 +59,8 @@ Senior Software Engineer with 14+ years of experience building web applications 
 ## Skills
 
 <div class="skills-list">
-<p><strong>Frontend &amp; Engineering</strong> React, TypeScript, JavaScript, Next.js, Vue, Vite, Canvas/SVG, Git, Playwright, CI/CD</p>
-<p><strong>AI-Assisted Engineering</strong> Prompt &amp; Context Engineering, Agentic Workflows, Tool Calling/MCP, Structured Outputs, Evaluation &amp; Verification, Human-in-the-Loop</p>
+<p><strong>Frontend &amp; Web</strong> React, TypeScript, JavaScript, Next.js, Vue, Vite, Canvas/SVG, Git, Playwright, CI/CD</p>
+<p><strong>AI-Augmented Engineering</strong> Claude Code, Multi-Agent Orchestration,Prompt &amp; Context Engineering, Agentic Workflows, Tool Calling/MCP, Evaluation &amp; Verification</p>
 </div>
 
 </div>
