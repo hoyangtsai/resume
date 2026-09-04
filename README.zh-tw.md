@@ -59,8 +59,8 @@
 ## 技能
 
 <div class="skills-list">
-<p><strong>前端與網頁開發</strong> React、TypeScript、JavaScript、Next.js、Vue、Vite、Canvas/SVG、Git、Playwright、CI/CD</p>
-<p><strong>AI 增強工程</strong> Claude Code, Multi-Agent Orchestration,Prompt &amp; Context Engineering, Agentic Workflows, Tool Calling/MCP, Evaluation &amp; Verification</p>
+<p><strong>前端與工程</strong> React、TypeScript、JavaScript、Next.js、Vue、Vite、Canvas/SVG、Git、Playwright、CI/CD</p>
+<p><strong>AI 增強工程</strong> Claude Code, Multi-Agent Orchestration, Prompt & Context Engineering, Agentic Workflows, Tool Calling/MCP, Evaluation & Verification</p>
 </div>
 
 </div>

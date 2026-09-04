@@ -59,8 +59,8 @@ Senior Software Engineer with 10+ years of experience building web applications 
 ## Skills
 
 <div class="skills-list">
-<p><strong>Frontend &amp; Web</strong> React, TypeScript, JavaScript, Next.js, Vue, Vite, Canvas/SVG, Git, Playwright, CI/CD</p>
-<p><strong>AI-Augmented Engineering</strong> Claude Code, Multi-Agent Orchestration,Prompt &amp; Context Engineering, Agentic Workflows, Tool Calling/MCP, Evaluation &amp; Verification</p>
+<p><strong>Frontend & Engineering</strong> React, TypeScript, JavaScript, Next.js, Vue, Vite, Canvas/SVG, Git, Playwright, CI/CD</p>
+<p><strong>AI-Augmented Engineering</strong> Claude Code, Multi-Agent Orchestration, Prompt & Context Engineering, Agentic Workflows, Tool Calling/MCP, Evaluation & Verification</p>
 </div>
 
 </div>
