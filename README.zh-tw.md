@@ -24,7 +24,7 @@
 ### Senior Front-end Engineer, <a href="https://lottiefiles.com" target="_blank">LottieFiles</a>&nbsp;<small><time class="term">2025/12 - 2026/08</time>&nbsp;<span class="job-location">遠端</span></small>
 
 - 於全球擁有 1600 萬以上使用者的 LottieFiles，負責開發動畫編輯器前端的核心功能，包含 Motion Token、Text Engine、State Machine及 Multi-animation 等，拓展動畫創作與互動設計能力
-- 提升動畫編輯器穩定性，橫跨 12 個相關專案追蹤與問題分，涵蓋 ThorVG WASM 渲染引擎、TypeScript/Rust 開發的 dotLottie Player、toolkit-js 轉譯層 及基於 QuickJS 的 Plugin 系統，並於負責的模組實作修復與整合
+- 提升動畫編輯器的穩定性，橫跨 12 個相關專案追蹤與問題分析，涵蓋 ThorVG WASM 渲染引擎、TypeScript/Rust 開發的 dotLottie Player、toolkit-js 轉譯層 及基於 QuickJS 的 Plugin 系統，並於負責的模組實作修復與整合
 - 從零建置 AI 工作流程，將 E2E 測試、驗證、影片分析、code review 等多項 AI skills 整合為 AI 代理協調（Agent Orchestration）架構，自動化從需求診斷到 PR 交付的完整開發流程
 
 ### Senior Software Engineer, Phase&nbsp;<small><time class="term">2023/11 - 2025/07</time>&nbsp;<span class="job-location">台北 (部分遠端)</span></small>
@@ -41,7 +41,7 @@
 
 ### 資深前端工程師, <a href="https://www.tencent.com" target="_blank">騰訊科技</a>&nbsp;<small><time class="term">2016/01 - 2021/03</time>&nbsp;<span class="job-location">深圳</span></small>
 
-- 開發數百萬用戶使用的金融科技 Web 應用程式與微信小程序，涵蓋黃金投資、外匯交易與資產管理產品
+- 為數百萬使用者開發金融科技 Web 應用程式與微信小程序，涵蓋黃金投資、外匯交易與資產管理等應用
 - 使用 React、Vue 與微信小程序開發支援 Android、iOS 與桌面環境的跨平台 UI 元件與應用程式
 
 ### 前端工程師, <a href="https://www.foxconn.com" target="_blank">鴻海精密工業</a>&nbsp;<small><time class="term">2013/07 - 2015/08</time>&nbsp;<span class="job-location">高雄</span></small>
