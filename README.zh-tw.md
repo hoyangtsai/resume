@@ -41,7 +41,7 @@
 
 ### 資深前端工程師, <a href="https://www.tencent.com" target="_blank">騰訊科技</a>&nbsp;<small><time class="term">2016/01 - 2021/03</time>&nbsp;<span class="job-location">深圳</span></small>
 
-- 為數百萬使用者開發金融科技 Web 應用程式與微信小程序，涵蓋黃金投資、外匯交易與資產管理等應用
+- 為數百萬使用者開發金融科技 Web 應用程式與微信小程序，涵蓋黃金投資、外匯交易與資產管理等產品
 - 使用 React、Vue 與微信小程序開發支援 Android、iOS 與桌面環境的跨平台 UI 元件與應用程式
 
 ### 前端工程師, <a href="https://www.foxconn.com" target="_blank">鴻海精密工業</a>&nbsp;<small><time class="term">2013/07 - 2015/08</time>&nbsp;<span class="job-location">高雄</span></small>

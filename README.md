@@ -29,8 +29,8 @@ Senior Software Engineer with 10+ years of experience specializing in React/Type
 
 ### Senior Software Engineer, Phase&nbsp;<small><time class="term">2023/11 - 2025/07</time>&nbsp;<span class="job-location">Taipei, Taiwan (Hybrid)</span></small>
 
-- Improved the stability of the Phase animation edtior, helping bring the product from development to public launch
-- Led front-end delivery of highly requested features based on use feedback, including SVG import and conversion, animation presets, real-time collaborative editing, and canvas-based text editing
+- Improved the stability of the Phase animation editor, helping bring the product from development to public launch
+- Led front-end delivery of highly requested features based on user feedback, including SVG import and conversion, animation presets, real-time collaborative editing, and canvas-based text editing
 - Built a Figma plugin to import designs into the Phase animation editor, supporting over 90% of Figma elements and converting component variants into interactive components
 
 ### Staff Software Engineer, <a href="https://shopback.com" target="_blank">ShopBack</a>&nbsp;<small><time class="term">2022/05 - 2023/01</time>&nbsp;<span class="job-location">Taipei, Taiwan</span></small>
