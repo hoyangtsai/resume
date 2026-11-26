@@ -36,7 +36,7 @@ Senior Software Engineer with 10+ years of experience specializing in React/Type
 ### Staff Software Engineer, <a href="https://shopback.com" target="_blank">ShopBack</a>&nbsp;<small><time class="term">2022/05 - 2023/01</time>&nbsp;<span class="job-location">Taipei, Taiwan</span></small>
 
 - Led frontend development of <a href="https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap" target="_blank"> Chrome extension</a>, with 800K+ installs across 9 regional markets
-- Optimized Chrome extension startup time by 91%, from 2.3 seconds to 0.2 seconds
+- Optimized Chrome extension's launch time by 91% compared with the previous version
 - Implemented automated end-to-end smoke tests to improve QA coverage for releases
 
 ### Senior Front-end Engineer, <a href="https://www.tencent.com" target="_blank">Tencent</a>&nbsp;<small><time class="term">2016/01 - 2021/03</time>&nbsp;<span class="job-location">Shenzhen, China</span></small>
@@ -46,7 +46,7 @@ Senior Software Engineer with 10+ years of experience specializing in React/Type
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a>&nbsp;<small><time class="term">2013/07 - 2015/08</time>&nbsp;<span class="job-location">Kaohsiung, Taiwan</span></small>
 
-- Developed web applications spanning frontend interfaces and backend REST APIs
+- Developed web applications spanning frontend user interfaces and backend APIs
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a>&nbsp;<small><time class="term">2011/10 - 2013/04</time>&nbsp;<span class="job-location">Kaohsiung, Taiwan</span></small>
 
@@ -58,7 +58,7 @@ Senior Software Engineer with 10+ years of experience specializing in React/Type
 ## Skills
 
 <div class="skills-list">
-<p><strong>Software Development</strong> React, TypeScript, JavaScript, Vue, Node.js, Canvas/SVG, WebAssembly Integration, Performance Optimization, E2E Testing, CI/CD</p>
+<p><strong>Software Development</strong> React, Vue, JavaScript, TypeScript, Node.js, PHP, Java, Canvas/SVG, WebAssembly, Performance Optimization, System Reliability, Docker, CI/CD</p>
 <p><strong>AI Engineering</strong> Claude Code, Agent Orchestration, Prompt & Context Engineering, Tool Calling/MCP, Evaluation & Verification</p>
 </div>
 

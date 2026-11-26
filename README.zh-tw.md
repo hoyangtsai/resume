@@ -29,15 +29,15 @@
 
 ### Senior Software Engineer, Phase&nbsp;<small><time class="term">2023/11 - 2025/07</time>&nbsp;<span class="job-location">台北 (部分遠端)</span></small>
 
-- 改善 Phase 動畫編輯器的穩定性，推動產品從開發階段走向公開上線
+- 提升 Phase 動畫編輯器的穩定性，推動產品從開發階段走向公開上線
 - 根據使用者回饋，主導多項高需求功能的前端交付，如 SVG 匯入轉譯、動畫預設集、即時線上共同編輯和 Canvas 文字編輯
 - 開發 Figma 外掛，支援將設計稿匯入至 Phase 動畫編輯器，涵蓋超過 90% 的 Figma 元件，並將組件變體轉換為互動元件
 
 ### Staff Software Engineer, <a href="https://shopback.com.tw" target="_blank">ShopBack</a>&nbsp;<small><time class="term">2022/05 - 2023/01</time>&nbsp;<span class="job-location">台北</span></small>
 
-- 主導 <a href="https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap" target="_blank"> Chrome 擴充功能</a> 的前端開發，累計超過 80 萬次安裝，支援 9 個地區市場
-- 優化 Chrome 擴充功能的啟動時間，從 2.3 秒降至 0.2 秒，降低 91%
-- 導入端到端自動化 smoke tests，強化版本發布的 QA 覆蓋率
+- 主導 <a href="https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap" target="_blank"> Chrome 擴充功能</a> 的前端開發，累計安裝數超過 80 萬次，支援 9 個地區市場
+- 優化 Chrome 擴充功能啟動時間，較前一版本縮短 91%
+- 加強版本發布的 QA 覆蓋率，導入 E2E 自動化 smoke tests
 
 ### 資深前端工程師, <a href="https://www.tencent.com" target="_blank">騰訊科技</a>&nbsp;<small><time class="term">2016/01 - 2021/03</time>&nbsp;<span class="job-location">深圳</span></small>
 
@@ -46,7 +46,7 @@
 
 ### 前端工程師, <a href="https://www.foxconn.com" target="_blank">鴻海精密工業</a>&nbsp;<small><time class="term">2013/07 - 2015/08</time>&nbsp;<span class="job-location">高雄</span></small>
 
-- 開發 Web 應用程式的前端介面與後端 REST APIs
+- 開發 Web 應用程式的前端使用者介面與後端 APIs
 
 ### 軟體工程師, <a href="http://www.hismax.com.tw" target="_blank">富博科技</a>&nbsp;<small><time class="term">2011/10 - 2013/04</time>&nbsp;<span class="job-location">高雄</span></small>
 
@@ -58,7 +58,7 @@
 ## 技能
 
 <div class="skills-list">
-<p><strong>軟體開發</strong> React, TypeScript, JavaScript, Vue, Node.js, Canvas/SVG, WebAssembly Integration, Performance Optimization, E2E Testing, CI/CD</p>
+<p><strong>軟體開發</strong> React, Vue, JavaScript, TypeScript, Node.js, PHP, Java, Canvas/SVG, WebAssembly, Performance Optimization, System Reliability, Docker, CI/CD</p>
 <p><strong>AI 工程</strong> Claude Code, Agent Orchestration, Prompt & Context Engineering, Tool Calling/MCP, Evaluation & Verification</p>
 </div>
 
