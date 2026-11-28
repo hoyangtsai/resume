@@ -1,7 +1,7 @@
 # Hoyang Tsai
 
 <p class="resume-role">Senior Software Engineer</p>
-<p class="resume-specialty">Frontend Architecture, Web Applications &amp; AI-Augmented Engineering</p>
+<p class="resume-specialty">Application Architecture, Full-Stack Development and AI-Augmented Engineering</p>
 
 <ul class="list-unstyled">
   <li>
@@ -17,7 +17,7 @@
 
 ## Summary
 
-Senior Software Engineer with 10+ years of experience specializing in React/TypeScript front-end architecture, complex interactive applications, and performance optimization. Experienced in developing core animation editor features, troubleshooting across TypeScript, Rust, and WASM, and bringing products to public launch. Built AI agent orchestration workflows that integrate testing, verification, and code review to automate development from requirements analysis to PR delivery.
+Senior software engineer with 10+ years of experience building complex applications with React and TypeScript, plus back-end experience with Node.js, PHP and Java. Developed core features for animation editors at LottieFiles and Phase, and helped bring Phase's animation editor to public launch. Optimized Chrome extension performance and quality at ShopBack. Built AI agent orchestration workflows that integrate testing, verification, and code review to automate development from requirements analysis to PR delivery.
 
 ## Experience
 
@@ -46,7 +46,7 @@ Senior Software Engineer with 10+ years of experience specializing in React/Type
 
 ### Front-end Engineer, <a href="https://www.foxconn.com" target="_blank">Foxconn</a>&nbsp;<small><time class="term">2013/07 - 2015/08</time>&nbsp;<span class="job-location">Kaohsiung, Taiwan</span></small>
 
-- Developed web applications spanning frontend user interfaces and backend APIs
+- Developed front-end user interfaces and back-end APIs for web applications
 
 ### Software Engineer, <a href="http://www.hismax.com.tw" target="_blank">Hismax</a>&nbsp;<small><time class="term">2011/10 - 2013/04</time>&nbsp;<span class="job-location">Kaohsiung, Taiwan</span></small>
 

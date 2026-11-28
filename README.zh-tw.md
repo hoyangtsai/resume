@@ -1,7 +1,7 @@
 # 蔡和洋
 
 <p class="resume-role">資深軟體工程師</p>
-<p class="resume-specialty">前端架構、Web 應用與 AI 增強工程</p>
+<p class="resume-specialty">應用架構、全端開發與 AI 增強工程</p>
 
 <ul class="list-unstyled">
   <li>
@@ -17,7 +17,7 @@
 
 ## 摘要
 
-具備 10 年以上經驗的資深軟體工程師，專注於 React／TypeScript 前端架構、複雜互動應用與效能最佳化。具備動畫編輯器核心功能開發、跨 TypeScript／Rust／WASM 技術堆疊問題排查，以及推動產品公開上線的實務經驗。建置 AI 代理協調工作流程，整合測試、驗證與程式碼審查，自動化從需求分析到 PR 交付的開發流程。
+具備 10 年以上經驗的資深軟體工程師，專注於以 React 與 TypeScript 開發複雜的應用程式，並具備 Node.js、PHP 和 Java 後端經驗。曾於 LottieFiles 與 Phase 開發動畫編輯器的核心功能，並協助 Phase 動畫編輯器公開上線。在 ShopBack 優化 Chrome 擴充功能的效能和品質。建置 AI 代理協調工作流程，整合測試、驗證與程式碼審查，自動化從需求分析到 PR 交付的開發流程。
 
 ## 經歷
 
